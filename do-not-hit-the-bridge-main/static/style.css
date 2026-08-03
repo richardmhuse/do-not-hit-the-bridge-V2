@@ -1,0 +1,468 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Apple-inspired palette */
+  --background-top: #fafafa;
+  --background-bottom: #eceef2;
+
+  --card: rgba(255,255,255,0.72);
+  --card-border: rgba(255,255,255,0.55);
+
+  --text: #1d1d1f;
+  --secondary: #6e6e73;
+
+  --accent: #007AFF;
+  --accent-soft: rgba(0,122,255,.15);
+
+  --success: #34C759;
+  --warning: #FF9F0A;
+  --danger: #FF453A;
+
+  --shadow:
+      0 8px 30px rgba(0,0,0,.08),
+      0 2px 8px rgba(0,0,0,.04);
+
+  --radius: 26px;
+
+  --font-body:
+      -apple-system,
+      BlinkMacSystemFont,
+      "SF Pro Display",
+      "Segoe UI",
+      Inter,
+      sans-serif;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+html,
+body{
+
+    margin:0;
+    padding:0;
+    min-height:100vh;
+
+    font-family:var(--font-body);
+
+    color:var(--text);
+
+    background:
+        radial-gradient(circle at top,
+            #ffffff 0%,
+            var(--background-top) 35%,
+            var(--background-bottom) 100%);
+}
+
+.wrap{
+
+    max-width:980px;
+
+    margin:auto;
+
+    padding:40px 22px 60px;
+}
+
+/*------------------------------------
+Status Bar
+------------------------------------*/
+
+.status-bar{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    background:rgba(255,255,255,.55);
+
+    backdrop-filter:blur(18px);
+
+    -webkit-backdrop-filter:blur(18px);
+
+    border:1px solid rgba(255,255,255,.6);
+
+    border-radius:18px;
+
+    padding:14px 18px;
+
+    color:var(--secondary);
+
+    font-size:14px;
+
+    font-weight:500;
+
+    box-shadow:var(--shadow);
+
+    margin-bottom:26px;
+}
+
+.status-dot{
+
+    width:10px;
+
+    height:10px;
+
+    border-radius:50%;
+
+    background:var(--success);
+
+    animation:pulse 2.5s infinite;
+}
+
+.status-dot.stale{
+
+    background:var(--warning);
+}
+
+@keyframes pulse{
+
+    0%,100%{opacity:1;}
+
+    50%{opacity:.45;}
+}
+
+/*------------------------------------
+Hero Card
+------------------------------------*/
+
+.hero{
+
+    background:var(--card);
+
+    backdrop-filter:blur(24px);
+
+    -webkit-backdrop-filter:blur(24px);
+
+    border:1px solid var(--card-border);
+
+    border-radius:var(--radius);
+
+    padding:28px 32px;
+
+    box-shadow:var(--shadow);
+
+    margin-bottom:22px;
+
+    transition:.25s ease;
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    align-items:stretch;
+
+    gap:24px 28px;
+}
+
+.hero:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:
+        0 14px 40px rgba(0,0,0,.10);
+}
+
+.hero-main{
+
+    flex:1 1 220px;
+
+    min-width:0;
+}
+
+.hero-label{
+
+    font-size:14px;
+
+    font-weight:600;
+
+    color:var(--secondary);
+
+    margin:0 0 14px;
+
+    letter-spacing:.02em;
+}
+
+.hero-readout{
+
+    font-size:clamp(56px,9vw,88px);
+
+    font-weight:700;
+
+    line-height:1;
+
+    color:var(--text);
+
+    letter-spacing:-.05em;
+
+    margin:0;
+
+    font-variant-numeric:tabular-nums;
+}
+
+.hero-readout .unit{
+
+    font-size:.28em;
+
+    color:var(--secondary);
+
+    margin-left:8px;
+
+    font-weight:500;
+}
+
+.hero-readout.near-limit-high{
+
+    color:var(--warning);
+}
+
+.hero-readout.near-limit-low{
+
+    color:var(--danger);
+}
+
+.hero-meta{
+
+    margin-top:14px;
+
+    color:var(--secondary);
+
+    font-size:13px;
+
+    line-height:1.5;
+}
+
+/* Tide cycle cards (current / next) */
+
+.hero-cycles{
+
+    display:flex;
+
+    flex:1 1 320px;
+
+    gap:12px;
+
+    align-items:stretch;
+
+    min-width:0;
+}
+
+.cycle-card{
+
+    flex:1 1 0;
+
+    background:rgba(255,255,255,.55);
+
+    border:1px solid rgba(0,0,0,.06);
+
+    border-radius:16px;
+
+    padding:14px 16px;
+
+    min-width:0;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:6px;
+}
+
+.cycle-label{
+
+    margin:0;
+
+    font-size:11px;
+
+    font-weight:600;
+
+    letter-spacing:.04em;
+
+    text-transform:uppercase;
+
+    color:var(--secondary);
+}
+
+.cycle-range{
+
+    margin:0;
+
+    font-size:15px;
+
+    font-weight:600;
+
+    color:var(--text);
+
+    line-height:1.35;
+
+    font-variant-numeric:tabular-nums;
+}
+
+.cycle-detail{
+
+    margin:0;
+
+    font-size:12px;
+
+    color:var(--secondary);
+
+    line-height:1.4;
+}
+
+.cycle-card.is-open .cycle-range{
+
+    color:var(--success);
+}
+
+.cycle-card.is-closed .cycle-range{
+
+    color:var(--danger);
+}
+
+.cycle-card.is-pending .cycle-range{
+
+    color:var(--accent);
+}
+
+/*------------------------------------
+Chart
+------------------------------------*/
+
+.chart-panel{
+
+    background:var(--card);
+
+    backdrop-filter:blur(24px);
+
+    -webkit-backdrop-filter:blur(24px);
+
+    border:1px solid var(--card-border);
+
+    border-radius:var(--radius);
+
+    box-shadow:var(--shadow);
+
+    padding:18px;
+
+    transition:.25s ease;
+}
+
+.chart-panel:hover{
+
+    transform:translateY(-2px);
+}
+
+#chart{
+
+    width:100%;
+
+    height:430px;
+
+    /* Allow one-finger vertical page scroll; horizontal pan is handled in JS on the axis */
+    touch-action: pan-y;
+}
+
+#chart .js-plotly-plot,
+#chart .plot-container,
+#chart .svg-container{
+
+    touch-action: pan-y;
+}
+
+/*------------------------------------
+Footer
+------------------------------------*/
+
+.footer{
+
+    margin-top:24px;
+
+    color:var(--secondary);
+
+    font-size:13px;
+
+    line-height:1.7;
+}
+
+.footer a{
+
+    color:var(--accent);
+
+    text-decoration:none;
+}
+
+.footer a:hover{
+
+    text-decoration:underline;
+}
+
+/*------------------------------------
+Error
+------------------------------------*/
+
+.error-banner{
+
+    background:rgba(255,69,58,.08);
+
+    border:1px solid rgba(255,69,58,.25);
+
+    color:var(--danger);
+
+    border-radius:18px;
+
+    padding:16px;
+
+    margin-bottom:20px;
+
+    display:none;
+}
+
+.error-banner.visible{
+
+    display:block;
+}
+
+/*------------------------------------
+Responsive
+------------------------------------*/
+
+@media (max-width:700px){
+
+.hero{
+
+    padding:22px;
+
+    flex-direction:column;
+}
+
+/* Mobile order: current/next cycle on top, water level at bottom */
+.hero-main{
+
+    order: 2;
+}
+
+.hero-cycles{
+
+    flex-direction:column;
+
+    order: 1;
+}
+
+.hero-readout{
+
+    font-size:52px;
+}
+
+#chart{
+
+    height:320px;
+}
+
+.wrap{
+
+    padding:20px 16px 40px;
+}
+
+}
