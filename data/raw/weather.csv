@@ -350,3 +350,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-12 02:00:00+00:00,83,SW,Mostly Clear,False,9.0
 2026-08-12 03:00:00+00:00,82,SW,Mostly Clear,False,9.0
 2026-08-12 04:00:00+00:00,82,SW,Mostly Clear,False,9.0
+2026-08-12 05:00:00+00:00,81,SW,Slight Chance Showers And Thunderstorms,False,9.0
+2026-08-12 06:00:00+00:00,80,SW,Partly Cloudy,False,9.0
