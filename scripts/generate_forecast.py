@@ -33,7 +33,7 @@ TIDES_PATH = Path(DATA_RAW) / "tides.csv"
 
 HORIZON_HOURS = 36
 STEP_HOURS = 1
-BLEND_ALPHA = 1.0  # 1.0 = pure residual, 0.0 = pure tide
+BLEND_ALPHA = 0.8  # 1.0 = pure residual, 0.0 = pure tide
 
 
 def load_model_and_meta():
