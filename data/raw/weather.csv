@@ -402,3 +402,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-14 06:00:00+00:00,82,SW,Partly Cloudy,False,8.0
 2026-08-14 07:00:00+00:00,81,SW,Partly Cloudy,False,8.0
 2026-08-14 08:00:00+00:00,80,SW,Partly Cloudy,False,8.0
+2026-08-14 09:00:00+00:00,80,SW,Partly Cloudy,False,8.0
+2026-08-14 10:00:00+00:00,80,SW,Mostly Sunny,True,7.0
