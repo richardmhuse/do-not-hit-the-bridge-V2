@@ -321,6 +321,19 @@ def fetch_tide_data(force: bool = False) -> dict:
         "forecast_source": "xgboost" if ml_forecast is not None else "harmonic_gap",
     }
 
+    # Pass through multi-horizon / crossover fields when present (safe no-op for old JSON)
+    if ml_forecast is not None:
+        for key in (
+            "crossovers",
+            "horizon_summary",
+            "crossover_threshold_ft",
+            "models_used",
+            "model_mae",
+            "model_rmse",
+        ):
+            if key in ml_forecast:
+                payload[key] = ml_forecast[key]
+
     _cache["timestamp"] = now
     _cache["payload"] = payload
     return payload
