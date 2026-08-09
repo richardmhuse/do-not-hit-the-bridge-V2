@@ -9,7 +9,7 @@ services:
       - key: GITHUB_OWNER
         value: richardmhuse
       - key: DATA_REPO
-        value: do-not-hit-the-bridge
+        value: do-not-hit-the-bridge-V2
       - key: DATA_BRANCH
         value: main
       - key: DATA_PATH
