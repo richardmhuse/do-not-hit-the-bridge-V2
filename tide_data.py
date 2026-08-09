@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
 # Configuration (override via environment variables on Render)
 # ---------------------------------------------------------------------------
 GITHUB_OWNER = os.environ.get("GITHUB_OWNER", "richardmhuse")
-DATA_REPO = os.environ.get("DATA_REPO", "do-not-hit-the-bridge")
+DATA_REPO = os.environ.get("DATA_REPO", "do-not-hit-the-bridge-V2")
 DATA_BRANCH = os.environ.get("DATA_BRANCH", "main")
 DATA_PATH = os.environ.get("DATA_PATH", "data/raw/measured.csv")
 CACHE_TTL_SECONDS = int(os.environ.get("CACHE_TTL_SECONDS", "60"))
