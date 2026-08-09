@@ -1,6 +1,7 @@
 {
-  "trained_at": "2026-08-09T17:20:35.905646+00:00",
-  "target": "tide_residual",
+  "trained_at": "2026-08-09T17:20:40.837069+00:00",
+  "name": "cross_falling_1h",
+  "task": "crossover_falling",
   "feature_cols": [
     "tide_ft",
     "temperature_f",
@@ -33,15 +34,29 @@
     "tide_residual_lag12",
     "tide_residual_lag24"
   ],
-  "n_train": 3405,
-  "n_test": 1295,
-  "mae": 0.08548472915571254,
-  "rmse": 0.12793625005042028,
-  "test_days": 5,
+  "metrics": {
+    "accuracy": 0.9623777276147479,
+    "precision": 0.9166666666666666,
+    "recall": 0.6416666666666667,
+    "f1": 0.7549019607843137,
+    "auc": 0.9943755169561621,
+    "brier": 0.02782549522817135,
+    "n_test": 1329,
+    "pos_rate_test": 0.09029345372460497,
+    "scale_pos_weight": 10.663194444444445,
+    "n_train": 3359,
+    "lead_hours": 1,
+    "steps": 12
+  },
+  "horizon_hours": 1,
+  "threshold_ft": 1.86,
+  "direction": "falling",
+  "target": "cross_falling_1h",
   "xgb_params": {
     "n_estimators": 400,
     "max_depth": 6,
     "learning_rate": 0.05
   },
-  "note": "Legacy nowcast file; prefer xgb_nowcast.json + multi-horizon models"
+  "test_days": 5,
+  "eval_note": "Features at t; label = crossover of 1.86 ft occurred in (t, t+1h] on historical hold-out"
 }
