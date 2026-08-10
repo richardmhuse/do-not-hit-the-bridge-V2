@@ -454,3 +454,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-16 10:00:00+00:00,78,NE,Partly Sunny,True,6.0
 2026-08-16 11:00:00+00:00,78,NE,Partly Sunny,True,6.0
 2026-08-16 12:00:00+00:00,80,NE,Mostly Sunny,True,6.0
+2026-08-16 13:00:00+00:00,81,NE,Mostly Sunny,True,7.0
+2026-08-16 14:00:00+00:00,83,E,Mostly Sunny,True,7.0
