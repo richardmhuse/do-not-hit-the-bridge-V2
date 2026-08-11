@@ -489,3 +489,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-17 21:00:00+00:00,91,S,Sunny,True,10.0
 2026-08-17 22:00:00+00:00,90,S,Mostly Clear,False,10.0
 2026-08-17 23:00:00+00:00,88,SW,Mostly Clear,False,9.0
+2026-08-18 00:00:00+00:00,86,SW,Slight Chance Showers And Thunderstorms,False,9.0
+2026-08-18 01:00:00+00:00,84,SW,Slight Chance Showers And Thunderstorms,False,8.0
+2026-08-18 02:00:00+00:00,83,SW,Slight Chance Showers And Thunderstorms,False,7.0
