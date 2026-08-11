@@ -498,3 +498,4 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-18 06:00:00+00:00,80,SW,Partly Cloudy,False,6.0
 2026-08-18 07:00:00+00:00,80,W,Partly Cloudy,False,6.0
 2026-08-18 08:00:00+00:00,79,W,Partly Cloudy,False,6.0
+2026-08-18 09:00:00+00:00,78,W,Partly Cloudy,False,6.0
