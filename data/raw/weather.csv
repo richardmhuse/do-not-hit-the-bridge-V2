@@ -481,3 +481,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-17 13:00:00+00:00,83,W,Sunny,True,5.0
 2026-08-17 14:00:00+00:00,86,W,Sunny,True,6.0
 2026-08-17 15:00:00+00:00,88,W,Sunny,True,7.0
+2026-08-17 16:00:00+00:00,89,SW,Sunny,True,8.0
+2026-08-17 17:00:00+00:00,90,SW,Sunny,True,9.0
+2026-08-17 18:00:00+00:00,90,S,Sunny,True,9.0
