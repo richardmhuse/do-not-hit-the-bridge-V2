@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-08-13T13:02:32.465251+00:00",
+  "trained_at": "2026-08-13T13:08:25.218621+00:00",
   "name": "nowcast",
   "task": "nowcast",
   "feature_cols": [

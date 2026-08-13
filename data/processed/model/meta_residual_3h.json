@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-08-13T13:02:34.600215+00:00",
+  "trained_at": "2026-08-13T13:08:27.333045+00:00",
   "name": "residual_3h",
   "task": "horizon_residual",
   "feature_cols": [
