@@ -32,9 +32,37 @@ const SHORT_TIME_FORMATTER = new Intl.DateTimeFormat("en-US", {
   hour12: true,
 });
 
+const DATE_ONLY_FORMATTER = new Intl.DateTimeFormat("en-US", {
+  timeZone: DISPLAY_TIME_ZONE,
+  month: "short",
+  day: "numeric",
+});
+
+const TIME_ONLY_FORMATTER = new Intl.DateTimeFormat("en-US", {
+  timeZone: DISPLAY_TIME_ZONE,
+  hour: "numeric",
+  minute: "2-digit",
+  hour12: true,
+});
+
 function formatShortLocal(isoOrMs) {
   const d = typeof isoOrMs === "number" ? new Date(isoOrMs) : new Date(isoOrMs);
   return SHORT_TIME_FORMATTER.format(d);
+}
+
+/** Compact cycle range: "Aug 13: 6:01 AM – 11:38 AM" (same day) or
+ *  "Aug 13: 10:00 PM – Aug 14: 3:15 AM" (spans midnight). */
+function formatCycleRange(startMs, endMs) {
+  const start = new Date(startMs);
+  const end = new Date(endMs);
+  const startDate = DATE_ONLY_FORMATTER.format(start);
+  const endDate = DATE_ONLY_FORMATTER.format(end);
+  const startTime = TIME_ONLY_FORMATTER.format(start);
+  const endTime = TIME_ONLY_FORMATTER.format(end);
+  if (startDate === endDate) {
+    return `${startDate}: ${startTime} – ${endTime}`;
+  }
+  return `${startDate}: ${startTime} – ${endDate}: ${endTime}`;
 }
 
 const VIEWER_PARTS_FORMATTER = new Intl.DateTimeFormat("en-US", {
@@ -463,8 +491,7 @@ function updateCycleCards(data) {
 
   if (current) {
     currentCard?.classList.add("is-open");
-    currentRangeEl.textContent =
-      formatShortLocal(current.startMs) + " – " + formatShortLocal(current.endMs);
+    currentRangeEl.textContent = formatCycleRange(current.startMs, current.endMs);
     const remainingMs = Math.max(0, current.endMs - nowMs);
     const remainingHrs = remainingMs / 3600000;
     currentDetailEl.textContent =
@@ -487,8 +514,7 @@ function updateCycleCards(data) {
 
   if (next) {
     nextCard?.classList.add("is-pending");
-    nextRangeEl.textContent =
-      formatShortLocal(next.startMs) + " – " + formatShortLocal(next.endMs);
+    nextRangeEl.textContent = formatCycleRange(next.startMs, next.endMs);
     const untilMs = Math.max(0, next.startMs - nowMs);
     const untilHrs = untilMs / 3600000;
     nextDetailEl.textContent =
