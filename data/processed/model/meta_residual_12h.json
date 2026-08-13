@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-08-13T12:26:11.078052+00:00",
+  "trained_at": "2026-08-13T12:44:35.615306+00:00",
   "name": "residual_12h",
   "task": "horizon_residual",
   "feature_cols": [
@@ -12,6 +12,9 @@
     "rain_24h",
     "rain_72h",
     "rain_7d",
+    "measured_native_ft",
+    "measured_aligned_ft",
+    "is_sensor_floor",
     "hour_sin",
     "hour_cos",
     "doy_sin",
@@ -35,12 +38,12 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "residual_mae_ft": 0.5349454002781896,
-    "residual_rmse_ft": 0.6784051877195099,
+    "residual_mae_ft": 0.5447112259681002,
+    "residual_rmse_ft": 0.6919204625103743,
     "n_test": 1252,
-    "level_mae_ft": 0.5349454002781896,
-    "level_rmse_ft": 0.6784051877195099,
-    "n_train": 4268,
+    "level_mae_ft": 0.5447112259681002,
+    "level_rmse_ft": 0.6919204625103743,
+    "n_train": 4271,
     "steps": 144,
     "lead_hours": 12
   },

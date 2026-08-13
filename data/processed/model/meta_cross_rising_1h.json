@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-08-13T12:26:13.558341+00:00",
+  "trained_at": "2026-08-13T12:44:36.949629+00:00",
   "name": "cross_rising_1h",
   "task": "crossover_rising",
   "feature_cols": [
@@ -12,6 +12,9 @@
     "rain_24h",
     "rain_72h",
     "rain_7d",
+    "measured_native_ft",
+    "measured_aligned_ft",
+    "is_sensor_floor",
     "hour_sin",
     "hour_cos",
     "doy_sin",
@@ -35,16 +38,16 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "accuracy": 0.9774011299435028,
-    "precision": 0.9893617021276596,
-    "recall": 0.775,
-    "f1": 0.8691588785046729,
-    "auc": 0.9929028894846589,
-    "brier": 0.020517650991678238,
+    "accuracy": 0.9790153349475383,
+    "precision": 1.0,
+    "recall": 0.7833333333333333,
+    "f1": 0.8785046728971962,
+    "auc": 0.9911155793863569,
+    "brier": 0.01911364682018757,
     "n_test": 1239,
     "pos_rate_test": 0.09685230024213075,
-    "scale_pos_weight": 10.862903225806452,
-    "n_train": 4413,
+    "scale_pos_weight": 10.870967741935484,
+    "n_train": 4416,
     "lead_hours": 1,
     "steps": 12
   },
