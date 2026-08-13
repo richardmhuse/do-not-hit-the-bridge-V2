@@ -1,20 +1,19 @@
 """
-Generate a multi-step forecast past "now" using trained XGBoost models.
+Turn the combined time-series into a model-ready feature matrix.
 
-Design (avoids the recursive "strange shape" problem):
-  1. Astronomical tide is the base shape (dense, smooth).
-  2. Residual corrections come from *direct* horizon models
-     (residual_1h … residual_36h) evaluated once on current features —
-     never fed back into their own lags.
-  3. Residual is interpolated across lead time and blended with a
-     lead-dependent alpha (stronger near "now", weaker farther out).
-  4. Nowcast model only fills the short gap between last measurement
-     and "now" if needed.
-  5. Crossover classifiers still run for operational alerts.
+Datum alignment
+---------------
+The creek gauge bottoms out near 0 ft (sensor / bed floor). Astronomical
+tide (NOAA harmonics) is on a different vertical datum and can go negative
+(e.g. below MLLW).  A constant offset is estimated from mid/high water
+(where the sensor is not clipped) so that:
 
-Writes:
-  data/processed/forecast.csv
-  data/processed/forecast.json
+    measured_aligned ≈ tide_ft + residual
+
+is well-centered.  Residual models then learn surge/weather error instead of
+a fixed vertical mismatch.  The offset is written to
+data/processed/datum_offset.json so forecast generation can convert back to
+the gauge's native scale for the dashboard.
 """
 from __future__ import annotations
 
@@ -24,568 +23,246 @@ from datetime import datetime, timezone
 
 import numpy as np
 import pandas as pd
-import xgboost as xgb
 
-try:
-    from config import DATA_PROCESSED, DATA_RAW
-except ImportError:
-    from config import DATA_PROCESSED
-    DATA_RAW = Path("data/raw")
+from config import DATA_PROCESSED
 
+COMBINED_PATH = DATA_PROCESSED / "combined.csv"
 FEATURES_PATH = DATA_PROCESSED / "features.csv"
-MODEL_DIR = DATA_PROCESSED / "model"
-FORECAST_CSV = DATA_PROCESSED / "forecast.csv"
-FORECAST_JSON = DATA_PROCESSED / "forecast.json"
-TIDES_PATH = Path(DATA_RAW) / "tides.csv"
+DATUM_OFFSET_PATH = DATA_PROCESSED / "datum_offset.json"
 
-HORIZONS_H = [1, 3, 6, 12, 24, 36]
-CROSSOVER_THRESH_FT = 1.86
-HORIZON_HOURS = 36
-# Dense output so the chart doesn't linearly chord hourly samples
-OUTPUT_STEP_MINUTES = 15
-# Residual trust: full weight near now, decay toward pure tide at long lead
-BLEND_ALPHA_NEAR = 0.85   # at lead ≈ 0–1 h
-BLEND_ALPHA_FAR = 0.25    # at lead ≥ max horizon
+TARGET_CANDIDATES = [
+    "measured_gauge_height_ft",
+    "measured_water_level",
+    "measured_Water Level",
+    "measured_depth",
+    "measured_value",
+]
 
-
-# ---------------------------------------------------------------------------
-# Model loading
-# ---------------------------------------------------------------------------
-def _load_booster(path: Path, classifier: bool = False):
-    if not path.exists():
-        return None
-    m = xgb.XGBClassifier() if classifier else xgb.XGBRegressor()
-    m.load_model(path)
-    return m
+# Rows at or below this are treated as sensor-floor clipped (unreliable for
+# estimating the vertical offset against lunar tide).
+SENSOR_FLOOR_FT = 0.30
 
 
-def load_models():
-    models = {
-        "nowcast": None,
-        "residual": {},
-        "cross_rising": {},
-        "cross_falling": {},
+def find_target(df: pd.DataFrame) -> str:
+    for c in TARGET_CANDIDATES:
+        if c in df.columns:
+            return c
+    measured_cols = [c for c in df.columns if c.startswith("measured_")]
+    if not measured_cols:
+        raise ValueError("No measured_* column found")
+    print(f"Using {measured_cols[0]} as target")
+    return measured_cols[0]
+
+
+def estimate_datum_offset(
+    measured: pd.Series,
+    tide: pd.Series,
+    floor_ft: float = SENSOR_FLOOR_FT,
+) -> dict:
+    """
+    Estimate constant vertical offset so that
+
+        measured ≈ tide + offset + residual
+
+    only using rows where the sensor is clearly above its floor (not clipped).
+    Returns offset such that:
+
+        measured_aligned = measured - offset
+        residual = measured_aligned - tide   (= measured - tide - offset)
+
+    i.e. offset ≈ median(measured - tide) above the floor.
+    """
+    both = pd.DataFrame({"m": measured, "t": tide}).dropna()
+    if both.empty:
+        return {
+            "offset_ft": 0.0,
+            "method": "none",
+            "n_used": 0,
+            "floor_ft": floor_ft,
+        }
+
+    above = both["m"] > floor_ft
+    sample = both.loc[above]
+    if len(sample) < 20:
+        sample = both  # fall back to everything
+
+    diff = sample["m"] - sample["t"]
+    offset_median = float(diff.median())
+    offset_mean = float(diff.mean())
+
+    # Robust: also report OLS slope in case datums differ by more than a shift
+    A = np.column_stack([sample["t"].to_numpy(), np.ones(len(sample))])
+    try:
+        coef, *_ = np.linalg.lstsq(A, sample["m"].to_numpy(), rcond=None)
+        slope, intercept = float(coef[0]), float(coef[1])
+    except Exception:
+        slope, intercept = 1.0, offset_median
+
+    # Prefer median residual as the operational constant shift (stable, simple)
+    offset = offset_median
+
+    return {
+        "offset_ft": offset,
+        "offset_mean_ft": offset_mean,
+        "ols_slope": slope,
+        "ols_intercept_ft": intercept,
+        "method": "median(measured - tide) where measured > floor",
+        "n_used": int(len(sample)),
+        "n_total": int(len(both)),
+        "floor_ft": floor_ft,
+        "measured_min": float(both["m"].min()),
+        "measured_max": float(both["m"].max()),
+        "tide_min": float(both["t"].min()),
+        "tide_max": float(both["t"].max()),
+        "pct_floored": float((both["m"] <= floor_ft).mean() * 100.0),
     }
 
-    nowcast_path = MODEL_DIR / "xgb_nowcast.json"
-    nowcast_meta = MODEL_DIR / "meta_nowcast.json"
-    if nowcast_path.exists() and nowcast_meta.exists():
-        with open(nowcast_meta) as f:
-            meta = json.load(f)
-        models["nowcast"] = (_load_booster(nowcast_path), meta)
-    else:
-        legacy_path = MODEL_DIR / "xgb_model.json"
-        legacy_meta = MODEL_DIR / "model_meta.json"
-        if legacy_path.exists() and legacy_meta.exists():
-            with open(legacy_meta) as f:
-                meta = json.load(f)
-            models["nowcast"] = (_load_booster(legacy_path), meta)
 
-    for h in HORIZONS_H:
-        r_path = MODEL_DIR / f"xgb_residual_{h}h.json"
-        r_meta = MODEL_DIR / f"meta_residual_{h}h.json"
-        if r_path.exists() and r_meta.exists():
-            with open(r_meta) as f:
-                meta = json.load(f)
-            models["residual"][h] = (_load_booster(r_path), meta)
-
-        for direction in ("rising", "falling"):
-            c_path = MODEL_DIR / f"xgb_cross_{direction}_{h}h.json"
-            c_meta = MODEL_DIR / f"meta_cross_{direction}_{h}h.json"
-            if c_path.exists() and c_meta.exists():
-                with open(c_meta) as f:
-                    meta = json.load(f)
-                models[f"cross_{direction}"][h] = (
-                    _load_booster(c_path, classifier=True),
-                    meta,
-                )
-
-    return models
+def add_time_features(df: pd.DataFrame) -> pd.DataFrame:
+    idx = df.index
+    hour = idx.hour + idx.minute / 60.0
+    df["hour_sin"] = np.sin(2 * np.pi * hour / 24)
+    df["hour_cos"] = np.cos(2 * np.pi * hour / 24)
+    doy = idx.dayofyear
+    df["doy_sin"] = np.sin(2 * np.pi * doy / 365.25)
+    df["doy_cos"] = np.cos(2 * np.pi * doy / 365.25)
+    return df
 
 
-# ---------------------------------------------------------------------------
-# Tide helpers
-# ---------------------------------------------------------------------------
-def load_future_tide(start_time: pd.Timestamp, hours: int = 48) -> pd.Series:
-    if not TIDES_PATH.exists():
-        print(f"  ⚠ tides file missing: {TIDES_PATH}")
-        return pd.Series(dtype=float)
-
-    tides = pd.read_csv(TIDES_PATH, parse_dates=["t"])
-    if "t" not in tides.columns:
-        print("  ⚠ tides.csv has no 't' column")
-        return pd.Series(dtype=float)
-
-    t = pd.to_datetime(tides["t"], utc=True, errors="coerce")
-    tides = tides.assign(t=t).dropna(subset=["t"]).set_index("t").sort_index()
-
-    col = "tide_ft" if "tide_ft" in tides.columns else ("v" if "v" in tides.columns else None)
-    if col is None:
-        print("  ⚠ tides.csv has no tide_ft / v column")
-        return pd.Series(dtype=float)
-
-    end = start_time + pd.Timedelta(hours=hours)
-    start = start_time - pd.Timedelta(hours=6)
-    window = tides.loc[(tides.index >= start) & (tides.index <= end), col].astype(float)
-    return window
+def add_lag_features(df: pd.DataFrame, col: str, lags) -> pd.DataFrame:
+    for lag in lags:
+        df[f"{col}_lag{lag}"] = df[col].shift(lag)
+    return df
 
 
-def dense_tide_series(
-    future_tides: pd.Series,
-    start: pd.Timestamp,
-    end: pd.Timestamp,
-    step_minutes: int = OUTPUT_STEP_MINUTES,
-) -> pd.Series:
-    """
-    Interpolate hourly (or coarser) astronomical tide onto a regular grid.
-    Uses time-based linear interpolation so the curve is smooth.
-    """
-    if future_tides is None or future_tides.empty:
-        return pd.Series(dtype=float)
-
-    s = future_tides.copy().sort_index()
-    # Ensure UTC
-    if s.index.tz is None:
-        s.index = s.index.tz_localize("UTC")
-    else:
-        s.index = s.index.tz_convert("UTC")
-
-    grid = pd.date_range(start=start, end=end, freq=f"{step_minutes}min", tz="UTC")
-    # reindex + interpolate
-    combined = s.reindex(s.index.union(grid)).sort_index()
-    combined = combined.interpolate(method="time").ffill().bfill()
-    return combined.reindex(grid)
+def add_rolling_features(df: pd.DataFrame, col: str) -> pd.DataFrame:
+    df[f"{col}_roll3_mean"] = df[col].rolling(3, min_periods=1).mean()
+    df[f"{col}_roll6_mean"] = df[col].rolling(6, min_periods=1).mean()
+    df[f"{col}_roll12_mean"] = df[col].rolling(12, min_periods=1).mean()
+    df[f"{col}_roll6_std"] = df[col].rolling(6, min_periods=1).std()
+    return df
 
 
-def blend_alpha(lead_hours: float) -> float:
-    """Decay residual trust from NEAR → FAR over the forecast horizon."""
-    if lead_hours <= 0:
-        return BLEND_ALPHA_NEAR
-    max_h = float(max(HORIZONS_H))
-    frac = min(1.0, lead_hours / max_h)
-    return BLEND_ALPHA_NEAR + (BLEND_ALPHA_FAR - BLEND_ALPHA_NEAR) * frac
-
-
-# ---------------------------------------------------------------------------
-# Feature row for a single inference (no history mutation)
-# ---------------------------------------------------------------------------
-def _set(row: pd.DataFrame, col: str, value):
-    row.loc[row.index[0], col] = value
-
-
-def build_feature_row(
-    hist: pd.DataFrame,
-    next_time: pd.Timestamp,
-    feature_cols: list[str],
-    future_tides: pd.Series,
-    last_tide_fallback: float,
-) -> tuple[pd.DataFrame, float]:
-    """Construct features for `next_time` from *observed* history only."""
-    row = hist.iloc[[-1]].copy()
-    row.index = pd.DatetimeIndex([next_time])
-
-    hour = next_time.hour + next_time.minute / 60.0
-    _set(row, "hour_sin", np.sin(2 * np.pi * hour / 24))
-    _set(row, "hour_cos", np.cos(2 * np.pi * hour / 24))
-    doy = next_time.dayofyear
-    _set(row, "doy_sin", np.sin(2 * np.pi * doy / 365.25))
-    _set(row, "doy_cos", np.cos(2 * np.pi * doy / 365.25))
-
-    if "tide_residual" in hist.columns:
-        resid_series = hist["tide_residual"].dropna()
-    else:
-        resid_series = pd.Series(dtype=float)
-
-    for lag in (1, 2, 3, 6, 12, 24, 48):
-        col = f"tide_residual_lag{lag}"
-        if col in feature_cols and len(resid_series) > 0:
-            val = resid_series.iloc[-lag] if len(resid_series) >= lag else resid_series.iloc[-1]
-            _set(row, col, val)
-
-    if "measured_gauge_height_ft" in hist.columns:
-        level_series = hist["measured_gauge_height_ft"].dropna()
-        for lag in (1, 2, 3, 6, 12, 24, 48):
-            col = f"measured_gauge_height_ft_lag{lag}"
-            if col in feature_cols and len(level_series) > 0:
-                val = (
-                    level_series.iloc[-lag]
-                    if len(level_series) >= lag
-                    else level_series.iloc[-1]
-                )
-                _set(row, col, val)
-        for window, suffix in [(3, "roll3_mean"), (6, "roll6_mean"), (12, "roll12_mean")]:
-            col = f"measured_gauge_height_ft_{suffix}"
-            if col in feature_cols and len(level_series) > 0:
-                _set(row, col, float(level_series.iloc[-window:].mean()))
-        if "measured_gauge_height_ft_roll6_std" in feature_cols and len(level_series) >= 2:
-            _set(
-                row,
-                "measured_gauge_height_ft_roll6_std",
-                float(level_series.iloc[-6:].std()),
-            )
-
-    # Tide at the target time (for residual models that use tide_ft as a feature)
-    if future_tides is not None and not future_tides.empty:
-        try:
-            s = future_tides.copy()
-            if next_time not in s.index:
-                s.loc[next_time] = np.nan
-                s = s.sort_index().interpolate(method="time").ffill().bfill()
-            tide_val = float(s.asof(next_time))
-            if np.isnan(tide_val):
-                tide_val = float(last_tide_fallback)
-        except Exception:
-            tide_val = float(last_tide_fallback)
-    else:
-        tide_val = float(last_tide_fallback)
-    _set(row, "tide_ft", tide_val)
-
-    for col in feature_cols:
-        if col not in row.columns or pd.isna(row.iloc[0].get(col, np.nan)):
-            if col in hist.columns and hist[col].notna().any():
-                _set(row, col, hist[col].dropna().iloc[-1])
-            else:
-                _set(row, col, 0.0)
-
-    X = pd.DataFrame(
-        [[row.iloc[0].get(c, 0.0) for c in feature_cols]],
-        columns=feature_cols,
-    ).astype(float)
-    return X, tide_val
-
-
-# ---------------------------------------------------------------------------
-# Direct residual anchors at each trained horizon (no recursion)
-# ---------------------------------------------------------------------------
-def direct_residual_anchors(
-    residual_models: dict,
-    nowcast_model_meta: tuple | None,
-    history: pd.DataFrame,
-    future_tides: pd.Series,
-    last_obs_time: pd.Timestamp,
-    last_obs_residual: float,
-) -> pd.Series:
-    """
-    Returns a Series indexed by absolute timestamp with residual predictions
-    at lead 0 (observed residual) and each available horizon.
-    All predictions use the *same* observed feature row — no lag feedback.
-    """
-    if "tide_ft" in history.columns and history["tide_ft"].notna().any():
-        last_tide_fallback = float(history["tide_ft"].dropna().iloc[-1])
-    else:
-        last_tide_fallback = 0.0
-
-    anchors = {last_obs_time: float(last_obs_residual)}
-
-    # Optional: nowcast residual at "now" (same-time correction)
-    if nowcast_model_meta is not None:
-        model, meta = nowcast_model_meta
-        feature_cols = list(meta["feature_cols"])
-        X, _ = build_feature_row(
-            history, last_obs_time, feature_cols, future_tides, last_tide_fallback
-        )
-        try:
-            anchors[last_obs_time] = float(model.predict(X)[0])
-        except Exception:
-            pass
-
-    for h, (model, meta) in residual_models.items():
-        feature_cols = list(meta["feature_cols"])
-        target_time = last_obs_time + pd.Timedelta(hours=h)
-        X, _ = build_feature_row(
-            history, target_time, feature_cols, future_tides, last_tide_fallback
-        )
-        try:
-            anchors[target_time] = float(model.predict(X)[0])
-        except Exception as exc:
-            print(f"  ⚠ residual_{h}h predict failed: {exc}")
-
-    s = pd.Series(anchors, dtype=float).sort_index()
-    return s
-
-
-def residual_on_grid(
-    anchors: pd.Series,
-    grid: pd.DatetimeIndex,
-) -> pd.Series:
-    """Time-interpolate residual anchors onto the dense output grid."""
-    if anchors.empty:
-        return pd.Series(0.0, index=grid)
-
-    s = anchors.copy().sort_index()
-    if s.index.tz is None:
-        s.index = s.index.tz_localize("UTC")
-    else:
-        s.index = s.index.tz_convert("UTC")
-
-    combined = s.reindex(s.index.union(grid)).sort_index()
-    combined = combined.interpolate(method="time").ffill().bfill()
-    out = combined.reindex(grid)
-    return out.fillna(0.0)
-
-
-# ---------------------------------------------------------------------------
-# Crossover probabilities (unchanged logic, features at "now")
-# ---------------------------------------------------------------------------
-def predict_crossovers(
-    models: dict,
-    history: pd.DataFrame,
-    future_tides: pd.Series,
-    last_obs_time: pd.Timestamp,
-) -> list[dict]:
-    if "tide_ft" in history.columns and history["tide_ft"].notna().any():
-        last_tide_fallback = float(history["tide_ft"].dropna().iloc[-1])
-    else:
-        last_tide_fallback = 0.0
-
-    results = []
-    for direction in ("rising", "falling"):
-        for h, (model, meta) in models.get(f"cross_{direction}", {}).items():
-            feature_cols = list(meta["feature_cols"])
-            X, _ = build_feature_row(
-                history, last_obs_time, feature_cols, future_tides, last_tide_fallback
-            )
-            try:
-                proba = float(model.predict_proba(X)[0, 1])
-            except Exception:
-                proba = float(model.predict(X)[0])
-            results.append(
-                {
-                    "direction": direction,
-                    "horizon_hours": h,
-                    "threshold_ft": meta.get("threshold_ft", CROSSOVER_THRESH_FT),
-                    "probability": round(proba, 4),
-                    "will_cross": bool(proba >= 0.5),
-                }
-            )
-    results.sort(key=lambda r: (r["direction"], r["horizon_hours"]))
-    return results
-
-
-# ---------------------------------------------------------------------------
-# Fallback: pure astronomical tide on dense grid (no ML)
-# ---------------------------------------------------------------------------
-def pure_tide_forecast(
-    future_tides: pd.Series,
-    start: pd.Timestamp,
-    end: pd.Timestamp,
-    bias: float = 0.0,
-) -> pd.DataFrame:
-    tide = dense_tide_series(future_tides, start, end)
-    if tide.empty:
-        return pd.DataFrame(columns=["predicted", "residual", "tide_ft", "alpha"])
-    level = tide + bias
-    return pd.DataFrame(
-        {
-            "predicted": level.values,
-            "residual": bias,
-            "tide_ft": tide.values,
-            "alpha": 0.0,
-        },
-        index=tide.index,
-    )
-
-
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 def main():
-    print("Loading models…")
-    models = load_models()
+    if not COMBINED_PATH.exists():
+        raise FileNotFoundError(f"{COMBINED_PATH} not found")
 
-    has_any = models["nowcast"] is not None or bool(models["residual"])
-    if not has_any:
-        print("⚠ No XGBoost models found – will emit pure astronomical tide forecast")
-
-    if models["nowcast"] is not None:
-        print(
-            f"Nowcast model loaded  |  target="
-            f"{models['nowcast'][1].get('target', models['nowcast'][1].get('task'))}"
-        )
-    print(f"Direct residual horizons available: {sorted(models['residual'].keys())}")
-    print(
-        f"Crossover models: rising={sorted(models['cross_rising'].keys())}  "
-        f"falling={sorted(models['cross_falling'].keys())}"
-    )
-
-    print("Loading latest features…")
-    df = pd.read_csv(FEATURES_PATH, index_col=0, parse_dates=True)
+    df = pd.read_csv(COMBINED_PATH, index_col=0, parse_dates=True)
     if df.index.tz is None:
         df.index = pd.to_datetime(df.index, utc=True)
-    else:
-        df.index = df.index.tz_convert("UTC")
     df = df.sort_index()
 
-    if "tide_residual" not in df.columns and "measured_gauge_height_ft" in df.columns:
-        df["tide_residual"] = df["measured_gauge_height_ft"] - df["tide_ft"]
+    target = find_target(df)
+    print(f"Target column: {target}")
 
-    history = df.iloc[-48 * 12 :]  # ~48 h at 5-min resolution
-    last_obs_time = df.index.max()
+    df[target] = pd.to_numeric(df[target], errors="coerce")
+    if "tide_ft" in df.columns:
+        df["tide_ft"] = pd.to_numeric(df["tide_ft"], errors="coerce")
 
-    if "measured_gauge_height_ft" in df.columns:
-        last_obs_value = float(df["measured_gauge_height_ft"].iloc[-1])
-    else:
-        last_obs_value = float(
-            df["tide_ft"].iloc[-1]
-            + df.get("tide_residual", pd.Series([0.0])).iloc[-1]
+    # ------------------------------------------------------------------
+    # Datum alignment: shift measured into the lunar-tide vertical frame
+    # ------------------------------------------------------------------
+    datum_meta = {
+        "offset_ft": 0.0,
+        "method": "none",
+        "n_used": 0,
+        "floor_ft": SENSOR_FLOOR_FT,
+    }
+    if "tide_ft" in df.columns:
+        datum_meta = estimate_datum_offset(df[target], df["tide_ft"], SENSOR_FLOOR_FT)
+        offset = datum_meta["offset_ft"]
+        print(
+            f"Datum offset: {offset:+.4f} ft  "
+            f"(median measured−tide above {SENSOR_FLOOR_FT} ft floor, "
+            f"n={datum_meta['n_used']})"
         )
-
-    if "tide_residual" in df.columns and df["tide_residual"].notna().any():
-        last_obs_residual = float(df["tide_residual"].dropna().iloc[-1])
-    else:
-        last_obs_residual = 0.0
-
-    now_ts = pd.Timestamp(datetime.now(timezone.utc))
-    # Forecast from last observation through HORIZON_HOURS past "now"
-    forecast_end = max(last_obs_time, now_ts) + pd.Timedelta(hours=HORIZON_HOURS)
-    # Start a little before last obs so the stitch is smooth
-    forecast_start = last_obs_time
-
-    future_tides = load_future_tide(
-        last_obs_time, hours=int((forecast_end - last_obs_time).total_seconds() / 3600) + 12
-    )
-    print(f"Future tide points available: {len(future_tides)}")
-    print(
-        f"Building dense forecast {forecast_start} → {forecast_end} "
-        f"(step={OUTPUT_STEP_MINUTES} min)…"
-    )
-
-    # --- Dense astronomical tide (base shape) ---
-    tide_dense = dense_tide_series(future_tides, forecast_start, forecast_end)
-    if tide_dense.empty:
-        raise RuntimeError(
-            "No astronomical tide coverage for the forecast window – "
-            "check data/raw/tides.csv"
+        print(
+            f"  measured range [{datum_meta['measured_min']:.2f}, {datum_meta['measured_max']:.2f}]  "
+            f"tide range [{datum_meta['tide_min']:.2f}, {datum_meta['tide_max']:.2f}]  "
+            f"floored {datum_meta['pct_floored']:.1f}%"
         )
-
-    grid = tide_dense.index
-
-    # --- Residual anchors from direct horizon models (no recursion) ---
-    if models["residual"] or models["nowcast"] is not None:
-        anchors = direct_residual_anchors(
-            models["residual"],
-            models["nowcast"],
-            history,
-            future_tides,
-            last_obs_time,
-            last_obs_residual,
-        )
-        print(f"Residual anchors: {len(anchors)} points at leads "
-              f"{sorted(int(round((t - last_obs_time).total_seconds()/3600)) for t in anchors.index)}")
-        resid_dense = residual_on_grid(anchors, grid)
-    else:
-        # Bias = last observed residual held constant
-        resid_dense = pd.Series(last_obs_residual, index=grid)
-        print("No residual models – holding last observed residual constant")
-
-    # --- Blend: level = tide + alpha(lead) * residual ---
-    leads_h = np.array(
-        [(t - last_obs_time).total_seconds() / 3600.0 for t in grid], dtype=float
-    )
-    alphas = np.array([blend_alpha(h) for h in leads_h], dtype=float)
-    residual_vals = resid_dense.to_numpy(dtype=float)
-    tide_vals = tide_dense.to_numpy(dtype=float)
-    level_vals = tide_vals + alphas * residual_vals
-
-    # Stitch: force first point to the last measured level for a seamless chart join
-    level_vals = level_vals.copy()
-    level_vals[0] = last_obs_value
-
-    forecast = pd.DataFrame(
-        {
-            "predicted": level_vals,
-            "residual": residual_vals,
-            "tide_ft": tide_vals,
-            "alpha": alphas,
-            "lead_hours": leads_h,
-        },
-        index=grid,
-    )
-
-    # --- Crossovers ---
-    crossovers = predict_crossovers(models, history, future_tides, last_obs_time)
-    if crossovers:
-        print("Crossover probabilities:")
-        for c in crossovers:
-            flag = "YES" if c["will_cross"] else "no"
+        if abs(datum_meta.get("ols_slope", 1.0) - 1.0) > 0.15:
             print(
-                f"  {c['direction']:7s}  {c['horizon_hours']:2d}h  "
-                f"P={c['probability']:.3f}  → {flag}"
+                f"  ⚠ OLS slope={datum_meta['ols_slope']:.3f} (not ≈1). "
+                "A pure vertical shift may be incomplete — check gauge vs NOAA datum."
             )
 
-    # --- Horizon summary (values at exact trained leads) ---
-    horizon_summary = []
-    for h in HORIZONS_H:
-        target_t = last_obs_time + pd.Timedelta(hours=h)
-        if target_t in forecast.index:
-            row = forecast.loc[target_t]
-        else:
-            # nearest
-            idx = forecast.index.get_indexer([target_t], method="nearest")[0]
-            row = forecast.iloc[idx]
-            target_t = forecast.index[idx]
-        horizon_summary.append(
-            {
-                "horizon_hours": h,
-                "timestamp": target_t.isoformat(),
-                "predicted_level_ft": round(float(row["predicted"]), 4),
-                "predicted_residual_ft": round(float(row["residual"]), 4),
-                "tide_ft": round(float(row["tide_ft"]), 4),
-                "alpha": round(float(row["alpha"]), 3),
-                "source": (
-                    "direct_residual_model"
-                    if h in models["residual"]
-                    else "interpolated_residual"
-                ),
-            }
+        # Keep the native gauge reading for the dashboard / thresholds
+        df["measured_native_ft"] = df[target]
+        # Aligned series lives on the same vertical frame as tide_ft
+        df["measured_aligned_ft"] = df[target] - offset
+        # Flag sensor-floor clips (residual unreliable here)
+        df["is_sensor_floor"] = (df[target] <= SENSOR_FLOOR_FT).astype(int)
+
+        # Residual against lunar tide in the aligned frame
+        df["tide_residual"] = df["measured_aligned_ft"] - df["tide_ft"]
+        # Equivalent: df[target] - df["tide_ft"] - offset
+    else:
+        print("No tide_ft column – skipping datum alignment")
+        df["measured_native_ft"] = df[target]
+        df["measured_aligned_ft"] = df[target]
+        df["is_sensor_floor"] = 0
+
+    datum_meta["trained_at"] = datetime.now(timezone.utc).isoformat()
+    datum_meta["target_column"] = target
+    datum_meta["note"] = (
+        "measured_aligned_ft = measured_native_ft - offset_ft. "
+        "tide_residual = measured_aligned_ft - tide_ft. "
+        "To display a forecast on the gauge scale: "
+        "gauge_level = tide_ft + residual + offset_ft."
+    )
+    DATA_PROCESSED.mkdir(parents=True, exist_ok=True)
+    with open(DATUM_OFFSET_PATH, "w") as f:
+        json.dump(datum_meta, f, indent=2)
+    print(f"Datum meta → {DATUM_OFFSET_PATH}")
+
+    df = add_time_features(df)
+
+    n = len(df)
+    possible_lags = [1, 2, 3, 6, 12, 24, 48]
+    lags = [lag for lag in possible_lags if lag < n // 3]
+    if not lags:
+        lags = [1, 2, 3]
+
+    print(f"Using lags: {lags}")
+    # Lags / rolls on the *native* measured series (what the sensor reports)
+    df = add_lag_features(df, target, lags)
+    df = add_rolling_features(df, target)
+
+    if "tide_residual" in df.columns:
+        resid_lags = [1, 2, 3, 6, 12, 24]
+        resid_lags = [lag for lag in resid_lags if lag < len(df) // 3]
+        df = add_lag_features(df, "tide_residual", resid_lags)
+        print(
+            f"Residual after alignment: mean={df['tide_residual'].mean():.4f}  "
+            f"std={df['tide_residual'].std():.4f}  "
+            f"median={df['tide_residual'].median():.4f}"
         )
 
-    # Output frame (include last observation as non-forecast stitch point)
-    out = pd.DataFrame(
-        {
-            "t": list(forecast.index),
-            "predicted": list(forecast["predicted"]),
-            "is_forecast": [False] + [True] * (len(forecast) - 1),
-        }
-    )
+    if "rain_inches" in df.columns:
+        df["rain_inches"] = df["rain_inches"].fillna(0.0)
+        if "rain_24h" not in df.columns:
+            df["rain_24h"] = df["rain_inches"].rolling("24h", min_periods=1).sum()
+        if "rain_72h" not in df.columns:
+            df["rain_72h"] = df["rain_inches"].rolling("72h", min_periods=1).sum()
 
-    DATA_PROCESSED.mkdir(parents=True, exist_ok=True)
-    out.to_csv(FORECAST_CSV, index=False)
+    if "wind_speed_mph" in df.columns:
+        df["wind_speed_mph"] = df["wind_speed_mph"].ffill()
 
-    nowcast_meta = models["nowcast"][1] if models["nowcast"] else {}
-    payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "horizon_hours": HORIZON_HOURS,
-        "output_step_minutes": OUTPUT_STEP_MINUTES,
-        "blend_alpha_near": BLEND_ALPHA_NEAR,
-        "blend_alpha_far": BLEND_ALPHA_FAR,
-        "model_target": nowcast_meta.get("target", "tide_residual"),
-        "predicted_timestamps": [pd.Timestamp(t).isoformat() for t in out["t"]],
-        "predicted_values": [float(v) for v in out["predicted"]],
-        "model_mae": (nowcast_meta.get("metrics") or {}).get("mae")
-        or nowcast_meta.get("mae"),
-        "model_rmse": (nowcast_meta.get("metrics") or {}).get("rmse")
-        or nowcast_meta.get("rmse"),
-        "crossover_threshold_ft": CROSSOVER_THRESH_FT,
-        "crossovers": crossovers,
-        "horizon_summary": horizon_summary,
-        "models_used": {
-            "nowcast": models["nowcast"] is not None,
-            "residual_horizons": sorted(models["residual"].keys()),
-            "cross_rising_horizons": sorted(models["cross_rising"].keys()),
-            "cross_falling_horizons": sorted(models["cross_falling"].keys()),
-            "method": "dense_tide_plus_interpolated_direct_residual",
-        },
-    }
-    with open(FORECAST_JSON, "w") as f:
-        json.dump(payload, f, indent=2)
+    if "illumination" in df.columns:
+        df["illumination"] = df["illumination"].ffill()
 
-    print(f"Forecast written → {FORECAST_CSV}")
-    print(f"JSON sidecar   → {FORECAST_JSON}")
-    print(
-        f"Points: {len(out)} @ {OUTPUT_STEP_MINUTES}-min resolution "
-        f"(tide-shaped + residual anchors, no recursive lag feedback)"
-    )
+    before = len(df)
+    df = df.dropna(subset=[target])
+    print(f"Dropped {before - len(df)} rows with missing target")
+
+    short_lags = [c for c in df.columns if c.endswith(("_lag1", "_lag2", "_lag3"))]
+    if short_lags:
+        df = df.dropna(subset=short_lags)
+
+    df.to_csv(FEATURES_PATH)
+    print(f"Features written: {len(df)} rows × {len(df.columns)} columns → {FEATURES_PATH}")
+    print("Columns:", list(df.columns))
 
 
 if __name__ == "__main__":
