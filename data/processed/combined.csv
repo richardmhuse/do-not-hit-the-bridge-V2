@@ -5761,3 +5761,15 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-08-13 21:25:10+00:00,1.14,1.678,92.0,SW,Slight Chance Showers And Thunderstorms,True,14.0,0.0,KCRE,0.0175,1.75,new,0.0,0.0,0.0511811023622047
 2026-08-13 21:30:10+00:00,1.21,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
 2026-08-13 21:35:10+00:00,1.3199999999999998,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 21:40:10+00:00,1.4,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 21:45:10+00:00,1.5,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 21:50:10+00:00,1.59,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 21:55:10+00:00,1.68,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:00:10+00:00,1.8,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:05:10+00:00,1.9,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:10:10+00:00,1.99,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:15:10+00:00,2.11,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:20:10+00:00,2.2,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:25:10+00:00,2.3,3.088,90.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0188,1.88,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:30:10+00:00,2.4,4.326,88.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0201,2.01,new,0.0,0.0,0.0511811023622047
+2026-08-13 22:35:10+00:00,2.5,4.326,88.0,SW,Slight Chance Showers And Thunderstorms,False,13.0,0.0,KCRE,0.0201,2.01,new,0.0,0.0,0.0511811023622047
