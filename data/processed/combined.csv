@@ -6001,6 +6001,14 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-08-14 18:25:10+00:00,1.06,0.349,91.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.053,5.3,waxing_crescent,0.0,0.0,0.0511811023622047
 2026-08-14 18:30:10+00:00,0.94,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
 2026-08-14 18:35:10+00:00,0.8999999999999999,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
-2026-08-14 18:40:10+00:00,0.8200000000000001,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
-2026-08-14 18:45:10+00:00,0.75,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
-2026-08-14 18:50:10+00:00,0.6499999999999999,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 18:40:10+00:00,0.8200000000000001,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 18:45:10+00:00,0.75,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 18:50:10+00:00,0.6499999999999999,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 18:55:10+00:00,0.6000000000000001,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:00:10+00:00,0.53,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:05:10+00:00,0.4399999999999999,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:10:10+00:00,0.3799999999999999,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:15:10+00:00,0.29,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:20:10+00:00,0.2099999999999999,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:25:10+00:00,0.1200000000000001,-0.209,92.0,SW,Slight Chance Showers And Thunderstorms,True,12.0,0.0,KFBG,0.0551,5.51,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 19:30:10+00:00,0.06,-0.095,92.0,SW,Slight Chance Showers And Thunderstorms,True,13.0,0.0,KFBG,0.0573,5.73,waxing_crescent,0.0,0.0,0.0511811023622047
