@@ -5845,3 +5845,21 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-08-14 04:25:10+00:00,2.9,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
 2026-08-14 04:30:10+00:00,2.83,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
 2026-08-14 04:35:10+00:00,2.77,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:40:10+00:00,2.7,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:45:10+00:00,2.62,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:50:10+00:00,2.56,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:55:10+00:00,2.48,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:00:10+00:00,2.4,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:05:10+00:00,2.33,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:10:10+00:00,2.25,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:15:10+00:00,2.18,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:20:10+00:00,2.1,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:25:10+00:00,2.02,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 05:30:10+00:00,1.94,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 05:35:10+00:00,1.86,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 05:40:10+00:00,1.79,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 05:45:10+00:00,1.71,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 05:50:10+00:00,1.63,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 05:55:10+00:00,1.54,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 06:00:10+00:00,1.46,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
+2026-08-14 06:05:10+00:00,1.38,0.221,82.0,SW,Partly Cloudy,False,8.0,0.0,KFBG,0.0306,3.06,waxing_crescent,0.0,0.0,0.0511811023622047
