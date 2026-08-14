@@ -560,3 +560,4 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-20 20:00:00+00:00,92,S,Sunny,True,9.0
 2026-08-20 21:00:00+00:00,92,S,Sunny,True,9.0
 2026-08-20 22:00:00+00:00,90,S,Mostly Clear,False,9.0
+2026-08-20 23:00:00+00:00,88,S,Mostly Clear,False,8.0
