@@ -5815,3 +5815,33 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-08-14 01:55:10+00:00,5.02,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KCRE,0.0244,2.44,new,0.0,0.0,0.0511811023622047
 2026-08-14 02:00:10+00:00,4.970000000000001,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KCRE,0.0244,2.44,new,0.0,0.0,0.0511811023622047
 2026-08-14 02:05:10+00:00,4.92,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KCRE,0.0244,2.44,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:10:10+00:00,4.85,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KCRE,0.0244,2.44,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:15:10+00:00,4.779999999999999,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KCRE,0.0244,2.44,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:20:10+00:00,4.71,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KCRE,0.0244,2.44,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:25:10+00:00,4.640000000000001,4.643,83.0,SW,Slight Chance Showers And Thunderstorms,False,10.0,0.0,KFBG,0.0244,2.44,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:30:10+00:00,4.57,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:35:10+00:00,4.48,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:40:10+00:00,4.43,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:45:10+00:00,4.37,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:50:10+00:00,4.3100000000000005,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 02:55:10+00:00,4.23,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:00:10+00:00,4.16,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:05:10+00:00,4.08,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:10:10+00:00,4.02,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:15:10+00:00,3.96,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:20:10+00:00,3.89,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:25:10+00:00,3.82,3.628,82.0,SW,Slight Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0259,2.59,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:30:10+00:00,3.75,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:35:10+00:00,3.67,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:40:10+00:00,3.59,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:45:10+00:00,3.52,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:50:10+00:00,3.45,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 03:55:10+00:00,3.37,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:00:10+00:00,3.29,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:05:10+00:00,3.21,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:10:10+00:00,3.14,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:15:10+00:00,3.05,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:20:10+00:00,2.98,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:25:10+00:00,2.9,2.405,82.0,SW,Chance Showers And Thunderstorms,False,9.0,0.0,KFBG,0.0274,2.74,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:30:10+00:00,2.83,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
+2026-08-14 04:35:10+00:00,2.77,1.193,82.0,SW,Chance Showers And Thunderstorms,False,8.0,0.0,KFBG,0.029,2.9,new,0.0,0.0,0.0511811023622047
