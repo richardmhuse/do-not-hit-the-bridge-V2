@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-08-09T22:36:31.796768+00:00",
+  "trained_at": "2026-08-16T20:28:40.542929+00:00",
   "name": "cross_falling_12h",
   "task": "crossover_falling",
   "feature_cols": [
@@ -12,6 +12,9 @@
     "rain_24h",
     "rain_72h",
     "rain_7d",
+    "measured_native_ft",
+    "measured_aligned_ft",
+    "is_sensor_floor",
     "hour_sin",
     "hour_cos",
     "doy_sin",
@@ -35,16 +38,16 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "accuracy": 0.9849170437405732,
-    "precision": 1.0,
-    "recall": 0.9848369977255497,
-    "f1": 0.9923605805958747,
-    "auc": 0.9966424780678003,
-    "brier": 0.01223952416330576,
-    "n_test": 1326,
-    "pos_rate_test": 0.9947209653092006,
-    "scale_pos_weight": 0.03750393948944217,
-    "n_train": 3292,
+    "accuracy": 0.9589783281733746,
+    "precision": 0.9991922455573505,
+    "recall": 0.9596586501163693,
+    "f1": 0.9790265136525524,
+    "auc": 0.9635376260667183,
+    "brier": 0.035722196102142334,
+    "n_test": 1292,
+    "pos_rate_test": 0.9976780185758514,
+    "scale_pos_weight": 0.025285972305839857,
+    "n_train": 5109,
     "lead_hours": 12,
     "steps": 144
   },
