@@ -7425,7 +7425,31 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-08-19 22:50:10+00:00,1.49,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
 2026-08-19 22:55:10+00:00,1.46,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
 2026-08-19 23:00:10+00:00,1.4,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
-2026-08-19 23:05:10+00:00,1.36,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
-2026-08-19 23:10:10+00:00,1.3199999999999998,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
-2026-08-19 23:15:10+00:00,1.28,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
-2026-08-19 23:20:10+00:00,1.23,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KCRE,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:05:10+00:00,1.36,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KILM,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:10:10+00:00,1.3199999999999998,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KILM,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:15:10+00:00,1.28,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KILM,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:20:10+00:00,1.23,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KILM,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:25:10+00:00,1.21,1.346,86.0,S,Chance Showers And Thunderstorms,False,7.0,0.0,KILM,0.486,48.6,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:30:10+00:00,1.19,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:35:10+00:00,1.15,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:40:10+00:00,1.12,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:45:10+00:00,1.13,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:50:10+00:00,1.11,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-19 23:55:10+00:00,1.1,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:00:10+00:00,1.08,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:05:10+00:00,1.08,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:10:10+00:00,1.09,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:15:10+00:00,1.09,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:20:10+00:00,1.09,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:25:10+00:00,1.1,1.221,84.0,S,Slight Chance Showers And Thunderstorms,False,6.0,0.0,KILM,0.49,49.0,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:30:10+00:00,1.0699999999999998,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:35:10+00:00,1.08,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:40:10+00:00,1.08,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:45:10+00:00,1.0699999999999998,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:50:10+00:00,1.0699999999999998,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 00:55:10+00:00,1.08,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 01:00:10+00:00,1.12,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 01:05:10+00:00,1.13,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 01:10:10+00:00,1.13,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 01:15:10+00:00,1.11,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
+2026-08-20 01:20:10+00:00,1.11,1.412,83.0,S,Slight Chance Showers And Thunderstorms,False,5.0,0.0,KILM,0.4941,49.41,first_quarter,0.0,0.0,0.8188976377952756
