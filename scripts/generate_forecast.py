@@ -45,11 +45,11 @@ HORIZON_HOURS = 36
 # Dense output so the chart doesn't linearly chord hourly samples
 OUTPUT_STEP_MINUTES = 15
 # Residual trust: full weight near now, decay toward pure tide at long lead
-BLEND_ALPHA_NEAR = 0.85   # at lead ≈ 0–1 h
+BLEND_ALPHA_NEAR = 0.9   # at lead ≈ 0–1 h
 BLEND_ALPHA_FAR = 0.25    # at lead ≥ max horizon
 # Astronomical tide at this site runs ~1 h early vs the creek gauge.
 # Use tide(t - LAG) as the blend base so highs/lows line up with measurements.
-TIDE_LAG_HOURS = 1
+TIDE_LAG_HOURS = 0
 
 
 # ---------------------------------------------------------------------------
