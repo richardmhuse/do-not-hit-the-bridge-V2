@@ -3,32 +3,51 @@ name: Data snapshot
 
 on:
   schedule:
-    - cron: '5 * * * *'   # once per hour is plenty for git history
+    - cron: '5 * * * *'   # once per hour
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: data-snapshot
+  cancel-in-progress: false   # let the current run finish; queue the next one
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # needed for a clean rebase
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: |
+
+      - name: Install dependencies
+        run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - run: mkdir -p data/raw data/processed
+
+      - name: Prepare directories
+        run: mkdir -p data/raw data/processed
+
       - name: Run full pipeline
-        run: python scripts/fetch_all.py
-             python scripts/train_xgboost.py
-             python scripts/generate_forecast.py
-      - name: Commit
+        run: |
+          python scripts/fetch_all.py
+          python scripts/train_xgboost.py
+          python scripts/generate_forecast.py
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
           git add data/
-          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "No changes"
-          git push
+          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "No changes to commit"
+
+          # Bring in any remote commits that happened while we were running
+          git pull --rebase origin main
+
+          git push origin main
