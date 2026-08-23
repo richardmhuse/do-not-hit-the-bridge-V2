@@ -786,3 +786,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-30 06:00:00+00:00,76,SW,Chance Showers And Thunderstorms,False,2.0
 2026-08-30 07:00:00+00:00,76,SW,Chance Showers And Thunderstorms,False,2.0
 2026-08-30 08:00:00+00:00,75,SW,Chance Showers And Thunderstorms,False,2.0
+2026-08-30 09:00:00+00:00,74,W,Chance Showers And Thunderstorms,False,2.0
+2026-08-30 10:00:00+00:00,74,W,Chance Showers And Thunderstorms,True,2.0
