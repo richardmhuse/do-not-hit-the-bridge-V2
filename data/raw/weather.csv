@@ -814,3 +814,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-08-31 10:00:00+00:00,75,W,Sunny,True,3.0
 2026-08-31 11:00:00+00:00,75,NW,Sunny,True,3.0
 2026-08-31 12:00:00+00:00,76,NW,Slight Chance Showers And Thunderstorms,True,3.0
+2026-08-31 13:00:00+00:00,79,NW,Slight Chance Showers And Thunderstorms,True,3.0
+2026-08-31 14:00:00+00:00,82,W,Slight Chance Showers And Thunderstorms,True,5.0
