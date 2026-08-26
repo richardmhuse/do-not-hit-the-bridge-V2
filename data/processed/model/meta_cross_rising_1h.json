@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-08-26T19:09:12.108024+00:00",
+  "trained_at": "2026-08-26T23:10:58.992826+00:00",
   "name": "cross_rising_1h",
   "task": "crossover_rising",
   "feature_cols": [
@@ -38,16 +38,16 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "accuracy": 0.9916317991631799,
-    "precision": 0.9067796610169492,
-    "recall": 0.9907407407407407,
-    "f1": 0.9469026548672567,
-    "auc": 0.9985196357745377,
-    "brier": 0.007997488602995872,
+    "accuracy": 0.9881450488145049,
+    "precision": 0.8931297709923665,
+    "recall": 0.975,
+    "f1": 0.9322709163346613,
+    "auc": 0.9984145104008117,
+    "brier": 0.00991418119519949,
     "n_test": 1434,
-    "pos_rate_test": 0.07531380753138076,
-    "scale_pos_weight": 10.5625,
-    "n_train": 6660,
+    "pos_rate_test": 0.08368200836820083,
+    "scale_pos_weight": 10.645833333333334,
+    "n_train": 6708,
     "lead_hours": 1,
     "steps": 12
   },
