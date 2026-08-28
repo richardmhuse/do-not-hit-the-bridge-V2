@@ -880,3 +880,12 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-03 04:00:00+00:00,80,SW,Mostly Clear,False,6.0
 2026-09-03 05:00:00+00:00,79,SW,Mostly Clear,False,6.0
 2026-09-03 06:00:00+00:00,78,SW,Mostly Clear,False,6.0
+2026-09-03 07:00:00+00:00,78,SW,Mostly Clear,False,6.0
+2026-09-03 08:00:00+00:00,77,SW,Mostly Clear,False,6.0
+2026-09-03 09:00:00+00:00,76,SW,Mostly Clear,False,5.0
+2026-09-03 10:00:00+00:00,76,W,Sunny,True,5.0
+2026-09-03 11:00:00+00:00,77,W,Sunny,True,5.0
+2026-09-03 12:00:00+00:00,78,W,Sunny,True,5.0
+2026-09-03 13:00:00+00:00,81,W,Sunny,True,5.0
+2026-09-03 14:00:00+00:00,85,W,Sunny,True,6.0
+2026-09-03 15:00:00+00:00,88,SW,Sunny,True,7.0
