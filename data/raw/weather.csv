@@ -932,3 +932,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-05 08:00:00+00:00,76,W,Slight Chance Showers And Thunderstorms,False,5.0
 2026-09-05 09:00:00+00:00,76,W,Slight Chance Showers And Thunderstorms,False,5.0
 2026-09-05 10:00:00+00:00,76,W,Slight Chance Showers And Thunderstorms,True,5.0
+2026-09-05 11:00:00+00:00,76,W,Slight Chance Showers And Thunderstorms,True,5.0
+2026-09-05 12:00:00+00:00,78,W,Slight Chance Showers And Thunderstorms,True,6.0
+2026-09-05 13:00:00+00:00,80,W,Slight Chance Showers And Thunderstorms,True,6.0
+2026-09-05 14:00:00+00:00,83,W,Slight Chance Showers And Thunderstorms,True,6.0
+2026-09-05 15:00:00+00:00,86,W,Slight Chance Showers And Thunderstorms,True,7.0
