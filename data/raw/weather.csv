@@ -1012,3 +1012,9 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-08 16:00:00+00:00,82,E,Slight Chance Rain Showers,True,9.0
 2026-09-08 17:00:00+00:00,83,E,Slight Chance Rain Showers,True,9.0
 2026-09-08 18:00:00+00:00,84,E,Mostly Sunny,True,9.0
+2026-09-08 19:00:00+00:00,84,E,Mostly Sunny,True,10.0
+2026-09-08 20:00:00+00:00,84,E,Mostly Sunny,True,9.0
+2026-09-08 21:00:00+00:00,84,E,Mostly Sunny,True,9.0
+2026-09-08 22:00:00+00:00,82,E,Partly Cloudy,False,8.0
+2026-09-08 23:00:00+00:00,81,E,Partly Cloudy,False,7.0
+2026-09-09 00:00:00+00:00,79,E,Partly Cloudy,False,7.0
