@@ -1082,3 +1082,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-11 14:00:00+00:00,82,NW,Sunny,True,8.0
 2026-09-11 15:00:00+00:00,86,NW,Sunny,True,8.0
 2026-09-11 16:00:00+00:00,88,W,Sunny,True,8.0
+2026-09-11 17:00:00+00:00,88,NE,Sunny,True,8.0
+2026-09-11 18:00:00+00:00,88,E,Slight Chance Showers And Thunderstorms,True,8.0
+2026-09-11 19:00:00+00:00,89,E,Slight Chance Showers And Thunderstorms,True,9.0
+2026-09-11 20:00:00+00:00,89,SE,Slight Chance Showers And Thunderstorms,True,9.0
+2026-09-11 21:00:00+00:00,88,S,Slight Chance Showers And Thunderstorms,True,9.0
