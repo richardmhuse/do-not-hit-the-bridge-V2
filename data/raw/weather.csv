@@ -1099,3 +1099,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-12 07:00:00+00:00,74,E,Partly Cloudy,False,5.0
 2026-09-12 08:00:00+00:00,74,E,Partly Cloudy,False,5.0
 2026-09-12 09:00:00+00:00,74,E,Partly Cloudy,False,5.0
+2026-09-12 10:00:00+00:00,73,E,Mostly Sunny,True,5.0
+2026-09-12 11:00:00+00:00,73,NE,Mostly Sunny,True,5.0
