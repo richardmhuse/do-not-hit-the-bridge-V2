@@ -1451,3 +1451,7 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-26 23:00:00+00:00,74,N,Slight Chance Rain Showers,False,7.0
 2026-09-27 00:00:00+00:00,72,N,Partly Cloudy,False,6.0
 2026-09-27 01:00:00+00:00,70,N,Partly Cloudy,False,6.0
+2026-09-27 02:00:00+00:00,68,N,Partly Cloudy,False,5.0
+2026-09-27 03:00:00+00:00,67,N,Partly Cloudy,False,5.0
+2026-09-27 04:00:00+00:00,66,N,Partly Cloudy,False,5.0
+2026-09-27 05:00:00+00:00,64,N,Partly Cloudy,False,5.0
