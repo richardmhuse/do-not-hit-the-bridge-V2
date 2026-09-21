@@ -1471,3 +1471,9 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-27 19:00:00+00:00,78,N,Mostly Sunny,True,7.0
 2026-09-27 20:00:00+00:00,78,N,Mostly Sunny,True,7.0
 2026-09-27 21:00:00+00:00,78,N,Mostly Sunny,True,7.0
+2026-09-27 22:00:00+00:00,77,N,Partly Cloudy,False,6.0
+2026-09-27 23:00:00+00:00,75,N,Partly Cloudy,False,5.0
+2026-09-28 00:00:00+00:00,72,N,Partly Cloudy,False,5.0
+2026-09-28 01:00:00+00:00,71,N,Partly Cloudy,False,3.0
+2026-09-28 02:00:00+00:00,69,N,Partly Cloudy,False,3.0
+2026-09-28 03:00:00+00:00,68,N,Partly Cloudy,False,2.0
