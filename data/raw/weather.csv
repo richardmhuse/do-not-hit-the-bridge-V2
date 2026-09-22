@@ -1494,3 +1494,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-28 18:00:00+00:00,79,E,Mostly Sunny,True,6.0
 2026-09-28 19:00:00+00:00,80,E,Mostly Sunny,True,6.0
 2026-09-28 20:00:00+00:00,80,SE,Mostly Sunny,True,7.0
+2026-09-28 21:00:00+00:00,80,SE,Mostly Sunny,True,7.0
+2026-09-28 22:00:00+00:00,78,S,Partly Cloudy,False,6.0
+2026-09-28 23:00:00+00:00,76,S,Partly Cloudy,False,5.0
+2026-09-29 00:00:00+00:00,74,S,Partly Cloudy,False,5.0
+2026-09-29 01:00:00+00:00,72,S,Partly Cloudy,False,3.0
