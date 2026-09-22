@@ -1503,3 +1503,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-29 03:00:00+00:00,69,SW,Partly Cloudy,False,2.0
 2026-09-29 04:00:00+00:00,68,W,Partly Cloudy,False,2.0
 2026-09-29 05:00:00+00:00,67,W,Partly Cloudy,False,2.0
+2026-09-29 06:00:00+00:00,66,W,Mostly Clear,False,2.0
+2026-09-29 07:00:00+00:00,65,W,Mostly Clear,False,2.0
+2026-09-29 08:00:00+00:00,64,NW,Mostly Clear,False,2.0
