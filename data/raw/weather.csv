@@ -1508,3 +1508,9 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-29 08:00:00+00:00,64,NW,Mostly Clear,False,2.0
 2026-09-29 09:00:00+00:00,64,NW,Mostly Clear,False,2.0
 2026-09-29 10:00:00+00:00,63,N,Sunny,True,2.0
+2026-09-29 11:00:00+00:00,63,N,Sunny,True,2.0
+2026-09-29 12:00:00+00:00,64,N,Sunny,True,3.0
+2026-09-29 13:00:00+00:00,68,N,Sunny,True,3.0
+2026-09-29 14:00:00+00:00,72,NE,Sunny,True,3.0
+2026-09-29 15:00:00+00:00,76,NE,Sunny,True,5.0
+2026-09-29 16:00:00+00:00,78,NE,Sunny,True,5.0
