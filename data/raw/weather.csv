@@ -1524,3 +1524,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-09-30 00:00:00+00:00,75,SE,Mostly Clear,False,5.0
 2026-09-30 01:00:00+00:00,74,SE,Mostly Clear,False,3.0
 2026-09-30 02:00:00+00:00,72,SE,Mostly Clear,False,3.0
+2026-09-30 03:00:00+00:00,72,S,Mostly Clear,False,2.0
+2026-09-30 04:00:00+00:00,71,S,Mostly Clear,False,2.0
+2026-09-30 05:00:00+00:00,70,S,Mostly Clear,False,2.0
+2026-09-30 06:00:00+00:00,69,S,Mostly Clear,False,2.0
+2026-09-30 07:00:00+00:00,68,S,Mostly Clear,False,2.0
