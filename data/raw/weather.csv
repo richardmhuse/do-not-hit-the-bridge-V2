@@ -1570,3 +1570,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-01 22:00:00+00:00,82,S,Slight Chance Rain Showers,False,8.0
 2026-10-01 23:00:00+00:00,80,S,Slight Chance Rain Showers,False,7.0
 2026-10-02 00:00:00+00:00,78,S,Partly Cloudy,False,6.0
+2026-10-02 01:00:00+00:00,76,S,Mostly Clear,False,5.0
+2026-10-02 02:00:00+00:00,75,S,Mostly Clear,False,5.0
+2026-10-02 03:00:00+00:00,74,S,Mostly Clear,False,3.0
+2026-10-02 04:00:00+00:00,74,S,Mostly Clear,False,3.0
+2026-10-02 05:00:00+00:00,73,S,Mostly Clear,False,2.0
