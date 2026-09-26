@@ -1588,3 +1588,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-02 16:00:00+00:00,82,S,Mostly Sunny,True,7.0
 2026-10-02 17:00:00+00:00,83,S,Mostly Sunny,True,8.0
 2026-10-02 18:00:00+00:00,83,S,Slight Chance Showers And Thunderstorms,True,9.0
+2026-10-02 19:00:00+00:00,83,S,Slight Chance Showers And Thunderstorms,True,9.0
+2026-10-02 20:00:00+00:00,84,S,Slight Chance Showers And Thunderstorms,True,9.0
+2026-10-02 21:00:00+00:00,83,S,Slight Chance Showers And Thunderstorms,True,9.0
+2026-10-02 22:00:00+00:00,82,S,Slight Chance Showers And Thunderstorms,False,8.0
+2026-10-02 23:00:00+00:00,80,S,Slight Chance Showers And Thunderstorms,False,7.0
