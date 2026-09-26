@@ -1600,3 +1600,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-03 04:00:00+00:00,75,S,Partly Cloudy,False,3.0
 2026-10-03 05:00:00+00:00,74,SW,Partly Cloudy,False,3.0
 2026-10-03 06:00:00+00:00,74,SW,Partly Cloudy,False,3.0
+2026-10-03 07:00:00+00:00,73,SW,Partly Cloudy,False,3.0
+2026-10-03 08:00:00+00:00,73,SW,Partly Cloudy,False,3.0
+2026-10-03 09:00:00+00:00,72,SW,Partly Cloudy,False,3.0
