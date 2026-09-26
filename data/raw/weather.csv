@@ -1597,3 +1597,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-03 01:00:00+00:00,77,S,Mostly Clear,False,6.0
 2026-10-03 02:00:00+00:00,76,S,Mostly Clear,False,5.0
 2026-10-03 03:00:00+00:00,76,S,Mostly Clear,False,5.0
+2026-10-03 04:00:00+00:00,75,S,Partly Cloudy,False,3.0
+2026-10-03 05:00:00+00:00,74,SW,Partly Cloudy,False,3.0
+2026-10-03 06:00:00+00:00,74,SW,Partly Cloudy,False,3.0
