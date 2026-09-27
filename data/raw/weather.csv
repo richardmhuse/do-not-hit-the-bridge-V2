@@ -1623,3 +1623,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-04 03:00:00+00:00,73,SE,Slight Chance Rain Showers,False,6.0
 2026-10-04 04:00:00+00:00,73,SE,Slight Chance Rain Showers,False,6.0
 2026-10-04 05:00:00+00:00,73,SE,Slight Chance Rain Showers,False,6.0
+2026-10-04 06:00:00+00:00,70,NE,Chance Rain Showers,False,8.0
+2026-10-04 07:00:00+00:00,70,NE,Chance Rain Showers,False,8.0
+2026-10-04 08:00:00+00:00,69,NE,Chance Rain Showers,False,8.0
