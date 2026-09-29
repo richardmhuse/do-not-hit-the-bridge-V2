@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-09-29T01:41:22.715402+00:00",
+  "trained_at": "2026-09-29T08:12:31.340373+00:00",
   "name": "cross_falling_3h",
   "task": "crossover_falling",
   "feature_cols": [
@@ -38,16 +38,16 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "accuracy": 0.96,
-    "precision": 0.945619335347432,
-    "recall": 0.9046242774566474,
-    "f1": 0.9246676514032496,
-    "auc": 0.9816976424398166,
-    "brier": 0.03315774351358414,
+    "accuracy": 0.9552941176470588,
+    "precision": 0.9759450171821306,
+    "recall": 0.8502994011976048,
+    "f1": 0.9088,
+    "auc": 0.9840674654940915,
+    "brier": 0.038284044712781906,
     "n_test": 1275,
-    "pos_rate_test": 0.27137254901960783,
-    "scale_pos_weight": 3.0523114355231145,
-    "n_train": 6662,
+    "pos_rate_test": 0.2619607843137255,
+    "scale_pos_weight": 3.011309523809524,
+    "n_train": 6739,
     "lead_hours": 3,
     "steps": 36
   },
