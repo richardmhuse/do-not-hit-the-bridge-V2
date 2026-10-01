@@ -1699,3 +1699,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-07 07:00:00+00:00,57,NE,Partly Cloudy,False,13.0
 2026-10-07 08:00:00+00:00,57,NE,Partly Cloudy,False,14.0
 2026-10-07 09:00:00+00:00,56,NE,Partly Cloudy,False,15.0
+2026-10-07 10:00:00+00:00,56,NE,Mostly Sunny,True,15.0
+2026-10-07 11:00:00+00:00,55,NE,Mostly Sunny,True,15.0
+2026-10-07 12:00:00+00:00,56,NE,Mostly Sunny,True,16.0
