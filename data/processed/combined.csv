@@ -8049,5 +8049,77 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-03 05:45:10+00:00,3.63,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KILM,0.5367,53.67,last_quarter,0.0,0.0,0.0
 2026-10-03 05:50:10+00:00,3.6,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KILM,0.5367,53.67,last_quarter,0.0,0.0,0.0
 2026-10-03 05:55:10+00:00,3.56,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KILM,0.5367,53.67,last_quarter,0.0,0.0,0.0
-2026-10-03 06:00:10+00:00,3.52,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KILM,0.5367,53.67,last_quarter,0.0,0.0,0.0
-2026-10-03 06:05:10+00:00,3.47,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KILM,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:00:10+00:00,3.52,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:05:10+00:00,3.47,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:10:10+00:00,3.42,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:15:10+00:00,3.39,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:20:10+00:00,3.3600000000000003,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:25:10+00:00,3.3,3.636,74,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5367,53.67,last_quarter,0.0,0.0,0.0
+2026-10-03 06:30:10+00:00,3.25,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 06:35:10+00:00,3.2,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 06:40:10+00:00,3.15,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 06:45:10+00:00,3.1,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 06:50:10+00:00,3.05,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 06:55:10+00:00,3.0,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:00:10+00:00,2.96,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:05:10+00:00,2.91,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:10:10+00:00,2.85,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:15:10+00:00,2.8,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:20:10+00:00,2.75,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:25:10+00:00,2.69,2.946,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.532,53.2,last_quarter,0.0,0.0,0.0
+2026-10-03 07:30:10+00:00,2.62,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 07:35:10+00:00,2.57,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 07:40:10+00:00,2.52,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 07:45:10+00:00,2.47,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 07:50:10+00:00,2.4,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 07:55:10+00:00,2.34,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:00:10+00:00,2.27,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:05:10+00:00,2.2,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:10:10+00:00,2.16,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:15:10+00:00,2.1,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:20:10+00:00,2.03,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:25:10+00:00,1.96,2.14,73,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5272,52.72,last_quarter,0.0,0.0,0.0
+2026-10-03 08:30:10+00:00,1.92,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 08:35:10+00:00,1.86,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 08:40:10+00:00,1.8,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 08:45:10+00:00,1.72,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 08:50:10+00:00,1.66,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 08:55:10+00:00,1.6,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:00:10+00:00,1.52,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:05:10+00:00,1.48,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:10:10+00:00,1.4300000000000002,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:15:10+00:00,1.35,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:20:10+00:00,1.3199999999999998,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:25:10+00:00,1.26,1.459,72,SW,Partly Cloudy,False,3.0,0.0,KCHS,0.5224,52.24,last_quarter,0.0,0.0,0.0
+2026-10-03 09:30:10+00:00,1.19,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 09:35:10+00:00,1.15,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 09:40:10+00:00,1.1,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 09:45:10+00:00,1.05,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 09:50:10+00:00,1.0,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 09:55:10+00:00,0.94,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:00:10+00:00,0.8799999999999999,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:05:10+00:00,0.8200000000000001,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:10:10+00:00,0.76,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:15:10+00:00,0.71,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:20:10+00:00,0.6699999999999999,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:25:10+00:00,0.6000000000000001,1.004,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5176,51.76,last_quarter,0.0,0.0,0.0
+2026-10-03 10:30:10+00:00,0.55,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 10:35:10+00:00,0.49,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 10:40:10+00:00,0.4299999999999999,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 10:45:10+00:00,0.3600000000000001,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 10:50:10+00:00,0.3,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 10:55:10+00:00,0.26,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:00:10+00:00,0.2299999999999999,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:05:10+00:00,0.1799999999999999,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:10:10+00:00,0.1200000000000001,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:15:10+00:00,0.1,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:20:10+00:00,0.07,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:25:10+00:00,0.04,0.824,72,W,Mostly Sunny,True,3.0,0.0,KCHS,0.5128,51.28,last_quarter,0.0,0.0,0.0
+2026-10-03 11:30:10+00:00,0.01,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 11:35:10+00:00,0.05,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 11:40:10+00:00,0.03,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 11:45:10+00:00,0.03,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 11:50:10+00:00,0.05,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 11:55:10+00:00,0.04,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 12:00:10+00:00,0.05,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
+2026-10-03 12:05:10+00:00,0.1,1.003,72,W,Chance Rain Showers,True,3.0,0.0,KCHS,0.5081,50.81,last_quarter,0.0,0.0,0.0
