@@ -1798,3 +1798,10 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-11 10:00:00+00:00,66,E,Chance Rain Showers,True,16.0
 2026-10-11 11:00:00+00:00,66,E,Chance Rain Showers,True,17.0
 2026-10-11 12:00:00+00:00,66,E,Rain Showers Likely,True,17.0
+2026-10-11 13:00:00+00:00,69,E,Rain Showers Likely,True,17.0
+2026-10-11 14:00:00+00:00,72,E,Rain Showers Likely,True,18.0
+2026-10-11 15:00:00+00:00,75,E,Rain Showers Likely,True,20.0
+2026-10-11 16:00:00+00:00,76,E,Rain Showers Likely,True,20.0
+2026-10-11 17:00:00+00:00,75,E,Rain Showers Likely,True,20.0
+2026-10-11 18:00:00+00:00,75,E,Showers And Thunderstorms Likely,True,20.0
+2026-10-11 19:00:00+00:00,75,E,Showers And Thunderstorms Likely,True,20.0
