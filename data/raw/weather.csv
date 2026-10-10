@@ -1930,3 +1930,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-16 22:00:00+00:00,76,S,Mostly Clear,False,9.0
 2026-10-16 23:00:00+00:00,75,S,Mostly Clear,False,9.0
 2026-10-17 00:00:00+00:00,73,S,Clear,False,8.0
+2026-10-17 01:00:00+00:00,71,S,Clear,False,7.0
+2026-10-17 02:00:00+00:00,70,SW,Clear,False,7.0
+2026-10-17 03:00:00+00:00,68,SW,Clear,False,8.0
+2026-10-17 04:00:00+00:00,68,SW,Clear,False,8.0
+2026-10-17 05:00:00+00:00,67,SW,Clear,False,8.0
