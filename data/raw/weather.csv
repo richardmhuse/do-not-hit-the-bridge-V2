@@ -1961,3 +1961,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-18 05:00:00+00:00,54,N,Mostly Clear,False,15.0
 2026-10-18 06:00:00+00:00,52,N,Mostly Clear,False,15.0
 2026-10-18 07:00:00+00:00,51,N,Mostly Clear,False,15.0
+2026-10-18 08:00:00+00:00,50,N,Mostly Clear,False,16.0
+2026-10-18 09:00:00+00:00,50,N,Mostly Clear,False,16.0
+2026-10-18 10:00:00+00:00,48,N,Sunny,True,16.0
