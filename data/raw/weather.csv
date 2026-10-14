@@ -2032,3 +2032,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-10-21 04:00:00+00:00,63,NE,Mostly Clear,False,9.0
 2026-10-21 05:00:00+00:00,62,NE,Mostly Clear,False,9.0
 2026-10-21 06:00:00+00:00,62,N,Mostly Clear,False,9.0
+2026-10-21 07:00:00+00:00,61,N,Mostly Clear,False,9.0
+2026-10-21 08:00:00+00:00,60,N,Mostly Clear,False,10.0
+2026-10-21 09:00:00+00:00,60,N,Mostly Clear,False,12.0
