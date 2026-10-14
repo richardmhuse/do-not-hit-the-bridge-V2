@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-10-14T04:21:55.870768+00:00",
+  "trained_at": "2026-10-14T10:02:30.104566+00:00",
   "name": "nowcast",
   "task": "nowcast",
   "feature_cols": [
@@ -38,12 +38,12 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "residual_mae_ft": 0.10657418037703324,
-    "residual_rmse_ft": 0.2494568949386878,
-    "n_test": 1384,
-    "level_mae_ft": 0.10657418037703324,
-    "level_rmse_ft": 0.2494568949386878,
-    "n_train": 6659
+    "residual_mae_ft": 0.09894742218598548,
+    "residual_rmse_ft": 0.24005081189624144,
+    "n_test": 1389,
+    "level_mae_ft": 0.09894742218598548,
+    "level_rmse_ft": 0.24005081189624144,
+    "n_train": 6722
   },
   "xgb_params": {
     "n_estimators": 400,
