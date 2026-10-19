@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-10-18T22:57:03.845329+00:00",
+  "trained_at": "2026-10-19T01:01:13.633527+00:00",
   "name": "residual_3h",
   "task": "horizon_residual",
   "feature_cols": [
@@ -38,12 +38,12 @@
     "tide_residual_lag24"
   ],
   "metrics": {
-    "residual_mae_ft": 0.314226147857239,
-    "residual_rmse_ft": 0.3860496502476517,
+    "residual_mae_ft": 0.3420602615226774,
+    "residual_rmse_ft": 0.4160130796562299,
     "n_test": 1410,
-    "level_mae_ft": 0.314226147857239,
-    "level_rmse_ft": 0.3860496502476517,
-    "n_train": 6795,
+    "level_mae_ft": 0.3420602615226773,
+    "level_rmse_ft": 0.41601307965622986,
+    "n_train": 6535,
     "steps": 36,
     "lead_hours": 3
   },
