@@ -2295,3 +2295,5 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-01 03:00:00+00:00,64,NE,Partly Cloudy,False,7.0
 2026-11-01 04:00:00+00:00,63,NE,Partly Cloudy,False,6.0
 2026-11-01 05:00:00+00:00,63,NE,Partly Cloudy,False,6.0
+2026-11-01 06:00:00+00:00,64,NE,Partly Cloudy,False,5.0
+2026-11-01 07:00:00+00:00,63,NE,Partly Cloudy,False,5.0
