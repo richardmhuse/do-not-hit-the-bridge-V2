@@ -2301,3 +2301,6 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-01 09:00:00+00:00,63,NE,Partly Cloudy,False,5.0
 2026-11-01 10:00:00+00:00,62,NE,Partly Cloudy,False,5.0
 2026-11-01 11:00:00+00:00,62,NE,Mostly Sunny,True,5.0
+2026-11-01 12:00:00+00:00,63,NE,Chance Rain Showers,True,6.0
+2026-11-01 13:00:00+00:00,66,NE,Chance Rain Showers,True,6.0
+2026-11-01 14:00:00+00:00,69,E,Chance Rain Showers,True,7.0
