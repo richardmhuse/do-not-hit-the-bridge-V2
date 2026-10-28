@@ -2353,3 +2353,10 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-03 13:00:00+00:00,64,N,Mostly Sunny,True,7.0
 2026-11-03 14:00:00+00:00,68,NE,Mostly Sunny,True,8.0
 2026-11-03 15:00:00+00:00,72,NE,Mostly Sunny,True,9.0
+2026-11-03 16:00:00+00:00,74,E,Slight Chance Rain Showers,True,10.0
+2026-11-03 17:00:00+00:00,75,E,Slight Chance Rain Showers,True,12.0
+2026-11-03 18:00:00+00:00,76,SE,Mostly Sunny,True,12.0
+2026-11-03 19:00:00+00:00,76,SE,Mostly Sunny,True,12.0
+2026-11-03 20:00:00+00:00,76,SE,Mostly Sunny,True,12.0
+2026-11-03 21:00:00+00:00,76,E,Mostly Sunny,True,12.0
+2026-11-03 22:00:00+00:00,74,E,Mostly Sunny,True,10.0
