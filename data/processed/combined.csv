@@ -1,285 +1,4 @@
 t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph,rain_inches,station,illumination,phase_angle,phase_name,rain_24h,rain_72h,rain_7d
-2026-10-01 04:00:10+00:00,3.88,3.931,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7628,76.28,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:05:10+00:00,3.85,3.931,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7628,76.28,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:10:10+00:00,3.83,3.931,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7628,76.28,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:15:10+00:00,3.8,3.931,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7628,76.28,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:20:10+00:00,3.76,3.931,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7628,76.28,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:25:10+00:00,3.71,3.931,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7628,76.28,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:30:10+00:00,3.66,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:35:10+00:00,3.62,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:40:10+00:00,3.59,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:45:10+00:00,3.55,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:50:10+00:00,3.47,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 04:55:10+00:00,3.43,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:00:10+00:00,3.37,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:05:10+00:00,3.33,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:10:10+00:00,3.27,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:15:10+00:00,3.2,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:20:10+00:00,3.15,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:25:10+00:00,3.08,3.179,72,S,Mostly Clear,False,5.0,0.0,KILM,0.7587,75.87,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:30:10+00:00,3.02,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:35:10+00:00,2.94,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:40:10+00:00,2.87,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:45:10+00:00,2.79,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:50:10+00:00,2.73,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 05:55:10+00:00,2.63,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:00:10+00:00,2.58,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:05:10+00:00,2.49,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:10:10+00:00,2.42,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:15:11+00:00,2.36,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:20:10+00:00,2.29,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:25:10+00:00,2.23,2.177,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7546,75.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:35:10+00:00,2.08,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:40:10+00:00,2.02,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:45:10+00:00,1.96,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:50:10+00:00,1.89,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 06:55:10+00:00,1.82,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:00:10+00:00,1.75,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:05:10+00:00,1.68,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:10:10+00:00,1.59,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:15:10+00:00,1.53,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:20:10+00:00,1.45,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:25:10+00:00,1.39,1.23,72,S,Partly Cloudy,False,5.0,0.0,KILM,0.7504,75.04,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:30:10+00:00,1.3,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:35:10+00:00,1.25,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:40:10+00:00,1.17,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:45:10+00:00,1.09,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:50:10+00:00,1.02,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 07:55:10+00:00,0.94,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:00:10+00:00,0.8700000000000001,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:05:10+00:00,0.8,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:10:10+00:00,0.73,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:15:10+00:00,0.6599999999999999,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:20:10+00:00,0.5900000000000001,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KILM,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:25:10+00:00,0.51,0.581,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7462,74.62,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:30:10+00:00,0.4299999999999999,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:35:10+00:00,0.3600000000000001,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:40:10+00:00,0.29,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:45:10+00:00,0.2199999999999999,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:50:10+00:00,0.1599999999999999,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 08:55:10+00:00,0.1,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 09:00:10+00:00,0.05,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 09:05:10+00:00,0.01,0.376,71,SW,Partly Cloudy,False,3.0,0.0,KOAJ,0.7421,74.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 09:40:10+00:00,0.02,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 09:45:10+00:00,0.07,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 09:50:10+00:00,0.07,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 09:55:10+00:00,0.05,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:00:10+00:00,0.06,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:05:10+00:00,0.1299999999999999,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:10:10+00:00,0.1799999999999999,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:15:10+00:00,0.1599999999999999,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:20:10+00:00,0.1399999999999999,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:25:10+00:00,0.1599999999999999,0.693,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7378,73.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:30:10+00:00,0.1999999999999999,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:35:10+00:00,0.26,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:40:10+00:00,0.32,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:45:10+00:00,0.3700000000000001,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:50:10+00:00,0.4099999999999999,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 10:55:10+00:00,0.48,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:00:10+00:00,0.55,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:05:10+00:00,0.6399999999999999,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:10:10+00:00,0.71,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:15:10+00:00,0.77,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:20:10+00:00,0.8400000000000001,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:25:10+00:00,0.92,1.497,70,SW,Mostly Sunny,True,3.0,0.0,KOAJ,0.7336,73.36,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:30:10+00:00,0.99,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:35:10+00:00,1.06,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:40:10+00:00,1.12,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:45:10+00:00,1.19,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:50:10+00:00,1.26,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 11:55:10+00:00,1.33,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:00:10+00:00,1.42,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:05:10+00:00,1.5,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:10:10+00:00,1.58,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:15:10+00:00,1.66,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:20:10+00:00,1.75,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:25:10+00:00,1.82,2.598,70,W,Sunny,True,3.0,0.0,KOAJ,0.7293,72.93,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:30:10+00:00,1.89,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:35:10+00:00,1.97,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:40:10+00:00,2.05,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:45:10+00:00,2.13,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:50:10+00:00,2.22,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 12:55:10+00:00,2.29,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:00:10+00:00,2.37,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:05:10+00:00,2.45,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:10:10+00:00,2.55,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:15:10+00:00,2.64,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:20:10+00:00,2.72,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:25:10+00:00,2.8,3.717,74,SW,Sunny,True,5.0,0.0,KOAJ,0.7251,72.51,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:30:10+00:00,2.89,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:35:10+00:00,2.97,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:40:10+00:00,3.0700000000000003,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:45:10+00:00,3.14,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:50:10+00:00,3.21,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 13:55:10+00:00,3.3,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:00:10+00:00,3.39,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:05:10+00:00,3.47,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:10:10+00:00,3.55,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:15:10+00:00,3.62,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:20:10+00:00,3.69,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:25:10+00:00,3.76,4.616,77,S,Sunny,True,6.0,0.0,KOAJ,0.7208,72.08,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:30:10+00:00,3.83,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:35:10+00:00,3.9,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:40:10+00:00,3.97,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:45:10+00:00,4.029999999999999,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:50:10+00:00,4.09,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 14:55:10+00:00,4.17,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:00:10+00:00,4.23,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:05:10+00:00,4.26,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:10:10+00:00,4.3100000000000005,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:15:10+00:00,4.37,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:20:10+00:00,4.43,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:25:10+00:00,4.48,5.133,80,S,Mostly Sunny,True,7.0,0.0,KOAJ,0.7164,71.64,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:30:10+00:00,4.55,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:35:10+00:00,4.609999999999999,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:40:10+00:00,4.640000000000001,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:45:10+00:00,4.7,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:50:10+00:00,4.720000000000001,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 15:55:10+00:00,4.76,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:00:10+00:00,4.8100000000000005,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:05:10+00:00,4.82,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:10:10+00:00,4.82,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:15:10+00:00,4.82,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:20:10+00:00,4.8,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:25:10+00:00,4.77,5.141,82,S,Mostly Sunny,True,8.0,0.0,KOAJ,0.7121,71.21,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:30:10+00:00,4.75,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:35:10+00:00,4.71,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:40:10+00:00,4.640000000000001,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:45:10+00:00,4.59,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:50:10+00:00,4.54,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 16:55:10+00:00,4.48,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:00:10+00:00,4.42,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:05:10+00:00,4.359999999999999,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:10:10+00:00,4.3100000000000005,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:15:10+00:00,4.23,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:20:10+00:00,4.2,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:25:10+00:00,4.13,4.607,82,S,Mostly Sunny,True,9.0,0.0,KOAJ,0.7078,70.78,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:30:10+00:00,4.07,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:35:10+00:00,4.01,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:40:10+00:00,3.96,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:45:10+00:00,3.89,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:50:10+00:00,3.84,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 17:55:10+00:00,3.78,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:00:10+00:00,3.7,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:05:10+00:00,3.64,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:10:10+00:00,3.58,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:15:10+00:00,3.53,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:20:10+00:00,3.45,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:25:10+00:00,3.4,3.68,82,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.7034,70.34,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:30:10+00:00,3.33,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:35:10+00:00,3.25,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:40:10+00:00,3.2,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:45:10+00:00,3.13,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:50:10+00:00,3.0700000000000003,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 18:55:10+00:00,3.0,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:00:10+00:00,2.92,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:05:10+00:00,2.87,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:10:10+00:00,2.8,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:15:10+00:00,2.74,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:20:10+00:00,2.68,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:25:10+00:00,2.6,2.645,83,S,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.699,69.9,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:30:10+00:00,2.55,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:35:10+00:00,2.46,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:40:10+00:00,2.38,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:45:10+00:00,2.34,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:50:10+00:00,2.26,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 19:55:10+00:00,2.2,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:00:10+00:00,2.13,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:05:10+00:00,2.07,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:10:10+00:00,2.01,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:15:10+00:00,1.96,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:20:10+00:00,1.91,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:25:10+00:00,1.83,1.755,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6946,69.46,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:30:10+00:00,1.76,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:35:10+00:00,1.7,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:40:10+00:00,1.64,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:45:10+00:00,1.57,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:50:10+00:00,1.51,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 20:55:10+00:00,1.46,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:00:10+00:00,1.38,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:05:10+00:00,1.31,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:10:10+00:00,1.25,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:15:10+00:00,1.1800000000000002,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:20:10+00:00,1.12,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:25:10+00:00,1.0699999999999998,1.154,83,S,Slight Chance Rain Showers,True,9.0,0.0,KOAJ,0.6901,69.01,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:30:10+00:00,1.01,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:35:10+00:00,0.96,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:40:10+00:00,0.8899999999999999,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:45:10+00:00,0.8500000000000001,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:50:10+00:00,0.79,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 21:55:10+00:00,0.75,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:00:10+00:00,0.73,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:05:10+00:00,0.69,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:10:10+00:00,0.6499999999999999,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:15:10+00:00,0.6200000000000001,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:20:10+00:00,0.6000000000000001,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:25:10+00:00,0.5800000000000001,0.929,82,S,Slight Chance Rain Showers,False,8.0,0.0,KILM,0.6857,68.57,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:30:10+00:00,0.5700000000000001,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:35:10+00:00,0.54,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:40:10+00:00,0.53,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:45:10+00:00,0.52,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:50:10+00:00,0.55,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 22:55:10+00:00,0.55,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:00:10+00:00,0.55,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:05:10+00:00,0.5900000000000001,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:10:10+00:00,0.6200000000000001,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:15:10+00:00,0.6299999999999999,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:20:10+00:00,0.6399999999999999,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:25:10+00:00,0.69,1.133,80,S,Slight Chance Rain Showers,False,7.0,0.0,KILM,0.6812,68.12,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:30:10+00:00,0.72,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:35:10+00:00,0.76,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:40:10+00:00,0.79,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:45:10+00:00,0.8200000000000001,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:50:10+00:00,0.8799999999999999,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-01 23:55:10+00:00,0.93,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:00:10+00:00,0.98,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:05:10+00:00,1.03,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:10:10+00:00,1.08,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:15:10+00:00,1.14,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:20:10+00:00,1.2,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:25:10+00:00,1.26,1.717,78,S,Partly Cloudy,False,6.0,0.0,KILM,0.6767,67.67,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:30:10+00:00,1.3,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:35:10+00:00,1.36,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:40:10+00:00,1.42,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:45:10+00:00,1.48,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:50:10+00:00,1.55,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 00:55:10+00:00,1.61,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:00:10+00:00,1.66,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:05:10+00:00,1.72,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:10:10+00:00,1.78,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:15:10+00:00,1.83,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:20:10+00:00,1.9,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:25:10+00:00,1.97,2.505,76,S,Mostly Clear,False,5.0,0.0,KILM,0.6722,67.22,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:30:10+00:00,2.01,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:35:10+00:00,2.06,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:40:10+00:00,2.1,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:45:10+00:00,2.17,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:50:10+00:00,2.22,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 01:55:10+00:00,2.29,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:00:10+00:00,2.34,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:05:10+00:00,2.41,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:10:10+00:00,2.47,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:15:10+00:00,2.53,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:20:10+00:00,2.58,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:25:10+00:00,2.64,3.281,75,S,Mostly Clear,False,5.0,0.0,KILM,0.6677,66.77,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:30:10+00:00,2.7,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:35:10+00:00,2.77,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:40:10+00:00,2.83,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:45:10+00:00,2.88,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:50:10+00:00,2.96,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 02:55:10+00:00,3.01,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:00:10+00:00,3.08,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:05:10+00:00,3.13,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:10:10+00:00,3.18,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:15:10+00:00,3.24,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:20:10+00:00,3.3,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:25:10+00:00,3.35,3.851,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6632,66.32,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:30:10+00:00,3.39,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:35:10+00:00,3.45,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:40:10+00:00,3.5,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:45:10+00:00,3.54,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:50:10+00:00,3.58,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
-2026-10-02 03:55:10+00:00,3.62,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
 2026-10-02 04:00:10+00:00,3.65,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
 2026-10-02 04:05:10+00:00,3.68,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
 2026-10-02 04:10:10+00:00,3.72,4.042,74,S,Mostly Clear,False,3.0,0.0,KILM,0.6586,65.86,waning_gibbous,0.0,0.0,0.0
@@ -7483,7 +7202,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 04:35:10+00:00,2.57,1.007,58,NE,Clear,False,8.0,0.0,KILM,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
 2026-10-28 04:40:10+00:00,2.48,1.007,58,NE,Clear,False,8.0,0.0,KILM,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
 2026-10-28 04:45:10+00:00,2.4,1.007,58,NE,Clear,False,8.0,0.0,KILM,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
-2026-10-28 04:50:10+00:00,2.35,1.007,58,NE,Clear,False,8.0,0.0,KOAJ,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
+2026-10-28 04:50:10+00:00,2.35,1.007,58,NE,Clear,False,8.0,0.0,KILM,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
 2026-10-28 04:55:10+00:00,2.25,1.007,58,NE,Clear,False,8.0,0.0,KOAJ,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
 2026-10-28 05:00:10+00:00,2.19,1.007,58,NE,Clear,False,8.0,0.0,KOAJ,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
 2026-10-28 05:05:10+00:00,2.1,1.007,58,NE,Clear,False,8.0,0.0,KOAJ,0.9415,94.15,waning_gibbous,0.0,0.0,0.0
@@ -7521,7 +7240,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 08:35:10+00:00,0.27,1.173,56,NE,Mostly Clear,False,10.0,0.0,KOAJ,0.932,93.2,waning_gibbous,0.0,0.0,0.0
 2026-10-28 08:40:10+00:00,0.3400000000000001,1.173,56,NE,Mostly Clear,False,10.0,0.0,KOAJ,0.932,93.2,waning_gibbous,0.0,0.0,0.0
 2026-10-28 08:45:10+00:00,0.4199999999999999,1.173,56,NE,Mostly Clear,False,10.0,0.0,KOAJ,0.932,93.2,waning_gibbous,0.0,0.0,0.0
-2026-10-28 08:50:10+00:00,0.5,1.173,56,NE,Mostly Clear,False,10.0,0.0,KFBG,0.932,93.2,waning_gibbous,0.0,0.0,0.0
+2026-10-28 08:50:10+00:00,0.5,1.173,56,NE,Mostly Clear,False,10.0,0.0,KILM,0.932,93.2,waning_gibbous,0.0,0.0,0.0
 2026-10-28 08:55:10+00:00,0.56,1.173,56,NE,Mostly Clear,False,10.0,0.0,KFBG,0.932,93.2,waning_gibbous,0.0,0.0,0.0
 2026-10-28 09:00:10+00:00,0.6399999999999999,1.173,56,NE,Mostly Clear,False,10.0,0.0,KOAJ,0.932,93.2,waning_gibbous,0.0,0.0,0.0
 2026-10-28 09:05:10+00:00,0.7,1.173,56,NE,Mostly Clear,False,10.0,0.0,KOAJ,0.932,93.2,waning_gibbous,0.0,0.0,0.0
@@ -7545,7 +7264,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 10:35:10+00:00,2.29,3.978,56,N,Sunny,True,12.0,0.0,KOAJ,0.927,92.7,waning_gibbous,0.0,0.0,0.0
 2026-10-28 10:40:10+00:00,2.38,3.978,56,N,Sunny,True,12.0,0.0,KOAJ,0.927,92.7,waning_gibbous,0.0,0.0,0.0
 2026-10-28 10:45:10+00:00,2.48,3.978,56,N,Sunny,True,12.0,0.0,KOAJ,0.927,92.7,waning_gibbous,0.0,0.0,0.0
-2026-10-28 10:50:10+00:00,2.58,3.978,56,N,Sunny,True,12.0,0.0,KFBG,0.927,92.7,waning_gibbous,0.0,0.0,0.0
+2026-10-28 10:50:10+00:00,2.58,3.978,56,N,Sunny,True,12.0,0.0,KILM,0.927,92.7,waning_gibbous,0.0,0.0,0.0
 2026-10-28 10:55:10+00:00,2.68,3.978,56,N,Sunny,True,12.0,0.0,KFBG,0.927,92.7,waning_gibbous,0.0,0.0,0.0
 2026-10-28 11:00:10+00:00,2.78,3.978,56,N,Sunny,True,12.0,0.0,KOAJ,0.927,92.7,waning_gibbous,0.0,0.0,0.0
 2026-10-28 11:05:10+00:00,2.88,3.978,56,N,Sunny,True,12.0,0.0,KOAJ,0.927,92.7,waning_gibbous,0.0,0.0,0.0
@@ -7564,8 +7283,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 12:10:10+00:00,4.140000000000001,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:15:10+00:00,4.23,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:20:10+00:00,4.33,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
-2026-10-28 12:25:10+00:00,4.42,5.035,57,N,Mostly Sunny,True,12.0,0.0,KFBG,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
-2026-10-28 12:30:10+00:00,4.5,5.556,60,N,Mostly Sunny,True,12.0,0.0,KFBG,0.9218,92.18,waning_gibbous,0.0,0.0,0.0
+2026-10-28 12:25:10+00:00,4.42,5.035,57,N,Mostly Sunny,True,12.0,0.0,KILM,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
+2026-10-28 12:30:10+00:00,4.5,5.556,60,N,Mostly Sunny,True,12.0,0.0,KILM,0.9218,92.18,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:35:10+00:00,4.59,5.556,60,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9218,92.18,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:40:10+00:00,4.67,5.556,60,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9218,92.18,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:45:10+00:00,4.75,5.556,60,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9218,92.18,waning_gibbous,0.0,0.0,0.0
@@ -7586,25 +7305,25 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 14:00:10+00:00,5.79,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:05:10+00:00,5.8100000000000005,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:10:10+00:00,5.82,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
-2026-10-28 14:15:10+00:00,5.84,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
+2026-10-28 14:15:10+00:00,5.84,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KILM,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:20:10+00:00,5.83,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:25:10+00:00,5.8100000000000005,5.465,64,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9192,91.92,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:30:10+00:00,5.82,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:35:10+00:00,5.8,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:40:10+00:00,5.74,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:45:10+00:00,5.67,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
-2026-10-28 14:50:10+00:00,5.65,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
+2026-10-28 14:50:10+00:00,5.65,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KILM,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 14:55:10+00:00,5.6,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:00:10+00:00,5.54,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:05:10+00:00,5.49,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:10:10+00:00,5.44,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
-2026-10-28 15:15:10+00:00,5.37,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
+2026-10-28 15:15:10+00:00,5.37,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KILM,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:20:10+00:00,5.3100000000000005,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:25:10+00:00,5.24,4.798,67,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.9165,91.65,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:30:10+00:00,5.16,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:35:10+00:00,5.09,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:40:10+00:00,5.01,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
-2026-10-28 15:45:10+00:00,4.95,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KFBG,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
+2026-10-28 15:45:10+00:00,4.95,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KILM,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:50:10+00:00,4.84,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 15:55:10+00:00,4.79,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:00:10+00:00,4.720000000000001,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
@@ -7613,8 +7332,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 16:15:10+00:00,4.45,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:20:10+00:00,4.390000000000001,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:25:10+00:00,4.3100000000000005,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
-2026-10-28 16:30:10+00:00,4.23,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
-2026-10-28 16:35:10+00:00,4.140000000000001,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
+2026-10-28 16:30:10+00:00,4.23,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KILM,0.911,91.1,waning_gibbous,0.0,0.0,0.0
+2026-10-28 16:35:10+00:00,4.140000000000001,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KILM,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:40:10+00:00,4.04,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:45:10+00:00,3.97,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:50:10+00:00,3.86,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
@@ -7625,15 +7344,15 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 17:15:10+00:00,3.4,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KFBG,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 17:20:10+00:00,3.35,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KFBG,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 17:25:10+00:00,3.27,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
-2026-10-28 17:30:10+00:00,3.18,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
-2026-10-28 17:35:10+00:00,3.1,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
+2026-10-28 17:30:10+00:00,3.18,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KILM,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
+2026-10-28 17:35:10+00:00,3.1,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KILM,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 17:40:10+00:00,3.01,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 17:45:10+00:00,2.93,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
-2026-10-28 17:50:10+00:00,2.84,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KFBG,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
+2026-10-28 17:50:10+00:00,2.84,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KILM,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 17:55:10+00:00,2.8,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KFBG,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:00:10+00:00,2.72,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
-2026-10-28 18:05:10+00:00,2.6,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
-2026-10-28 18:10:10+00:00,2.53,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
+2026-10-28 18:05:10+00:00,2.6,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KILM,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
+2026-10-28 18:10:10+00:00,2.53,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KILM,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:15:10+00:00,2.45,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:20:10+00:00,2.36,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:25:10+00:00,2.27,1.38,72,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9082,90.82,waning_gibbous,0.0,0.0,0.0
@@ -7641,7 +7360,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 18:35:10+00:00,2.1,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:40:10+00:00,2.07,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KFBG,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:45:10+00:00,1.96,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
-2026-10-28 18:50:10+00:00,1.9,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KFBG,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
+2026-10-28 18:50:10+00:00,1.9,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KILM,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
 2026-10-28 18:55:10+00:00,1.8,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KFBG,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
 2026-10-28 19:00:10+00:00,1.74,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
 2026-10-28 19:05:10+00:00,1.69,0.56,74,NE,Mostly Sunny,True,15.0,0.0,KOAJ,0.9053,90.53,waning_gibbous,0.0,0.0,0.0
@@ -7681,7 +7400,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 22:35:10+00:00,1.52,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 22:40:10+00:00,1.6,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 22:45:10+00:00,1.68,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
-2026-10-28 22:50:10+00:00,1.77,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
+2026-10-28 22:50:10+00:00,1.77,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KILM,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 22:55:10+00:00,1.85,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:00:10+00:00,1.93,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:05:10+00:00,2.02,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
@@ -7692,17 +7411,17 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 23:30:10+00:00,2.41,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:35:10+00:00,2.48,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:40:10+00:00,2.55,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
-2026-10-28 23:45:10+00:00,2.62,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
+2026-10-28 23:45:10+00:00,2.62,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KILM,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:50:10+00:00,2.68,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:55:10+00:00,2.76,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:00:10+00:00,2.82,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:05:10+00:00,2.89,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:10:10+00:00,2.97,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:15:10+00:00,3.03,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
-2026-10-29 00:20:10+00:00,3.1100000000000003,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
-2026-10-29 00:25:10+00:00,3.18,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
-2026-10-29 00:30:10+00:00,3.24,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
-2026-10-29 00:35:10+00:00,3.31,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
+2026-10-29 00:20:10+00:00,3.1100000000000003,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KILM,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
+2026-10-29 00:25:10+00:00,3.18,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KILM,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
+2026-10-29 00:30:10+00:00,3.24,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KILM,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
+2026-10-29 00:35:10+00:00,3.31,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KILM,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:40:10+00:00,3.37,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:45:10+00:00,3.45,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
 2026-10-29 00:50:10+00:00,3.51,4.112,64,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8874,88.74,waning_gibbous,0.0,0.0,0.0
@@ -7716,8 +7435,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 01:30:10+00:00,4.01,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
 2026-10-29 01:35:10+00:00,4.08,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
 2026-10-29 01:40:10+00:00,4.140000000000001,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
-2026-10-29 01:45:10+00:00,4.2,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KFBG,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
-2026-10-29 01:50:10+00:00,4.25,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KFBG,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
+2026-10-29 01:45:10+00:00,4.2,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KILM,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
+2026-10-29 01:50:10+00:00,4.25,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KILM,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
 2026-10-29 01:55:10+00:00,4.3,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KFBG,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
 2026-10-29 02:00:10+00:00,4.35,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
 2026-10-29 02:05:10+00:00,4.4,4.233,62,NE,Partly Cloudy,False,13.0,0.0,KOAJ,0.8842,88.42,waning_gibbous,0.0,0.0,0.0
@@ -7729,19 +7448,19 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 02:35:10+00:00,4.54,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 02:40:10+00:00,4.57,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 02:45:10+00:00,4.57,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
-2026-10-29 02:50:10+00:00,4.57,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
+2026-10-29 02:50:10+00:00,4.57,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 02:55:10+00:00,4.57,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 03:00:10+00:00,4.57,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 03:05:10+00:00,4.5600000000000005,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 03:10:10+00:00,4.54,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 03:15:10+00:00,4.51,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
 2026-10-29 03:20:10+00:00,4.470000000000001,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
-2026-10-29 03:25:10+00:00,4.42,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KOAJ,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
-2026-10-29 03:30:10+00:00,4.359999999999999,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 03:35:10+00:00,4.33,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 03:40:10+00:00,4.279999999999999,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 03:45:10+00:00,4.24,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 03:50:10+00:00,4.19,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 03:25:10+00:00,4.42,3.821,61,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8811,88.11,waning_gibbous,0.0,0.0,0.0
+2026-10-29 03:30:10+00:00,4.359999999999999,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 03:35:10+00:00,4.33,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 03:40:10+00:00,4.279999999999999,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 03:45:10+00:00,4.24,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 03:50:10+00:00,4.19,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 03:55:10+00:00,4.13,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 04:00:10+00:00,4.08,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 04:05:10+00:00,4.02,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
@@ -7750,10 +7469,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 04:20:10+00:00,3.82,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 04:25:10+00:00,3.75,2.965,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8779,87.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 04:30:10+00:00,3.68,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
-2026-10-29 04:35:10+00:00,3.6,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
-2026-10-29 04:40:10+00:00,3.53,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
-2026-10-29 04:45:10+00:00,3.45,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
-2026-10-29 04:50:10+00:00,3.39,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
+2026-10-29 04:35:10+00:00,3.6,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
+2026-10-29 04:40:10+00:00,3.53,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
+2026-10-29 04:45:10+00:00,3.45,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
+2026-10-29 04:50:10+00:00,3.39,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
 2026-10-29 04:55:10+00:00,3.31,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
 2026-10-29 05:00:10+00:00,3.23,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
 2026-10-29 05:05:10+00:00,3.16,1.896,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8746,87.46,waning_gibbous,0.0,0.0,0.0
@@ -7764,8 +7483,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 05:30:10+00:00,2.8,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
 2026-10-29 05:35:10+00:00,2.72,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
 2026-10-29 05:40:10+00:00,2.64,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
-2026-10-29 05:45:10+00:00,2.57,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
-2026-10-29 05:50:10+00:00,2.5,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
+2026-10-29 05:45:10+00:00,2.57,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
+2026-10-29 05:50:10+00:00,2.5,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
 2026-10-29 05:55:10+00:00,2.41,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
 2026-10-29 06:00:10+00:00,2.35,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
 2026-10-29 06:05:10+00:00,2.27,0.891,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8714,87.14,waning_gibbous,0.0,0.0,0.0
@@ -7785,11 +7504,11 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 07:15:10+00:00,1.21,0.19,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8681,86.81,waning_gibbous,0.0,0.0,0.0
 2026-10-29 07:20:10+00:00,1.14,0.19,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8681,86.81,waning_gibbous,0.0,0.0,0.0
 2026-10-29 07:25:10+00:00,1.0699999999999998,0.19,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8681,86.81,waning_gibbous,0.0,0.0,0.0
-2026-10-29 07:30:10+00:00,1.0,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
-2026-10-29 07:35:10+00:00,0.92,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
+2026-10-29 07:30:10+00:00,1.0,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
+2026-10-29 07:35:10+00:00,0.92,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 07:40:10+00:00,0.8500000000000001,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 07:45:10+00:00,0.78,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
-2026-10-29 07:50:10+00:00,0.71,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
+2026-10-29 07:50:10+00:00,0.71,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 07:55:10+00:00,0.6499999999999999,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:00:10+00:00,0.5800000000000001,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:05:10+00:00,0.51,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
@@ -7813,7 +7532,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 09:35:10+00:00,0.49,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 09:40:10+00:00,0.54,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 09:45:10+00:00,0.6100000000000001,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 09:50:10+00:00,0.6799999999999999,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 09:50:10+00:00,0.6799999999999999,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KILM,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 09:55:10+00:00,0.75,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:00:10+00:00,0.8300000000000001,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:05:10+00:00,0.8899999999999999,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
@@ -7825,11 +7544,11 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 10:35:10+00:00,1.35,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:40:10+00:00,1.4300000000000002,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:45:10+00:00,1.52,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KFBG,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
-2026-10-29 10:50:10+00:00,1.61,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KFBG,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
+2026-10-29 10:50:10+00:00,1.61,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KILM,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:55:10+00:00,1.7,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KFBG,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
-2026-10-29 11:00:10+00:00,1.79,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
-2026-10-29 11:05:10+00:00,1.89,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
-2026-10-29 11:10:10+00:00,1.98,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
+2026-10-29 11:00:10+00:00,1.79,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KILM,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
+2026-10-29 11:05:10+00:00,1.89,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KILM,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
+2026-10-29 11:10:10+00:00,1.98,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KILM,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 11:15:10+00:00,2.08,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 11:20:10+00:00,2.17,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 11:25:10+00:00,2.26,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
@@ -7849,19 +7568,19 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 12:35:10+00:00,3.51,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 12:40:10+00:00,3.61,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 12:45:10+00:00,3.7,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
-2026-10-29 12:50:10+00:00,3.8,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
+2026-10-29 12:50:10+00:00,3.8,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 12:55:10+00:00,3.89,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 13:00:10+00:00,3.99,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 13:05:10+00:00,4.08,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 13:10:10+00:00,4.17,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 13:15:10+00:00,4.26,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
 2026-10-29 13:20:10+00:00,4.35,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
-2026-10-29 13:25:10+00:00,4.43,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
-2026-10-29 13:30:10+00:00,4.52,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
-2026-10-29 13:35:10+00:00,4.6,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
-2026-10-29 13:40:10+00:00,4.69,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
-2026-10-29 13:45:10+00:00,4.77,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
-2026-10-29 13:50:10+00:00,4.859999999999999,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
+2026-10-29 13:25:10+00:00,4.43,4.984,62,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8475,84.75,waning_gibbous,0.0,0.0,0.0
+2026-10-29 13:30:10+00:00,4.52,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
+2026-10-29 13:35:10+00:00,4.6,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
+2026-10-29 13:40:10+00:00,4.69,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
+2026-10-29 13:45:10+00:00,4.77,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
+2026-10-29 13:50:10+00:00,4.859999999999999,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KILM,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
 2026-10-29 13:55:10+00:00,4.93,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
 2026-10-29 14:00:10+00:00,5.01,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
 2026-10-29 14:05:10+00:00,5.09,5.427,66,NE,Mostly Sunny,True,12.0,0.0,KOAJ,0.8439,84.39,waning_gibbous,0.0,0.0,0.0
@@ -7872,8 +7591,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 14:30:10+00:00,5.43,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 14:35:10+00:00,5.48,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 14:40:10+00:00,5.54,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
-2026-10-29 14:45:10+00:00,5.6,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
-2026-10-29 14:50:10+00:00,5.65,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
+2026-10-29 14:45:10+00:00,5.6,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
+2026-10-29 14:50:10+00:00,5.65,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 14:55:10+00:00,5.68,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 15:00:10+00:00,5.69,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
 2026-10-29 15:05:10+00:00,5.720000000000001,5.301,69,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.8404,84.04,waning_gibbous,0.0,0.0,0.0
@@ -7895,205 +7614,205 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 16:25:10+00:00,4.94,4.622,71,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8367,83.67,waning_gibbous,0.0,0.0,0.0
 2026-10-29 16:30:10+00:00,4.84,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
 2026-10-29 16:35:10+00:00,4.779999999999999,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 16:40:10+00:00,4.7,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 16:45:10+00:00,4.640000000000001,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 16:50:10+00:00,4.57,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 16:40:10+00:00,4.7,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 16:45:10+00:00,4.640000000000001,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 16:50:10+00:00,4.57,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
 2026-10-29 16:55:10+00:00,4.5,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:00:10+00:00,4.41,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:05:10+00:00,4.33,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:10:10+00:00,4.25,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:15:10+00:00,4.16,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:20:10+00:00,4.09,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:25:10+00:00,4.029999999999999,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:30:10+00:00,3.96,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:35:10+00:00,3.89,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:40:10+00:00,3.8,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:45:10+00:00,3.73,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 17:50:10+00:00,3.63,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:00:10+00:00,4.41,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:05:10+00:00,4.33,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:10:10+00:00,4.25,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:15:10+00:00,4.16,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:20:10+00:00,4.09,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:25:10+00:00,4.029999999999999,3.562,73,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8331,83.31,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:30:10+00:00,3.96,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:35:10+00:00,3.89,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:40:10+00:00,3.8,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:45:10+00:00,3.73,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 17:50:10+00:00,3.63,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 17:55:10+00:00,3.55,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:00:10+00:00,3.51,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:05:10+00:00,3.43,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:10:10+00:00,3.34,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:00:10+00:00,3.51,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:05:10+00:00,3.43,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:10:10+00:00,3.34,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:15:10+00:00,3.26,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:20:10+00:00,3.19,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:25:10+00:00,3.1100000000000003,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:30:10+00:00,3.03,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:35:10+00:00,2.93,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:40:10+00:00,2.85,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:45:10+00:00,2.79,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:50:10+00:00,2.72,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:30:10+00:00,3.03,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:35:10+00:00,2.93,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:40:10+00:00,2.85,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:45:10+00:00,2.79,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:50:10+00:00,2.72,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:55:10+00:00,2.62,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
 2026-10-29 19:00:10+00:00,2.57,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
 2026-10-29 19:05:10+00:00,2.52,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:10:10+00:00,2.46,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:20:10+00:00,2.28,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:25:10+00:00,2.22,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:30:10+00:00,2.14,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:35:10+00:00,2.04,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:40:10+00:00,1.98,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:45:10+00:00,1.9,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
-2026-10-29 19:50:11+00:00,1.86,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:10:10+00:00,2.46,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:20:10+00:00,2.28,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:25:10+00:00,2.22,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:30:10+00:00,2.14,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.822,82.2,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:35:10+00:00,2.04,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.822,82.2,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:40:10+00:00,1.98,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.822,82.2,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:45:10+00:00,1.9,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.822,82.2,waning_gibbous,0.0,0.0,0.0
+2026-10-29 19:50:11+00:00,1.86,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.822,82.2,waning_gibbous,0.0,0.0,0.0
 2026-10-29 19:55:10+00:00,1.79,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
 2026-10-29 20:00:10+00:00,1.72,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
 2026-10-29 20:05:10+00:00,1.64,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
 2026-10-29 20:10:11+00:00,1.56,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
 2026-10-29 20:15:10+00:00,1.48,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
-2026-10-29 20:25:10+00:00,1.34,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.822,82.2,waning_gibbous,0.0,0.0,0.0
-2026-10-29 20:30:10+00:00,1.29,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
-2026-10-29 20:35:10+00:00,1.22,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
-2026-10-29 20:45:11+00:00,1.0699999999999998,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
-2026-10-29 20:50:11+00:00,1.03,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
+2026-10-29 20:25:10+00:00,1.34,0.642,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.822,82.2,waning_gibbous,0.0,0.0,0.0
+2026-10-29 20:30:10+00:00,1.29,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
+2026-10-29 20:35:10+00:00,1.22,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
+2026-10-29 20:45:11+00:00,1.0699999999999998,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
+2026-10-29 20:50:11+00:00,1.03,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
 2026-10-29 20:55:10+00:00,0.97,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
 2026-10-29 21:05:10+00:00,0.8600000000000001,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
-2026-10-29 21:15:10+00:00,0.76,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
-2026-10-29 21:20:10+00:00,0.72,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
-2026-10-29 21:30:10+00:00,3.19,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 21:40:10+00:00,0.56,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 21:50:10+00:00,0.56,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 21:15:10+00:00,0.76,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
+2026-10-29 21:20:10+00:00,0.72,0.438,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8182,81.82,waning_gibbous,0.0,0.0,0.0
+2026-10-29 21:30:10+00:00,3.19,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 21:40:10+00:00,0.56,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 21:50:10+00:00,0.56,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
 2026-10-29 21:55:10+00:00,0.55,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:00:10+00:00,0.5900000000000001,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:05:10+00:00,0.6100000000000001,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:10:10+00:00,0.6399999999999999,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:15:10+00:00,0.69,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:20:10+00:00,0.77,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:25:10+00:00,0.8300000000000001,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:30:10+00:00,0.8999999999999999,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:35:10+00:00,0.96,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:40:10+00:00,1.02,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:45:11+00:00,1.0699999999999998,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 22:50:10+00:00,1.16,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:00:10+00:00,0.5900000000000001,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:05:10+00:00,0.6100000000000001,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:10:10+00:00,0.6399999999999999,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:15:10+00:00,0.69,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:20:10+00:00,0.77,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:25:10+00:00,0.8300000000000001,0.804,72,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8144,81.44,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:30:10+00:00,0.8999999999999999,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:35:10+00:00,0.96,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:40:10+00:00,1.02,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:45:11+00:00,1.0699999999999998,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 22:50:10+00:00,1.16,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
 2026-10-29 22:55:11+00:00,1.23,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
 2026-10-29 23:00:10+00:00,1.3199999999999998,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
 2026-10-29 23:05:11+00:00,1.38,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:10:10+00:00,1.46,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:15:10+00:00,1.53,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:20:10+00:00,1.6,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:25:11+00:00,1.66,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KFBG,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:30:10+00:00,1.73,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:35:10+00:00,1.79,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:40:10+00:00,1.85,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:45:10+00:00,1.92,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-29 23:50:10+00:00,1.99,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:10:10+00:00,1.46,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:15:10+00:00,1.53,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:20:10+00:00,1.6,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:25:11+00:00,1.66,1.606,70,NE,Partly Cloudy,False,12.0,0.0,KILM,0.8106,81.06,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:30:10+00:00,1.73,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:35:10+00:00,1.79,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:40:10+00:00,1.85,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:45:10+00:00,1.92,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-29 23:50:10+00:00,1.99,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
 2026-10-29 23:55:10+00:00,2.05,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:00:10+00:00,2.12,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:05:11+00:00,2.18,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:10:10+00:00,2.24,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:15:10+00:00,2.31,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:20:10+00:00,2.36,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:25:10+00:00,2.43,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KFBG,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:30:10+00:00,2.5,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:35:10+00:00,2.58,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:40:10+00:00,2.65,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:45:10+00:00,2.72,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 00:50:10+00:00,2.78,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:00:10+00:00,2.12,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:05:11+00:00,2.18,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:10:10+00:00,2.24,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:15:10+00:00,2.31,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:20:10+00:00,2.36,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:25:10+00:00,2.43,2.566,68,NE,Partly Cloudy,False,10.0,0.0,KILM,0.8068,80.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:30:10+00:00,2.5,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:35:10+00:00,2.58,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:40:10+00:00,2.65,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:45:10+00:00,2.72,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 00:50:10+00:00,2.78,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
 2026-10-30 00:55:10+00:00,2.86,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
 2026-10-30 01:00:10+00:00,2.92,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
 2026-10-30 01:05:10+00:00,2.99,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:10:10+00:00,3.05,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:15:10+00:00,3.12,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:20:10+00:00,3.19,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:25:10+00:00,3.26,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:30:10+00:00,3.3200000000000003,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:35:10+00:00,3.37,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:40:10+00:00,3.44,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:45:10+00:00,3.49,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 01:50:10+00:00,3.56,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:10:10+00:00,3.05,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:15:10+00:00,3.12,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:20:10+00:00,3.19,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:25:10+00:00,3.26,3.414,65,NE,Partly Cloudy,False,9.0,0.0,KILM,0.8029,80.29,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:30:10+00:00,3.3200000000000003,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:35:10+00:00,3.37,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:40:10+00:00,3.44,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:45:10+00:00,3.49,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 01:50:10+00:00,3.56,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
 2026-10-30 01:55:11+00:00,3.61,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:00:10+00:00,3.65,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:05:10+00:00,3.72,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:10:11+00:00,3.77,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:15:10+00:00,3.83,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:20:10+00:00,3.88,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:25:10+00:00,3.92,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KFBG,0.799,79.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:30:10+00:00,3.97,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:35:10+00:00,4.029999999999999,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:40:10+00:00,4.07,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:45:10+00:00,4.109999999999999,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 02:50:10+00:00,4.16,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:00:10+00:00,3.65,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:05:10+00:00,3.72,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:10:11+00:00,3.77,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:15:10+00:00,3.83,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:20:10+00:00,3.88,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:25:10+00:00,3.92,3.963,64,NE,Partly Cloudy,False,9.0,0.0,KILM,0.799,79.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:30:10+00:00,3.97,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:35:10+00:00,4.029999999999999,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:40:10+00:00,4.07,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:45:10+00:00,4.109999999999999,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 02:50:10+00:00,4.16,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 02:55:10+00:00,4.19,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:00:10+00:00,4.23,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:05:10+00:00,4.26,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:10:10+00:00,4.3,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:15:10+00:00,4.34,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:20:10+00:00,4.37,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:25:10+00:00,4.38,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KFBG,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:30:11+00:00,4.390000000000001,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:35:10+00:00,4.41,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:40:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:45:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:50:10+00:00,4.37,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:10:10+00:00,4.3,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:15:10+00:00,4.34,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:20:10+00:00,4.37,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:25:10+00:00,4.38,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:30:11+00:00,4.390000000000001,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:35:10+00:00,4.41,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:40:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:45:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:50:10+00:00,4.37,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:55:10+00:00,4.34,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:00:10+00:00,4.32,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:05:11+00:00,4.279999999999999,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:10:10+00:00,4.23,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:15:10+00:00,4.18,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:20:10+00:00,4.12,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:25:10+00:00,4.08,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:30:10+00:00,4.02,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:35:10+00:00,3.98,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:40:10+00:00,3.93,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:45:10+00:00,3.87,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:50:10+00:00,3.82,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:10:10+00:00,4.23,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:15:10+00:00,4.18,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:20:10+00:00,4.12,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:25:10+00:00,4.08,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:30:10+00:00,4.02,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:35:10+00:00,3.98,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:40:10+00:00,3.93,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:45:10+00:00,3.87,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:50:10+00:00,3.82,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:55:10+00:00,3.77,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:00:11+00:00,3.7,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:05:10+00:00,3.65,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:10:10+00:00,3.5700000000000003,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:15:10+00:00,3.52,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:20:10+00:00,3.45,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:25:11+00:00,3.38,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:30:10+00:00,3.31,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:35:10+00:00,3.24,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:40:10+00:00,3.19,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:45:10+00:00,3.12,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 05:50:10+00:00,3.04,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:00:11+00:00,3.7,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:05:10+00:00,3.65,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:10:10+00:00,3.5700000000000003,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:15:10+00:00,3.52,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:20:10+00:00,3.45,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:25:11+00:00,3.38,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:30:10+00:00,3.31,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:35:10+00:00,3.24,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:40:10+00:00,3.19,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:45:10+00:00,3.12,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 05:50:10+00:00,3.04,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
 2026-10-30 05:55:11+00:00,3.0,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
 2026-10-30 06:00:10+00:00,2.93,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
 2026-10-30 06:05:10+00:00,2.86,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
 2026-10-30 06:10:10+00:00,2.8,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:15:10+00:00,2.73,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:20:10+00:00,2.67,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:25:11+00:00,2.58,1.809,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:30:10+00:00,2.53,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:35:10+00:00,2.45,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:40:10+00:00,2.39,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:45:10+00:00,2.31,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 06:50:10+00:00,2.25,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:15:10+00:00,2.73,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:20:10+00:00,2.67,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:25:11+00:00,2.58,1.809,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.7831,78.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:30:10+00:00,2.53,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:35:10+00:00,2.45,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:40:10+00:00,2.39,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:45:10+00:00,2.31,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 06:50:10+00:00,2.25,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
 2026-10-30 06:55:10+00:00,2.17,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
 2026-10-30 07:00:10+00:00,2.11,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
 2026-10-30 07:05:10+00:00,2.04,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:10:10+00:00,1.95,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:15:10+00:00,1.86,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:20:10+00:00,1.81,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:25:10+00:00,1.74,0.905,60,NE,Mostly Clear,False,7.0,0.0,KFBG,0.779,77.9,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:30:10+00:00,1.68,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:35:10+00:00,1.6,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:40:10+00:00,1.52,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:45:10+00:00,1.4300000000000002,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 07:50:10+00:00,1.36,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:10:10+00:00,1.95,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:15:10+00:00,1.86,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:20:10+00:00,1.81,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:25:10+00:00,1.74,0.905,60,NE,Mostly Clear,False,7.0,0.0,KILM,0.779,77.9,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:30:10+00:00,1.68,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:35:10+00:00,1.6,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:40:10+00:00,1.52,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:45:10+00:00,1.4300000000000002,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 07:50:10+00:00,1.36,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 07:55:10+00:00,1.3,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 08:00:10+00:00,1.24,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 08:05:10+00:00,1.15,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 08:10:10+00:00,1.08,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 08:15:10+00:00,1.02,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:20:10+00:00,0.93,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:25:10+00:00,0.8799999999999999,0.328,59,N,Mostly Clear,False,7.0,0.0,KFBG,0.775,77.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:30:10+00:00,0.81,0.235,58,N,Mostly Clear,False,8.0,0.0,KFBG,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:35:10+00:00,0.75,0.235,58,N,Mostly Clear,False,8.0,0.0,KFBG,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:40:10+00:00,0.69,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:45:10+00:00,0.6100000000000001,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:50:10+00:00,0.56,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:55:10+00:00,0.5,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:00:10+00:00,0.4499999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:05:10+00:00,0.4099999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:10:10+00:00,0.33,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:15:10+00:00,0.29,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:20:10+00:00,0.25,0.235,58,N,Mostly Clear,False,8.0,0.0,,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:25:10+00:00,0.2199999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KFBG,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:30:10+00:00,0.1799999999999999,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:35:10+00:00,0.1399999999999999,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:40:10+00:00,0.1,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:45:10+00:00,0.1,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:50:10+00:00,0.1200000000000001,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:20:10+00:00,0.93,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:25:10+00:00,0.8799999999999999,0.328,59,N,Mostly Clear,False,7.0,0.0,KILM,0.775,77.5,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:30:10+00:00,0.81,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:35:10+00:00,0.75,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:40:10+00:00,0.69,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:45:10+00:00,0.6100000000000001,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:50:10+00:00,0.56,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:55:10+00:00,0.5,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:00:10+00:00,0.4499999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:05:10+00:00,0.4099999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:10:10+00:00,0.33,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:15:10+00:00,0.29,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:20:10+00:00,0.25,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:25:10+00:00,0.2199999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:30:10+00:00,0.1799999999999999,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:35:10+00:00,0.1399999999999999,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:40:10+00:00,0.1,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:45:10+00:00,0.1,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:50:10+00:00,0.1200000000000001,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:55:10+00:00,0.1599999999999999,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:00:10+00:00,0.1699999999999999,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:05:10+00:00,0.2199999999999999,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
@@ -8102,20 +7821,20 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 10:20:10+00:00,0.3700000000000001,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:25:10+00:00,0.4499999999999999,0.705,58,N,Sunny,True,8.0,0.0,KFBG,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:30:10+00:00,0.52,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 10:35:10+00:00,0.5900000000000001,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 10:40:10+00:00,0.6599999999999999,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 10:45:10+00:00,0.73,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 10:50:10+00:00,0.79,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 10:35:10+00:00,0.5900000000000001,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 10:40:10+00:00,0.6599999999999999,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 10:45:10+00:00,0.73,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 10:50:10+00:00,0.79,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:55:10+00:00,0.8600000000000001,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:00:10+00:00,0.92,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:05:10+00:00,0.99,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:10:10+00:00,1.04,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:15:10+00:00,1.11,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:20:10+00:00,1.17,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:25:10+00:00,1.24,1.657,58,N,Sunny,True,8.0,0.0,KFBG,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:30:10+00:00,1.31,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:35:10+00:00,1.39,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
-2026-10-30 11:40:10+00:00,1.47,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:00:10+00:00,0.92,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:05:10+00:00,0.99,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:10:10+00:00,1.04,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:15:10+00:00,1.11,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:20:10+00:00,1.17,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:25:10+00:00,1.24,1.657,58,N,Sunny,True,8.0,0.0,KILM,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:30:10+00:00,1.31,2.842,58,N,Sunny,True,8.0,0.0,KILM,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:35:10+00:00,1.39,2.842,58,N,Sunny,True,8.0,0.0,KILM,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
+2026-10-30 11:40:10+00:00,1.47,2.842,58,N,Sunny,True,8.0,0.0,KILM,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
 2026-10-30 11:45:10+00:00,1.56,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
 2026-10-30 11:50:10+00:00,1.65,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
 2026-10-30 11:55:10+00:00,1.73,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
@@ -8126,97 +7845,143 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 12:20:10+00:00,2.15,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
 2026-10-30 12:25:10+00:00,2.23,2.842,58,N,Sunny,True,8.0,0.0,KFBG,0.7585,75.85,waning_gibbous,0.0,0.0,0.0
 2026-10-30 12:30:10+00:00,2.31,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
-2026-10-30 12:35:10+00:00,2.4,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
-2026-10-30 12:40:10+00:00,2.47,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
-2026-10-30 12:45:10+00:00,2.56,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
-2026-10-30 12:50:10+00:00,2.64,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
+2026-10-30 12:35:10+00:00,2.4,3.969,61,N,Sunny,True,9.0,0.0,KILM,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
+2026-10-30 12:40:10+00:00,2.47,3.969,61,N,Sunny,True,9.0,0.0,KILM,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
+2026-10-30 12:45:10+00:00,2.56,3.969,61,N,Sunny,True,9.0,0.0,KILM,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
+2026-10-30 12:50:10+00:00,2.64,3.969,61,N,Sunny,True,9.0,0.0,KILM,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
 2026-10-30 12:55:10+00:00,2.72,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
 2026-10-30 13:00:10+00:00,2.8,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
 2026-10-30 13:05:10+00:00,2.9,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
 2026-10-30 13:10:10+00:00,2.99,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
 2026-10-30 13:15:10+00:00,3.0700000000000003,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
 2026-10-30 13:20:10+00:00,3.15,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
-2026-10-30 13:25:10+00:00,3.23,3.969,61,N,Sunny,True,9.0,0.0,KFBG,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
-2026-10-30 13:30:10+00:00,3.3200000000000003,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 13:35:10+00:00,3.39,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 13:40:10+00:00,3.48,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 13:45:10+00:00,3.56,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 13:50:10+00:00,3.63,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 13:25:10+00:00,3.23,3.969,61,N,Sunny,True,9.0,0.0,KILM,0.7543,75.43,waning_gibbous,0.0,0.0,0.0
+2026-10-30 13:30:10+00:00,3.3200000000000003,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 13:35:10+00:00,3.39,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 13:40:10+00:00,3.48,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 13:45:10+00:00,3.56,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 13:50:10+00:00,3.63,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
 2026-10-30 13:55:10+00:00,3.72,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:00:10+00:00,3.8,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:05:10+00:00,3.87,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:10:10+00:00,3.94,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:15:10+00:00,4.01,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:20:10+00:00,4.09,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:25:10+00:00,4.17,4.822,65,NE,Sunny,True,10.0,0.0,KFBG,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:30:10+00:00,4.24,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:35:10+00:00,4.3100000000000005,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:40:10+00:00,4.390000000000001,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:45:10+00:00,4.46,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 14:50:10+00:00,4.52,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:00:10+00:00,3.8,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:05:10+00:00,3.87,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:10:10+00:00,3.94,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:15:10+00:00,4.01,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:20:10+00:00,4.09,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:25:10+00:00,4.17,4.822,65,NE,Sunny,True,10.0,0.0,KILM,0.7501,75.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:30:10+00:00,4.24,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:35:10+00:00,4.3100000000000005,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:40:10+00:00,4.390000000000001,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:45:10+00:00,4.46,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 14:50:10+00:00,4.52,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
 2026-10-30 14:55:10+00:00,4.58,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:00:10+00:00,4.640000000000001,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:05:10+00:00,4.71,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:10:10+00:00,4.77,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:15:10+00:00,4.83,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:20:10+00:00,4.88,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:25:10+00:00,4.93,5.239,69,NE,Sunny,True,10.0,0.0,KFBG,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:30:10+00:00,4.98,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:35:10+00:00,5.01,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:40:10+00:00,5.04,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:45:10+00:00,5.09,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 15:50:10+00:00,5.09,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:00:10+00:00,4.640000000000001,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:05:10+00:00,4.71,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:10:10+00:00,4.77,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:15:10+00:00,4.83,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:20:10+00:00,4.88,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:25:10+00:00,4.93,5.239,69,NE,Sunny,True,10.0,0.0,KILM,0.7459,74.59,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:30:10+00:00,4.98,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:35:10+00:00,5.01,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:40:10+00:00,5.04,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:45:10+00:00,5.09,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 15:50:10+00:00,5.09,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
 2026-10-30 15:55:10+00:00,5.13,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:00:10+00:00,5.13,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:05:10+00:00,5.13,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:10:10+00:00,5.12,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:15:10+00:00,5.1,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:20:10+00:00,5.08,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:25:10+00:00,5.029999999999999,5.102,72,NE,Sunny,True,12.0,0.0,KFBG,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:30:10+00:00,4.99,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:35:10+00:00,4.94,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:40:10+00:00,4.88,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:45:10+00:00,4.83,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:50:10+00:00,4.779999999999999,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:10:10+00:00,5.12,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:15:10+00:00,5.1,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:20:10+00:00,5.08,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:25:10+00:00,5.029999999999999,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:30:10+00:00,4.99,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:35:10+00:00,4.94,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:40:10+00:00,4.88,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:45:10+00:00,4.83,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:50:10+00:00,4.779999999999999,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:55:10+00:00,4.73,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:00:10+00:00,4.67,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:05:10+00:00,4.6,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:10:10+00:00,4.55,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:15:10+00:00,4.470000000000001,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:20:10+00:00,4.43,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:25:10+00:00,4.359999999999999,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:30:10+00:00,4.3,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:35:10+00:00,4.23,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:40:10+00:00,4.17,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:45:10+00:00,4.12,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 17:50:10+00:00,4.05,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:00:10+00:00,4.67,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:05:10+00:00,4.6,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:10:10+00:00,4.55,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:15:10+00:00,4.470000000000001,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:20:10+00:00,4.43,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:25:10+00:00,4.359999999999999,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:30:10+00:00,4.3,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:35:10+00:00,4.23,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:40:10+00:00,4.17,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:45:10+00:00,4.12,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 17:50:10+00:00,4.05,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
 2026-10-30 17:55:10+00:00,3.98,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:00:10+00:00,3.91,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:05:10+00:00,3.84,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:10:10+00:00,3.79,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:15:10+00:00,3.71,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:20:10+00:00,3.63,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:25:10+00:00,3.56,3.399,74,NE,Sunny,True,12.0,0.0,KFBG,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:30:10+00:00,3.49,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:35:10+00:00,3.42,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:40:10+00:00,3.35,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:45:10+00:00,3.27,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 18:50:10+00:00,3.2,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:00:10+00:00,3.91,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:05:10+00:00,3.84,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:10:10+00:00,3.79,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:15:10+00:00,3.71,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:20:10+00:00,3.63,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:25:10+00:00,3.56,3.399,74,NE,Sunny,True,12.0,0.0,KILM,0.7331,73.31,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:30:10+00:00,3.49,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:35:10+00:00,3.42,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:40:10+00:00,3.35,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:45:10+00:00,3.27,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 18:50:10+00:00,3.2,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
 2026-10-30 18:55:10+00:00,3.14,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:00:10+00:00,3.1,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:05:10+00:00,3.06,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:10:10+00:00,2.99,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:15:10+00:00,2.92,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:20:10+00:00,2.86,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:25:10+00:00,2.79,2.314,76,NE,Sunny,True,12.0,0.0,KFBG,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:30:10+00:00,2.7,1.394,76,NE,Sunny,True,12.0,0.0,KFBG,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:35:10+00:00,2.6,1.394,76,NE,Sunny,True,12.0,0.0,KFBG,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:40:10+00:00,2.56,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:45:10+00:00,2.49,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:50:10+00:00,2.41,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 19:55:10+00:00,2.33,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 20:00:10+00:00,2.27,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 20:05:10+00:00,2.19,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 20:10:10+00:00,2.11,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 20:15:10+00:00,2.05,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
-2026-10-30 20:20:10+00:00,1.98,1.394,76,NE,Sunny,True,12.0,0.0,,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:00:10+00:00,3.1,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:05:10+00:00,3.06,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:10:10+00:00,2.99,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:15:10+00:00,2.92,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:20:10+00:00,2.86,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:25:10+00:00,2.79,2.314,76,NE,Sunny,True,12.0,0.0,KILM,0.7288,72.88,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:30:10+00:00,2.7,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:35:10+00:00,2.6,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:40:10+00:00,2.56,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:45:10+00:00,2.49,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:50:10+00:00,2.41,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 19:55:10+00:00,2.33,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:00:10+00:00,2.27,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:05:10+00:00,2.19,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:10:10+00:00,2.11,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:15:10+00:00,2.05,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:20:10+00:00,1.98,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:25:10+00:00,1.91,1.394,76,NE,Sunny,True,12.0,0.0,KILM,0.7244,72.44,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:30:10+00:00,1.84,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:35:10+00:00,1.77,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:40:10+00:00,1.71,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:45:10+00:00,1.62,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:50:10+00:00,1.54,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 20:55:10+00:00,1.47,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:00:10+00:00,1.38,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:05:10+00:00,1.3199999999999998,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:10:10+00:00,1.25,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:15:10+00:00,1.17,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:20:10+00:00,1.11,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:25:10+00:00,1.04,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:30:10+00:00,0.94,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:35:10+00:00,0.8899999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:40:10+00:00,0.8400000000000001,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:45:10+00:00,0.77,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:50:10+00:00,0.69,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:55:10+00:00,0.6499999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:00:10+00:00,0.5800000000000001,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:10:10+00:00,0.49,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:15:10+00:00,0.4399999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:20:10+00:00,0.4299999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:25:10+00:00,0.3899999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:30:10+00:00,0.3600000000000001,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:35:10+00:00,0.3600000000000001,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:40:10+00:00,0.3400000000000001,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:45:10+00:00,0.3700000000000001,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:50:10+00:00,0.3899999999999999,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 22:55:10+00:00,0.4099999999999999,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:05:10+00:00,0.49,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:10:10+00:00,0.53,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:15:10+00:00,0.56,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:20:10+00:00,0.6200000000000001,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:25:10+00:00,0.6799999999999999,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:30:10+00:00,0.74,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:35:10+00:00,0.8,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:40:10+00:00,0.8600000000000001,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:45:10+00:00,0.8999999999999999,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:50:10+00:00,0.95,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:55:10+00:00,1.0,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-31 00:00:10+00:00,1.05,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-31 00:05:10+00:00,1.1,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-31 00:10:10+00:00,1.15,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-31 00:15:10+00:00,1.21,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-31 00:20:10+00:00,1.27,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
