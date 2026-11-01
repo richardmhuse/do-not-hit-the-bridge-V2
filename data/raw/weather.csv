@@ -2460,3 +2460,8 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-08 00:00:00+00:00,68,NW,Partly Cloudy,False,3.0
 2026-11-08 01:00:00+00:00,66,NW,Partly Cloudy,False,3.0
 2026-11-08 02:00:00+00:00,64,NW,Partly Cloudy,False,3.0
+2026-11-08 03:00:00+00:00,62,N,Mostly Clear,False,3.0
+2026-11-08 04:00:00+00:00,60,N,Mostly Clear,False,3.0
+2026-11-08 05:00:00+00:00,59,N,Mostly Clear,False,3.0
+2026-11-08 06:00:00+00:00,58,N,Mostly Clear,False,3.0
+2026-11-08 07:00:00+00:00,57,N,Mostly Clear,False,3.0
