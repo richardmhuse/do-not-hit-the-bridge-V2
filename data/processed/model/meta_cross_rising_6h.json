@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-11-01T02:02:50.177627+00:00",
+  "trained_at": "2026-11-01T09:00:36.608665+00:00",
   "name": "cross_rising_6h",
   "task": "crossover_rising",
   "feature_cols": [

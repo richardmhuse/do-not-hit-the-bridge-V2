@@ -7975,6 +7975,6 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-01 01:25:10+00:00,1.45,1.586,66,NE,Partly Cloudy,False,8.0,0.0,KILM,0.5928,59.28,last_quarter,0.0,0.0,0.0
 2026-11-01 01:30:10+00:00,1.5,2.414,65,NE,Partly Cloudy,False,7.0,0.0,KILM,0.5881,58.81,last_quarter,0.0,0.0,0.0
 2026-11-01 01:35:10+00:00,1.55,2.414,65,NE,Partly Cloudy,False,7.0,0.0,KILM,0.5881,58.81,last_quarter,0.0,0.0,0.0
-2026-11-01 01:40:10+00:00,1.62,2.414,65,NE,Partly Cloudy,False,7.0,0.0,,0.5881,58.81,last_quarter,0.0,0.0,0.0
-2026-11-01 01:45:10+00:00,1.69,2.414,65,NE,Partly Cloudy,False,7.0,0.0,,0.5881,58.81,last_quarter,0.0,0.0,0.0
-2026-11-01 01:50:10+00:00,1.74,2.414,65,NE,Partly Cloudy,False,7.0,0.0,,0.5881,58.81,last_quarter,0.0,0.0,0.0
+2026-11-01 01:40:10+00:00,1.62,2.414,65,NE,Partly Cloudy,False,7.0,0.0,KILM,0.5881,58.81,last_quarter,0.0,0.0,0.0
+2026-11-01 01:45:10+00:00,1.69,2.414,65,NE,Partly Cloudy,False,7.0,0.0,KILM,0.5881,58.81,last_quarter,0.0,0.0,0.0
+2026-11-01 01:50:10+00:00,1.74,2.414,65,NE,Partly Cloudy,False,7.0,0.0,KILM,0.5881,58.81,last_quarter,0.0,0.0,0.0

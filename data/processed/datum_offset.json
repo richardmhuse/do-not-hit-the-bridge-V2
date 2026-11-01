@@ -1,8 +1,8 @@
 {
   "offset_ft": 0.16799999999999982,
   "offset_mean_ft": 0.2272638428170452,
-  "ols_slope": 0.7535262021236644,
-  "ols_intercept_ft": 0.8947237552399577,
+  "ols_slope": 0.7535262021236641,
+  "ols_intercept_ft": 0.894723755239958,
   "method": "median(measured - tide) where measured > floor",
   "n_used": 7838,
   "n_total": 7979,
@@ -12,7 +12,7 @@
   "tide_min": -0.143,
   "tide_max": 5.561,
   "pct_floored": 1.7671387391903746,
-  "trained_at": "2026-11-01T02:02:22.525394+00:00",
+  "trained_at": "2026-11-01T09:00:03.811935+00:00",
   "target_column": "measured_gauge_height_ft",
   "note": "measured_aligned_ft = measured_native_ft - offset_ft. tide_residual = measured_aligned_ft - tide_ft. To display a forecast on the gauge scale: gauge_level = tide_ft + residual + offset_ft."
 }
