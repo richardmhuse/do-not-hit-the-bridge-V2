@@ -2476,3 +2476,13 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-08 16:00:00+00:00,68,NE,Mostly Sunny,True,6.0
 2026-11-08 17:00:00+00:00,70,E,Mostly Sunny,True,6.0
 2026-11-08 18:00:00+00:00,71,E,Sunny,True,7.0
+2026-11-08 19:00:00+00:00,72,E,Sunny,True,7.0
+2026-11-08 20:00:00+00:00,72,E,Sunny,True,7.0
+2026-11-08 21:00:00+00:00,72,SE,Sunny,True,7.0
+2026-11-08 22:00:00+00:00,70,SE,Sunny,True,6.0
+2026-11-08 23:00:00+00:00,67,SE,Mostly Clear,False,5.0
+2026-11-09 00:00:00+00:00,64,SE,Mostly Clear,False,5.0
+2026-11-09 01:00:00+00:00,63,SE,Mostly Clear,False,3.0
+2026-11-09 02:00:00+00:00,61,E,Mostly Clear,False,5.0
+2026-11-09 03:00:00+00:00,60,E,Mostly Clear,False,5.0
+2026-11-09 04:00:00+00:00,59,E,Mostly Clear,False,5.0
