@@ -2486,3 +2486,10 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-09 02:00:00+00:00,61,E,Mostly Clear,False,5.0
 2026-11-09 03:00:00+00:00,60,E,Mostly Clear,False,5.0
 2026-11-09 04:00:00+00:00,59,E,Mostly Clear,False,5.0
+2026-11-09 05:00:00+00:00,57,W,Partly Cloudy,False,3.0
+2026-11-09 06:00:00+00:00,56,W,Slight Chance Rain Showers,False,3.0
+2026-11-09 07:00:00+00:00,55,W,Slight Chance Rain Showers,False,5.0
+2026-11-09 08:00:00+00:00,54,W,Slight Chance Rain Showers,False,5.0
+2026-11-09 09:00:00+00:00,54,W,Slight Chance Rain Showers,False,6.0
+2026-11-09 10:00:00+00:00,53,W,Slight Chance Rain Showers,False,6.0
+2026-11-09 11:00:00+00:00,52,NW,Slight Chance Rain Showers,True,6.0
