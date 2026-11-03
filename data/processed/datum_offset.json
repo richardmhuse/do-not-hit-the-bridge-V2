@@ -12,7 +12,7 @@
   "tide_min": -0.143,
   "tide_max": 5.561,
   "pct_floored": 1.51496336768906,
-  "trained_at": "2026-11-03T16:02:35.539481+00:00",
+  "trained_at": "2026-11-03T21:51:53.985955+00:00",
   "target_column": "measured_gauge_height_ft",
   "note": "measured_aligned_ft = measured_native_ft - offset_ft. tide_residual = measured_aligned_ft - tide_ft. To display a forecast on the gauge scale: gauge_level = tide_ft + residual + offset_ft."
 }

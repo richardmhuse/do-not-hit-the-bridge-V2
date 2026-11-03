@@ -8049,6 +8049,6 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-03 15:25:10+00:00,1.04,1.378,72,NE,Mostly Sunny,True,9.0,0.0,KFBG,0.3099,30.99,waxing_crescent,0.0,0.0,0.0
 2026-11-03 15:30:10+00:00,1.09,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
 2026-11-03 15:35:10+00:00,1.12,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
-2026-11-03 15:40:10+00:00,1.1800000000000002,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
-2026-11-03 15:45:10+00:00,1.22,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
-2026-11-03 15:50:10+00:00,1.28,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
+2026-11-03 15:40:10+00:00,1.1800000000000002,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
+2026-11-03 15:45:10+00:00,1.22,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
+2026-11-03 15:50:10+00:00,1.28,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
