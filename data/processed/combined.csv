@@ -6107,10 +6107,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 09:35:10+00:00,1.15,2.576,56,NE,Sunny,True,10.0,0.0,KOAJ,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
 2026-10-28 09:40:10+00:00,1.24,2.576,56,NE,Sunny,True,10.0,0.0,KFBG,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
 2026-10-28 09:45:10+00:00,1.3199999999999998,2.576,56,NE,Sunny,True,10.0,0.0,KFBG,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
-2026-10-28 09:50:10+00:00,1.4,2.576,56,NE,Sunny,True,10.0,0.0,KFBG,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
-2026-10-28 09:55:10+00:00,1.5,2.576,56,NE,Sunny,True,10.0,0.0,KFBG,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
-2026-10-28 10:00:10+00:00,1.59,2.576,56,NE,Sunny,True,10.0,0.0,KOAJ,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
-2026-10-28 10:05:10+00:00,1.69,2.576,56,NE,Sunny,True,10.0,0.0,KOAJ,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
+2026-10-28 09:50:10+00:00,1.4,2.576,56,NE,Sunny,True,10.0,0.0,KPOB,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
+2026-10-28 09:55:10+00:00,1.5,2.576,56,NE,Sunny,True,10.0,0.0,KPOB,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
+2026-10-28 10:00:10+00:00,1.59,2.576,56,NE,Sunny,True,10.0,0.0,KPOB,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
+2026-10-28 10:05:10+00:00,1.69,2.576,56,NE,Sunny,True,10.0,0.0,KPOB,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
 2026-10-28 10:10:10+00:00,1.78,2.576,56,NE,Sunny,True,10.0,0.0,KOAJ,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
 2026-10-28 10:15:10+00:00,1.89,2.576,56,NE,Sunny,True,10.0,0.0,KOAJ,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
 2026-10-28 10:20:10+00:00,1.98,2.576,56,NE,Sunny,True,10.0,0.0,KOAJ,0.9295,92.95,waning_gibbous,0.0,0.0,0.0
@@ -6134,9 +6134,9 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 11:50:10+00:00,3.76,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 11:55:10+00:00,3.86,5.035,57,N,Mostly Sunny,True,12.0,0.0,KFBG,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:00:10+00:00,3.96,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
-2026-10-28 12:05:10+00:00,4.05,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
-2026-10-28 12:10:10+00:00,4.140000000000001,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
-2026-10-28 12:15:10+00:00,4.23,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
+2026-10-28 12:05:10+00:00,4.05,5.035,57,N,Mostly Sunny,True,12.0,0.0,KPOB,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
+2026-10-28 12:10:10+00:00,4.140000000000001,5.035,57,N,Mostly Sunny,True,12.0,0.0,KPOB,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
+2026-10-28 12:15:10+00:00,4.23,5.035,57,N,Mostly Sunny,True,12.0,0.0,KPOB,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:20:10+00:00,4.33,5.035,57,N,Mostly Sunny,True,12.0,0.0,KOAJ,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:25:10+00:00,4.42,5.035,57,N,Mostly Sunny,True,12.0,0.0,KILM,0.9244,92.44,waning_gibbous,0.0,0.0,0.0
 2026-10-28 12:30:10+00:00,4.5,5.556,60,N,Mostly Sunny,True,12.0,0.0,KILM,0.9218,92.18,waning_gibbous,0.0,0.0,0.0
@@ -6189,7 +6189,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 16:25:10+00:00,4.3100000000000005,3.727,70,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.9138,91.38,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:30:10+00:00,4.23,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KILM,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:35:10+00:00,4.140000000000001,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KILM,0.911,91.1,waning_gibbous,0.0,0.0,0.0
-2026-10-28 16:40:10+00:00,4.04,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
+2026-10-28 16:40:10+00:00,4.04,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KPOB,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:45:10+00:00,3.97,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:50:10+00:00,3.86,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
 2026-10-28 16:55:10+00:00,3.81,2.507,71,NE,Mostly Sunny,True,14.0,0.0,KOAJ,0.911,91.1,waning_gibbous,0.0,0.0,0.0
@@ -6259,8 +6259,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-28 22:55:10+00:00,1.85,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:00:10+00:00,1.93,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:05:10+00:00,2.02,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
-2026-10-28 23:10:10+00:00,2.1,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KFBG,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
-2026-10-28 23:15:10+00:00,2.18,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
+2026-10-28 23:10:10+00:00,2.1,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KPOB,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
+2026-10-28 23:15:10+00:00,2.18,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KPOB,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:20:10+00:00,2.26,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:25:10+00:00,2.34,2.548,69,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8935,89.35,waning_gibbous,0.0,0.0,0.0
 2026-10-28 23:30:10+00:00,2.41,3.507,66,NE,Partly Cloudy,False,14.0,0.0,KOAJ,0.8904,89.04,waning_gibbous,0.0,0.0,0.0
@@ -6369,8 +6369,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 08:05:10+00:00,0.51,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:10:10+00:00,0.4499999999999999,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:15:10+00:00,0.3899999999999999,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
-2026-10-29 08:20:10+00:00,0.33,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
-2026-10-29 08:25:10+00:00,0.28,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KOAJ,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
+2026-10-29 08:20:10+00:00,0.33,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KPOB,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
+2026-10-29 08:25:10+00:00,0.28,-0.007,60,NE,Partly Cloudy,False,9.0,0.0,KPOB,0.8647,86.47,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:30:10+00:00,0.26,0.434,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8613,86.13,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:35:10+00:00,0.24,0.434,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8613,86.13,waning_gibbous,0.0,0.0,0.0
 2026-10-29 08:40:10+00:00,0.2199999999999999,0.434,60,NE,Partly Cloudy,False,10.0,0.0,KOAJ,0.8613,86.13,waning_gibbous,0.0,0.0,0.0
@@ -6391,10 +6391,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 09:55:10+00:00,0.75,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:00:10+00:00,0.8300000000000001,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:05:10+00:00,0.8899999999999999,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 10:10:10+00:00,0.95,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 10:15:10+00:00,1.03,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 10:20:10+00:00,1.11,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
-2026-10-29 10:25:10+00:00,1.1800000000000002,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 10:10:10+00:00,0.95,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KPOB,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 10:15:10+00:00,1.03,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KPOB,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 10:20:10+00:00,1.11,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KPOB,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
+2026-10-29 10:25:10+00:00,1.1800000000000002,1.46,59,NE,Mostly Sunny,True,10.0,0.0,KPOB,0.8579,85.79,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:30:10+00:00,1.28,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:35:10+00:00,1.35,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
 2026-10-29 10:40:10+00:00,1.4300000000000002,2.788,59,NE,Mostly Sunny,True,10.0,0.0,KOAJ,0.8545,85.45,waning_gibbous,0.0,0.0,0.0
@@ -6490,7 +6490,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-29 18:10:10+00:00,3.34,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:15:10+00:00,3.26,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:20:10+00:00,3.19,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
-2026-10-29 18:25:10+00:00,3.1100000000000003,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
+2026-10-29 18:25:10+00:00,3.1100000000000003,2.389,74,NE,Mostly Sunny,True,13.0,0.0,KPOB,0.8294,82.94,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:30:10+00:00,3.03,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:35:10+00:00,2.93,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
 2026-10-29 18:40:10+00:00,2.85,1.349,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.8257,82.57,waning_gibbous,0.0,0.0,0.0
@@ -6591,10 +6591,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 03:15:10+00:00,4.34,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:20:10+00:00,4.37,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:25:10+00:00,4.38,4.071,62,NE,Partly Cloudy,False,8.0,0.0,KILM,0.795,79.5,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:30:11+00:00,4.390000000000001,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:30:11+00:00,4.390000000000001,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:35:10+00:00,4.41,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:40:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
-2026-10-30 03:45:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:40:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
+2026-10-30 03:45:10+00:00,4.4,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:50:10+00:00,4.37,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 03:55:10+00:00,4.34,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:00:10+00:00,4.32,3.661,61,NE,Partly Cloudy,False,7.0,0.0,KOAJ,0.7911,79.11,waning_gibbous,0.0,0.0,0.0
@@ -6606,8 +6606,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 04:30:10+00:00,4.02,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:35:10+00:00,3.98,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:40:10+00:00,3.93,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KOAJ,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:45:10+00:00,3.87,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KOAJ,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
-2026-10-30 04:50:10+00:00,3.82,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:45:10+00:00,3.87,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
+2026-10-30 04:50:10+00:00,3.82,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
 2026-10-30 04:55:10+00:00,3.77,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KFBG,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
 2026-10-30 05:00:11+00:00,3.7,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KOAJ,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
 2026-10-30 05:05:10+00:00,3.65,2.823,61,NE,Partly Cloudy,False,7.0,0.0,KILM,0.7871,78.71,waning_gibbous,0.0,0.0,0.0
@@ -6655,15 +6655,15 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 08:35:10+00:00,0.75,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
 2026-10-30 08:40:10+00:00,0.69,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
 2026-10-30 08:45:10+00:00,0.6100000000000001,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:50:10+00:00,0.56,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 08:55:10+00:00,0.5,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:00:10+00:00,0.4499999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:05:10+00:00,0.4099999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:50:10+00:00,0.56,0.235,58,N,Mostly Clear,False,8.0,0.0,KPOB,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 08:55:10+00:00,0.5,0.235,58,N,Mostly Clear,False,8.0,0.0,KPOB,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:00:10+00:00,0.4499999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KPOB,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:05:10+00:00,0.4099999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KPOB,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:10:10+00:00,0.33,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:15:10+00:00,0.29,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:20:10+00:00,0.25,0.235,58,N,Mostly Clear,False,8.0,0.0,KILM,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:25:10+00:00,0.2199999999999999,0.235,58,N,Mostly Clear,False,8.0,0.0,KOAJ,0.7709,77.09,waning_gibbous,0.0,0.0,0.0
-2026-10-30 09:30:10+00:00,0.1799999999999999,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
+2026-10-30 09:30:10+00:00,0.1799999999999999,0.705,58,N,Sunny,True,8.0,0.0,KPOB,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:35:10+00:00,0.1399999999999999,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:40:10+00:00,0.1,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 09:45:10+00:00,0.1,0.705,58,N,Sunny,True,8.0,0.0,KILM,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
@@ -6675,7 +6675,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 10:15:10+00:00,0.3,0.705,58,N,Sunny,True,8.0,0.0,KOAJ,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:20:10+00:00,0.3700000000000001,0.705,58,N,Sunny,True,8.0,0.0,KOAJ,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:25:10+00:00,0.4499999999999999,0.705,58,N,Sunny,True,8.0,0.0,KOAJ,0.7668,76.68,waning_gibbous,0.0,0.0,0.0
-2026-10-30 10:30:10+00:00,0.52,1.657,58,N,Sunny,True,8.0,0.0,KOAJ,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
+2026-10-30 10:30:10+00:00,0.52,1.657,58,N,Sunny,True,8.0,0.0,KPOB,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:35:10+00:00,0.5900000000000001,1.657,58,N,Sunny,True,8.0,0.0,KOAJ,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:40:10+00:00,0.6599999999999999,1.657,58,N,Sunny,True,8.0,0.0,KOAJ,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
 2026-10-30 10:45:10+00:00,0.73,1.657,58,N,Sunny,True,8.0,0.0,KOAJ,0.7626,76.26,waning_gibbous,0.0,0.0,0.0
@@ -6747,9 +6747,9 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 16:15:10+00:00,5.1,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:20:10+00:00,5.08,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:25:10+00:00,5.029999999999999,5.102,72,NE,Sunny,True,12.0,0.0,KILM,0.7416,74.16,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:30:10+00:00,4.99,4.422,73,NE,Sunny,True,12.0,0.0,KILM,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:35:10+00:00,4.94,4.422,73,NE,Sunny,True,12.0,0.0,KOAJ,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
-2026-10-30 16:40:10+00:00,4.88,4.422,73,NE,Sunny,True,12.0,0.0,KOAJ,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:30:10+00:00,4.99,4.422,73,NE,Sunny,True,12.0,0.0,KPOB,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:35:10+00:00,4.94,4.422,73,NE,Sunny,True,12.0,0.0,KPOB,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
+2026-10-30 16:40:10+00:00,4.88,4.422,73,NE,Sunny,True,12.0,0.0,KPOB,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:45:10+00:00,4.83,4.422,73,NE,Sunny,True,12.0,0.0,KOAJ,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:50:10+00:00,4.779999999999999,4.422,73,NE,Sunny,True,12.0,0.0,KOAJ,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
 2026-10-30 16:55:10+00:00,4.73,4.422,73,NE,Sunny,True,12.0,0.0,KFBG,0.7374,73.74,waning_gibbous,0.0,0.0,0.0
@@ -6807,9 +6807,9 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 21:15:10+00:00,1.17,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
 2026-10-30 21:20:10+00:00,1.11,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
 2026-10-30 21:25:10+00:00,1.04,0.791,75,NE,Sunny,True,12.0,0.0,KILM,0.7201,72.01,waning_gibbous,0.0,0.0,0.0
-2026-10-30 21:30:10+00:00,0.94,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
-2026-10-30 21:35:10+00:00,0.8899999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
-2026-10-30 21:40:10+00:00,0.8400000000000001,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:30:10+00:00,0.94,0.627,73,NE,Mostly Clear,False,10.0,0.0,KPOB,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:35:10+00:00,0.8899999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KPOB,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
+2026-10-30 21:40:10+00:00,0.8400000000000001,0.627,73,NE,Mostly Clear,False,10.0,0.0,KPOB,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
 2026-10-30 21:45:10+00:00,0.77,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
 2026-10-30 21:50:10+00:00,0.69,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
 2026-10-30 21:55:10+00:00,0.6499999999999999,0.627,73,NE,Mostly Clear,False,10.0,0.0,KILM,0.7157,71.57,waning_gibbous,0.0,0.0,0.0
@@ -6828,11 +6828,11 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-30 23:10:10+00:00,0.53,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
 2026-10-30 23:15:10+00:00,0.56,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
 2026-10-30 23:20:10+00:00,0.6200000000000001,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
-2026-10-30 23:25:10+00:00,0.6799999999999999,0.946,70,NE,Mostly Clear,False,9.0,0.0,KILM,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
-2026-10-30 23:30:10+00:00,0.74,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
-2026-10-30 23:35:10+00:00,0.8,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
-2026-10-30 23:40:10+00:00,0.8600000000000001,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
-2026-10-30 23:45:10+00:00,0.8999999999999999,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:25:10+00:00,0.6799999999999999,0.946,70,NE,Mostly Clear,False,9.0,0.0,KPOB,0.7114,71.14,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:30:10+00:00,0.74,1.641,68,NE,Mostly Clear,False,8.0,0.0,KPOB,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:35:10+00:00,0.8,1.641,68,NE,Mostly Clear,False,8.0,0.0,KPOB,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:40:10+00:00,0.8600000000000001,1.641,68,NE,Mostly Clear,False,8.0,0.0,KPOB,0.707,70.7,waning_gibbous,0.0,0.0,0.0
+2026-10-30 23:45:10+00:00,0.8999999999999999,1.641,68,NE,Mostly Clear,False,8.0,0.0,KPOB,0.707,70.7,waning_gibbous,0.0,0.0,0.0
 2026-10-30 23:50:10+00:00,0.95,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
 2026-10-30 23:55:10+00:00,1.0,1.641,68,NE,Mostly Clear,False,8.0,0.0,KILM,0.707,70.7,waning_gibbous,0.0,0.0,0.0
 2026-10-31 00:00:10+00:00,1.05,1.641,68,NE,Mostly Clear,False,8.0,0.0,KOAJ,0.707,70.7,waning_gibbous,0.0,0.0,0.0
@@ -6844,7 +6844,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-31 00:30:10+00:00,1.37,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
 2026-10-31 00:35:10+00:00,1.42,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
 2026-10-31 00:40:10+00:00,1.48,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
-2026-10-31 00:45:10+00:00,1.54,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
+2026-10-31 00:45:10+00:00,1.54,2.499,66,NE,Mostly Clear,False,7.0,0.0,KPOB,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
 2026-10-31 00:50:10+00:00,1.59,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
 2026-10-31 00:55:10+00:00,1.64,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
 2026-10-31 01:00:10+00:00,1.7,2.499,66,NE,Mostly Clear,False,7.0,0.0,KILM,0.7025,70.25,waning_gibbous,0.0,0.0,0.0
@@ -6880,7 +6880,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-31 03:30:10+00:00,3.47,3.982,62,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
 2026-10-31 03:35:10+00:00,3.52,3.982,62,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
 2026-10-31 03:40:10+00:00,3.56,3.982,62,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
-2026-10-31 03:45:10+00:00,3.6,3.982,62,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
+2026-10-31 03:45:10+00:00,3.6,3.982,62,NE,Mostly Clear,False,6.0,0.0,KPOB,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
 2026-10-31 03:50:10+00:00,3.64,3.982,62,NE,Mostly Clear,False,6.0,0.0,KFBG,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
 2026-10-31 03:55:10+00:00,3.67,3.982,62,NE,Mostly Clear,False,6.0,0.0,KFBG,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
 2026-10-31 04:00:10+00:00,3.71,3.982,62,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6892,68.92,waning_gibbous,0.0,0.0,0.0
@@ -6914,10 +6914,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-31 06:20:10+00:00,2.9,2.773,61,NE,Mostly Clear,False,6.0,0.0,KILM,0.6802,68.02,waning_gibbous,0.0,0.0,0.0
 2026-10-31 06:25:10+00:00,2.83,2.773,61,NE,Mostly Clear,False,6.0,0.0,KILM,0.6802,68.02,waning_gibbous,0.0,0.0,0.0
 2026-10-31 06:35:10+00:00,2.71,1.842,60,NE,Mostly Clear,False,6.0,0.0,KILM,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
-2026-10-31 06:40:10+00:00,2.66,1.842,60,NE,Mostly Clear,False,6.0,0.0,KILM,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
-2026-10-31 06:45:10+00:00,2.59,1.842,60,NE,Mostly Clear,False,6.0,0.0,KILM,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
+2026-10-31 06:40:10+00:00,2.66,1.842,60,NE,Mostly Clear,False,6.0,0.0,KPOB,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
+2026-10-31 06:45:10+00:00,2.59,1.842,60,NE,Mostly Clear,False,6.0,0.0,KPOB,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
 2026-10-31 06:50:10+00:00,2.52,1.842,60,NE,Mostly Clear,False,6.0,0.0,KILM,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
-2026-10-31 06:55:10+00:00,2.45,1.842,60,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
+2026-10-31 06:55:10+00:00,2.45,1.842,60,NE,Mostly Clear,False,6.0,0.0,KPOB,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
 2026-10-31 07:00:10+00:00,2.4,1.842,60,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
 2026-10-31 07:05:10+00:00,2.32,1.842,60,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
 2026-10-31 07:10:10+00:00,2.27,1.842,60,NE,Mostly Clear,False,6.0,0.0,KOAJ,0.6757,67.57,waning_gibbous,0.0,0.0,0.0
@@ -6949,8 +6949,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-31 10:00:10+00:00,0.09,0.503,59,NE,Sunny,True,8.0,0.0,KOAJ,0.6621,66.21,waning_gibbous,0.0,0.0,0.0
 2026-10-31 10:05:10+00:00,0.08,0.503,59,NE,Sunny,True,8.0,0.0,KILM,0.6621,66.21,waning_gibbous,0.0,0.0,0.0
 2026-10-31 10:20:10+00:00,0.05,0.503,59,NE,Sunny,True,8.0,0.0,KILM,0.6621,66.21,waning_gibbous,0.0,0.0,0.0
-2026-10-31 10:25:10+00:00,0.05,0.503,59,NE,Sunny,True,8.0,0.0,KILM,0.6621,66.21,waning_gibbous,0.0,0.0,0.0
-2026-10-31 10:30:10+00:00,0.05,0.9,59,NE,Sunny,True,8.0,0.0,KFBG,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
+2026-10-31 10:25:10+00:00,0.05,0.503,59,NE,Sunny,True,8.0,0.0,KPOB,0.6621,66.21,waning_gibbous,0.0,0.0,0.0
+2026-10-31 10:30:10+00:00,0.05,0.9,59,NE,Sunny,True,8.0,0.0,KPOB,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
 2026-10-31 10:40:10+00:00,0.1200000000000001,0.9,59,NE,Sunny,True,8.0,0.0,KILM,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
 2026-10-31 10:50:10+00:00,0.1699999999999999,0.9,59,NE,Sunny,True,8.0,0.0,KILM,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
 2026-10-31 10:55:10+00:00,0.24,0.9,59,NE,Sunny,True,8.0,0.0,KFBG,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
@@ -6959,17 +6959,17 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-31 11:10:10+00:00,0.32,0.9,59,NE,Sunny,True,8.0,0.0,KILM,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
 2026-10-31 11:15:10+00:00,0.3799999999999999,0.9,59,NE,Sunny,True,8.0,0.0,KMYR,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
 2026-10-31 11:20:10+00:00,0.4399999999999999,0.9,59,NE,Sunny,True,8.0,0.0,KMYR,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
-2026-10-31 11:25:10+00:00,0.49,0.9,59,NE,Sunny,True,8.0,0.0,KFBG,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
-2026-10-31 11:30:10+00:00,0.54,1.713,60,NE,Sunny,True,8.0,0.0,KFBG,0.653,65.3,waning_gibbous,0.0,0.0,0.0
-2026-10-31 11:35:10+00:00,0.5900000000000001,1.713,60,NE,Sunny,True,8.0,0.0,KFBG,0.653,65.3,waning_gibbous,0.0,0.0,0.0
-2026-10-31 11:40:10+00:00,0.6299999999999999,1.713,60,NE,Sunny,True,8.0,0.0,KILM,0.653,65.3,waning_gibbous,0.0,0.0,0.0
+2026-10-31 11:25:10+00:00,0.49,0.9,59,NE,Sunny,True,8.0,0.0,KPOB,0.6576,65.76,waning_gibbous,0.0,0.0,0.0
+2026-10-31 11:30:10+00:00,0.54,1.713,60,NE,Sunny,True,8.0,0.0,KPOB,0.653,65.3,waning_gibbous,0.0,0.0,0.0
+2026-10-31 11:35:10+00:00,0.5900000000000001,1.713,60,NE,Sunny,True,8.0,0.0,KPOB,0.653,65.3,waning_gibbous,0.0,0.0,0.0
+2026-10-31 11:40:10+00:00,0.6299999999999999,1.713,60,NE,Sunny,True,8.0,0.0,KPOB,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 11:45:10+00:00,0.6599999999999999,1.713,60,NE,Sunny,True,8.0,0.0,KILM,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 11:50:10+00:00,0.71,1.713,60,NE,Sunny,True,8.0,0.0,KILM,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 11:55:10+00:00,0.73,1.713,60,NE,Sunny,True,8.0,0.0,KILM,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 12:00:10+00:00,0.77,1.713,60,NE,Sunny,True,8.0,0.0,KOAJ,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 12:05:10+00:00,0.8200000000000001,1.713,60,NE,Sunny,True,8.0,0.0,KOAJ,0.653,65.3,waning_gibbous,0.0,0.0,0.0
-2026-10-31 12:10:10+00:00,0.8600000000000001,1.713,60,NE,Sunny,True,8.0,0.0,KFBG,0.653,65.3,waning_gibbous,0.0,0.0,0.0
-2026-10-31 12:15:10+00:00,0.91,1.713,60,NE,Sunny,True,8.0,0.0,KFBG,0.653,65.3,waning_gibbous,0.0,0.0,0.0
+2026-10-31 12:10:10+00:00,0.8600000000000001,1.713,60,NE,Sunny,True,8.0,0.0,KPOB,0.653,65.3,waning_gibbous,0.0,0.0,0.0
+2026-10-31 12:15:10+00:00,0.91,1.713,60,NE,Sunny,True,8.0,0.0,KPOB,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 12:20:10+00:00,0.96,1.713,60,NE,Sunny,True,8.0,0.0,KFBG,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 12:25:10+00:00,1.03,1.713,60,NE,Sunny,True,8.0,0.0,KFBG,0.653,65.3,waning_gibbous,0.0,0.0,0.0
 2026-10-31 12:30:10+00:00,1.08,2.755,62,NE,Sunny,True,9.0,0.0,KFBG,0.6484,64.84,last_quarter,0.0,0.0,0.0
@@ -7043,11 +7043,11 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-10-31 18:10:10+00:00,4.5,4.213,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6254,62.54,last_quarter,0.0,0.0,0.0
 2026-10-31 18:15:10+00:00,4.44,4.213,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6254,62.54,last_quarter,0.0,0.0,0.0
 2026-10-31 18:20:10+00:00,4.359999999999999,4.213,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6254,62.54,last_quarter,0.0,0.0,0.0
-2026-10-31 18:25:10+00:00,4.3100000000000005,4.213,74,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6254,62.54,last_quarter,0.0,0.0,0.0
-2026-10-31 18:30:10+00:00,4.24,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6207,62.07,last_quarter,0.0,0.0,0.0
-2026-10-31 18:35:10+00:00,4.16,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6207,62.07,last_quarter,0.0,0.0,0.0
-2026-10-31 18:40:10+00:00,4.12,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6207,62.07,last_quarter,0.0,0.0,0.0
-2026-10-31 18:45:10+00:00,4.05,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6207,62.07,last_quarter,0.0,0.0,0.0
+2026-10-31 18:25:10+00:00,4.3100000000000005,4.213,74,NE,Mostly Sunny,True,13.0,0.0,KPOB,0.6254,62.54,last_quarter,0.0,0.0,0.0
+2026-10-31 18:30:10+00:00,4.24,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KPOB,0.6207,62.07,last_quarter,0.0,0.0,0.0
+2026-10-31 18:35:10+00:00,4.16,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KPOB,0.6207,62.07,last_quarter,0.0,0.0,0.0
+2026-10-31 18:40:10+00:00,4.12,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KPOB,0.6207,62.07,last_quarter,0.0,0.0,0.0
+2026-10-31 18:45:10+00:00,4.05,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KPOB,0.6207,62.07,last_quarter,0.0,0.0,0.0
 2026-10-31 18:50:10+00:00,3.98,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KILM,0.6207,62.07,last_quarter,0.0,0.0,0.0
 2026-10-31 18:55:10+00:00,3.92,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KFBG,0.6207,62.07,last_quarter,0.0,0.0,0.0
 2026-10-31 19:00:10+00:00,3.83,3.261,75,NE,Mostly Sunny,True,13.0,0.0,KOAJ,0.6207,62.07,last_quarter,0.0,0.0,0.0
@@ -7540,7 +7540,7 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-02 17:15:10+00:00,3.6,4.241,75,NE,Chance Rain Showers,True,10.0,0.0,KOAJ,0.4063,40.63,first_quarter,0.0,0.0,0.0
 2026-11-02 17:20:10+00:00,3.66,4.241,75,NE,Chance Rain Showers,True,10.0,0.0,KFBG,0.4063,40.63,first_quarter,0.0,0.0,0.0
 2026-11-02 17:25:10+00:00,3.72,4.241,75,NE,Chance Rain Showers,True,10.0,0.0,KFBG,0.4063,40.63,first_quarter,0.0,0.0,0.0
-2026-11-02 17:30:10+00:00,3.79,4.612,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.4018,40.18,first_quarter,0.0,0.0,0.0
+2026-11-02 17:30:10+00:00,3.79,4.612,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KPOB,0.4018,40.18,first_quarter,0.0,0.0,0.0
 2026-11-02 17:35:10+00:00,3.86,4.612,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.4018,40.18,first_quarter,0.0,0.0,0.0
 2026-11-02 17:40:10+00:00,3.93,4.612,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.4018,40.18,first_quarter,0.0,0.0,0.0
 2026-11-02 17:45:10+00:00,3.99,4.612,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KILM,0.4018,40.18,first_quarter,0.0,0.0,0.0
@@ -7563,10 +7563,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-02 19:10:10+00:00,4.640000000000001,4.459,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.3972,39.72,first_quarter,0.0,0.0,0.0
 2026-11-02 19:15:10+00:00,4.640000000000001,4.459,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.3972,39.72,first_quarter,0.0,0.0,0.0
 2026-11-02 19:20:10+00:00,4.640000000000001,4.459,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.3972,39.72,first_quarter,0.0,0.0,0.0
-2026-11-02 19:25:10+00:00,4.609999999999999,4.459,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.3972,39.72,first_quarter,0.0,0.0,0.0
-2026-11-02 19:30:10+00:00,4.55,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KOAJ,0.3927,39.27,first_quarter,0.0,0.0,0.0
-2026-11-02 19:35:10+00:00,4.51,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KILM,0.3927,39.27,first_quarter,0.0,0.0,0.0
-2026-11-02 19:40:10+00:00,4.46,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KILM,0.3927,39.27,first_quarter,0.0,0.0,0.0
+2026-11-02 19:25:10+00:00,4.609999999999999,4.459,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KPOB,0.3972,39.72,first_quarter,0.0,0.0,0.0
+2026-11-02 19:30:10+00:00,4.55,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KPOB,0.3927,39.27,first_quarter,0.0,0.0,0.0
+2026-11-02 19:35:10+00:00,4.51,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KPOB,0.3927,39.27,first_quarter,0.0,0.0,0.0
+2026-11-02 19:40:10+00:00,4.46,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KPOB,0.3927,39.27,first_quarter,0.0,0.0,0.0
 2026-11-02 19:45:10+00:00,4.44,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KILM,0.3927,39.27,first_quarter,0.0,0.0,0.0
 2026-11-02 19:50:10+00:00,4.4,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KILM,0.3927,39.27,first_quarter,0.0,0.0,0.0
 2026-11-02 19:55:10+00:00,4.37,3.893,76,NE,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3927,39.27,first_quarter,0.0,0.0,0.0
@@ -7679,17 +7679,17 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-03 07:20:10+00:00,4.16,4.181,64,NE,Partly Cloudy,False,5.0,0.0,KILM,0.3441,34.41,waxing_crescent,0.0,0.0,0.0
 2026-11-03 07:25:10+00:00,4.18,4.181,64,NE,Partly Cloudy,False,5.0,0.0,KILM,0.3441,34.41,waxing_crescent,0.0,0.0,0.0
 2026-11-03 07:30:10+00:00,4.21,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 07:35:10+00:00,4.21,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 07:40:10+00:00,4.23,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 07:45:10+00:00,4.220000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 07:50:10+00:00,4.220000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 07:55:10+00:00,4.220000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 08:00:10+00:00,4.2,3.867,63,N,Partly Cloudy,False,5.0,0.0,KILM,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 08:05:10+00:00,4.18,3.867,63,N,Partly Cloudy,False,5.0,0.0,,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 08:10:10+00:00,4.140000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 08:15:10+00:00,4.1,3.867,63,N,Partly Cloudy,False,5.0,0.0,,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 08:20:10+00:00,4.07,3.867,63,N,Partly Cloudy,False,5.0,0.0,KFBG,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
-2026-11-03 08:25:10+00:00,4.04,3.867,63,N,Partly Cloudy,False,5.0,0.0,KFBG,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 07:35:10+00:00,4.21,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 07:40:10+00:00,4.23,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 07:45:10+00:00,4.220000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 07:50:10+00:00,4.220000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 07:55:10+00:00,4.220000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 08:00:10+00:00,4.2,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 08:05:10+00:00,4.18,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 08:10:10+00:00,4.140000000000001,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 08:15:10+00:00,4.1,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 08:20:10+00:00,4.07,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
+2026-11-03 08:25:10+00:00,4.04,3.867,63,N,Partly Cloudy,False,5.0,0.0,KPOB,0.3398,33.98,waxing_crescent,0.0,0.0,0.0
 2026-11-03 08:30:10+00:00,3.98,3.251,63,N,Partly Cloudy,False,5.0,0.0,KFBG,0.3355,33.55,waxing_crescent,0.0,0.0,0.0
 2026-11-03 08:35:10+00:00,3.94,3.251,63,N,Partly Cloudy,False,5.0,0.0,KFBG,0.3355,33.55,waxing_crescent,0.0,0.0,0.0
 2026-11-03 08:40:10+00:00,3.89,3.251,63,N,Partly Cloudy,False,5.0,0.0,KFBG,0.3355,33.55,waxing_crescent,0.0,0.0,0.0
@@ -7773,8 +7773,8 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-03 16:25:10+00:00,1.65,2.314,74,E,Slight Chance Rain Showers,True,10.0,0.0,KFBG,0.3058,30.58,waxing_crescent,0.0,0.0,0.0
 2026-11-03 16:30:10+00:00,1.73,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
 2026-11-03 16:35:10+00:00,1.79,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
-2026-11-03 16:40:10+00:00,1.86,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
-2026-11-03 16:45:10+00:00,1.93,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
+2026-11-03 16:40:10+00:00,1.86,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KPOB,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
+2026-11-03 16:45:10+00:00,1.93,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KPOB,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
 2026-11-03 16:50:10+00:00,2.01,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
 2026-11-03 16:55:10+00:00,2.08,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
 2026-11-03 17:00:10+00:00,2.14,3.311,75,E,Slight Chance Rain Showers,True,12.0,0.0,KFBG,0.3016,30.16,waxing_crescent,0.0,0.0,0.0
@@ -7794,10 +7794,10 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-03 18:10:10+00:00,3.09,4.092,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2974,29.74,waxing_crescent,0.0,0.0,0.0
 2026-11-03 18:15:10+00:00,3.14,4.092,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2974,29.74,waxing_crescent,0.0,0.0,0.0
 2026-11-03 18:20:10+00:00,3.2,4.092,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2974,29.74,waxing_crescent,0.0,0.0,0.0
-2026-11-03 18:25:10+00:00,3.25,4.092,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2974,29.74,waxing_crescent,0.0,0.0,0.0
-2026-11-03 18:30:10+00:00,3.31,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
-2026-11-03 18:35:10+00:00,3.37,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
-2026-11-03 18:40:10+00:00,3.4,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
+2026-11-03 18:25:10+00:00,3.25,4.092,76,SE,Mostly Sunny,True,12.0,0.0,KPOB,0.2974,29.74,waxing_crescent,0.0,0.0,0.0
+2026-11-03 18:30:10+00:00,3.31,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KPOB,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
+2026-11-03 18:35:10+00:00,3.37,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KPOB,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
+2026-11-03 18:40:10+00:00,3.4,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KPOB,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
 2026-11-03 18:45:10+00:00,3.47,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
 2026-11-03 18:50:10+00:00,3.52,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
 2026-11-03 18:55:10+00:00,3.59,4.451,76,SE,Mostly Sunny,True,12.0,0.0,KFBG,0.2933,29.33,waxing_crescent,0.0,0.0,0.0
@@ -7830,18 +7830,18 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-03 21:10:10+00:00,3.89,3.814,76,E,Mostly Sunny,True,12.0,0.0,KFBG,0.2851,28.51,waxing_crescent,0.0,0.0,0.0
 2026-11-03 21:15:10+00:00,3.85,3.814,76,E,Mostly Sunny,True,12.0,0.0,KFBG,0.2851,28.51,waxing_crescent,0.0,0.0,0.0
 2026-11-03 21:20:10+00:00,3.81,3.814,76,E,Mostly Sunny,True,12.0,0.0,KFBG,0.2851,28.51,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:25:10+00:00,3.77,3.814,76,E,Mostly Sunny,True,12.0,0.0,KFBG,0.2851,28.51,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:30:10+00:00,3.73,3.095,74,E,Mostly Sunny,True,10.0,0.0,KFBG,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:35:10+00:00,3.68,3.095,74,E,Mostly Sunny,True,10.0,0.0,KFBG,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:40:10+00:00,3.64,3.095,74,E,Mostly Sunny,True,10.0,0.0,,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:45:10+00:00,3.6,3.095,74,E,Mostly Sunny,True,10.0,0.0,,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:50:10+00:00,3.54,3.095,74,E,Mostly Sunny,True,10.0,0.0,,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 21:55:10+00:00,3.49,3.095,74,E,Mostly Sunny,True,10.0,0.0,,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 22:00:10+00:00,3.44,3.095,74,E,Mostly Sunny,True,10.0,0.0,,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 22:05:10+00:00,3.38,3.095,74,E,Mostly Sunny,True,10.0,0.0,,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 22:10:10+00:00,3.33,3.095,74,E,Mostly Sunny,True,10.0,0.0,KFBG,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 22:15:10+00:00,3.29,3.095,74,E,Mostly Sunny,True,10.0,0.0,KFBG,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
-2026-11-03 22:20:10+00:00,3.23,3.095,74,E,Mostly Sunny,True,10.0,0.0,KFBG,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:25:10+00:00,3.77,3.814,76,E,Mostly Sunny,True,12.0,0.0,KPOB,0.2851,28.51,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:30:10+00:00,3.73,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:35:10+00:00,3.68,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:40:10+00:00,3.64,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:45:10+00:00,3.6,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:50:10+00:00,3.54,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 21:55:10+00:00,3.49,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 22:00:10+00:00,3.44,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 22:05:10+00:00,3.38,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 22:10:10+00:00,3.33,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 22:15:10+00:00,3.29,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
+2026-11-03 22:20:10+00:00,3.23,3.095,74,E,Mostly Sunny,True,10.0,0.0,KPOB,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
 2026-11-03 22:25:10+00:00,3.17,3.095,74,E,Mostly Sunny,True,10.0,0.0,KFBG,0.2811,28.11,waxing_crescent,0.0,0.0,0.0
 2026-11-03 22:30:10+00:00,3.13,2.273,72,E,Partly Cloudy,False,9.0,0.0,KFBG,0.277,27.7,waxing_crescent,0.0,0.0,0.0
 2026-11-03 22:35:10+00:00,3.0700000000000003,2.273,72,E,Partly Cloudy,False,9.0,0.0,KFBG,0.277,27.7,waxing_crescent,0.0,0.0,0.0
@@ -7874,7 +7874,87 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-04 01:00:10+00:00,1.23,0.72,68,E,Partly Cloudy,False,7.0,0.0,KFBG,0.269,26.9,waxing_crescent,0.0,0.0,0.0
 2026-11-04 01:05:10+00:00,1.15,0.72,68,E,Partly Cloudy,False,7.0,0.0,KFBG,0.269,26.9,waxing_crescent,0.0,0.0,0.0
 2026-11-04 01:10:10+00:00,1.08,0.72,68,E,Partly Cloudy,False,7.0,0.0,KFBG,0.269,26.9,waxing_crescent,0.0,0.0,0.0
-2026-11-04 01:30:10+00:00,0.8200000000000001,0.435,67,E,Partly Cloudy,False,7.0,0.0,,0.265,26.5,waxing_crescent,0.0,0.0,0.0
-2026-11-04 01:35:10+00:00,0.76,0.435,67,E,Partly Cloudy,False,7.0,0.0,,0.265,26.5,waxing_crescent,0.0,0.0,0.0
-2026-11-04 01:40:10+00:00,0.69,0.435,67,E,Partly Cloudy,False,7.0,0.0,,0.265,26.5,waxing_crescent,0.0,0.0,0.0
-2026-11-04 01:45:10+00:00,0.6200000000000001,0.435,67,E,Partly Cloudy,False,7.0,0.0,,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 01:30:10+00:00,0.8200000000000001,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 01:35:10+00:00,0.76,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 01:40:10+00:00,0.69,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 01:45:10+00:00,0.6200000000000001,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 01:55:10+00:00,0.51,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:00:10+00:00,0.47,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:05:10+00:00,0.4199999999999999,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:15:10+00:00,0.32,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:20:10+00:00,0.28,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:25:10+00:00,0.2299999999999999,0.435,67,E,Partly Cloudy,False,7.0,0.0,KPOB,0.265,26.5,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:30:10+00:00,0.1999999999999999,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:35:10+00:00,0.1699999999999999,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:45:10+00:00,0.1499999999999999,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 02:50:10+00:00,0.1100000000000001,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:05:10+00:00,0.2299999999999999,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:10:10+00:00,0.28,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:15:10+00:00,0.3600000000000001,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:20:10+00:00,0.4199999999999999,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:25:10+00:00,0.5,0.725,66,E,Partly Cloudy,False,7.0,0.0,KPOB,0.261,26.1,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:30:10+00:00,0.5700000000000001,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:35:10+00:00,0.6399999999999999,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:40:10+00:00,0.7,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:45:10+00:00,0.77,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:50:10+00:00,0.8200000000000001,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 03:55:10+00:00,0.8700000000000001,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:00:10+00:00,0.92,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:05:10+00:00,0.96,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:10:10+00:00,1.03,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:15:10+00:00,1.09,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:20:10+00:00,1.13,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:25:10+00:00,1.19,1.513,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2571,25.71,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:30:10+00:00,1.25,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:35:10+00:00,1.31,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:40:10+00:00,1.38,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:45:10+00:00,1.45,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:50:10+00:00,1.52,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 04:55:10+00:00,1.59,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:00:10+00:00,1.65,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:05:10+00:00,1.73,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:10:10+00:00,1.8,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:15:10+00:00,1.87,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:20:10+00:00,1.94,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:25:10+00:00,2.01,2.548,65,E,Partly Cloudy,False,7.0,0.0,KPOB,0.2532,25.32,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:30:10+00:00,2.08,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:35:10+00:00,2.13,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:40:10+00:00,2.19,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:45:10+00:00,2.25,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:50:10+00:00,2.32,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 05:55:10+00:00,2.39,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:00:10+00:00,2.46,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:05:10+00:00,2.53,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:10:10+00:00,2.58,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:15:10+00:00,2.66,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:20:10+00:00,2.73,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:25:10+00:00,2.8,3.536,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2493,24.93,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:30:10+00:00,2.87,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:35:10+00:00,2.94,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:40:10+00:00,3.01,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:45:10+00:00,3.08,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:50:10+00:00,3.14,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 06:55:10+00:00,3.21,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:00:10+00:00,3.27,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:05:10+00:00,3.35,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:10:10+00:00,3.4,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:15:10+00:00,3.47,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:20:10+00:00,3.53,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:25:10+00:00,3.6,4.212,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2454,24.54,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:30:10+00:00,3.65,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:35:10+00:00,3.71,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:40:10+00:00,3.77,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:45:10+00:00,3.82,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:50:10+00:00,3.87,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 07:55:10+00:00,3.91,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:00:10+00:00,3.95,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:05:10+00:00,3.99,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:10:10+00:00,4.029999999999999,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:15:10+00:00,4.0600000000000005,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:20:10+00:00,4.08,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:25:10+00:00,4.09,4.406,62,NE,Partly Cloudy,False,7.0,0.0,KPOB,0.2416,24.16,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:30:10+00:00,4.12,4.123,62,NE,Partly Cloudy,False,8.0,0.0,KPOB,0.2378,23.78,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:35:10+00:00,4.140000000000001,4.123,62,NE,Partly Cloudy,False,8.0,0.0,KPOB,0.2378,23.78,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:40:10+00:00,4.140000000000001,4.123,62,NE,Partly Cloudy,False,8.0,0.0,KPOB,0.2378,23.78,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:45:10+00:00,4.15,4.123,62,NE,Partly Cloudy,False,8.0,0.0,KPOB,0.2378,23.78,waxing_crescent,0.0,0.0,0.0
+2026-11-04 08:50:10+00:00,4.15,4.123,62,NE,Partly Cloudy,False,8.0,0.0,KPOB,0.2378,23.78,waxing_crescent,0.0,0.0,0.0
