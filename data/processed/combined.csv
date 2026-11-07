@@ -1,286 +1,4 @@
 t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph,rain_inches,station,illumination,phase_angle,phase_name,rain_24h,rain_72h,rain_7d
-2026-10-08 04:00:10+00:00,0.92,0.336,64,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0703,7.03,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:05:10+00:00,0.8600000000000001,0.336,64,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0703,7.03,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:10:10+00:00,0.78,0.336,64,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0703,7.03,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:15:10+00:00,0.72,0.336,64,NE,Slight Chance Rain Showers,False,10.0,0.0,KW40,0.0703,7.03,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:20:10+00:00,0.6799999999999999,0.336,64,NE,Slight Chance Rain Showers,False,10.0,0.0,KMAO,0.0703,7.03,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:25:10+00:00,0.6399999999999999,0.336,64,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0703,7.03,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:30:10+00:00,0.6200000000000001,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:35:10+00:00,0.5700000000000001,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KW40,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:40:10+00:00,0.53,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:45:10+00:00,0.49,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:50:10+00:00,0.47,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 04:55:10+00:00,0.47,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KMAO,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:00:10+00:00,0.48,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:05:10+00:00,0.48,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:10:10+00:00,0.5,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:15:10+00:00,0.51,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KW40,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:20:10+00:00,0.52,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:25:10+00:00,0.5800000000000001,0.661,63,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.068,6.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:30:10+00:00,0.6599999999999999,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:35:10+00:00,0.71,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KW40,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:40:10+00:00,0.73,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:45:10+00:00,0.77,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:50:10+00:00,0.8400000000000001,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 05:55:10+00:00,0.91,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KMAO,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:00:10+00:00,0.97,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:05:10+00:00,1.03,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:10:10+00:00,1.09,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:15:10+00:00,1.15,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KW40,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:20:10+00:00,1.21,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:25:10+00:00,1.27,1.51,62,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0657,6.57,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:30:10+00:00,1.34,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:35:10+00:00,1.4,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KW40,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:40:10+00:00,1.46,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:45:10+00:00,1.53,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:50:10+00:00,1.59,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 06:55:10+00:00,1.66,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KMAO,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:00:10+00:00,1.72,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:05:10+00:00,1.78,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:10:10+00:00,1.83,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:15:10+00:00,1.9,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KW40,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:20:10+00:00,1.98,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:25:10+00:00,2.04,2.641,61,N,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.0635,6.35,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:30:10+00:00,2.12,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:35:10+00:00,2.19,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KW40,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:40:10+00:00,2.28,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:45:10+00:00,2.35,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:50:10+00:00,2.41,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 07:55:10+00:00,2.49,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KMAO,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:00:10+00:00,2.56,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:05:10+00:00,2.65,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:10:10+00:00,2.73,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:15:10+00:00,2.8,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KW40,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:20:10+00:00,2.88,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:25:10+00:00,2.96,3.777,61,N,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0613,6.13,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:30:10+00:00,3.04,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:35:10+00:00,3.12,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KW40,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:40:10+00:00,3.19,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:45:10+00:00,3.25,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:50:10+00:00,3.34,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 08:55:10+00:00,3.41,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KMAO,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:00:10+00:00,3.48,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:05:10+00:00,3.56,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:10:10+00:00,3.63,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:15:10+00:00,3.72,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KW40,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:20:10+00:00,3.79,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:25:10+00:00,3.85,4.64,60,N,Slight Chance Rain Showers,False,12.0,0.0,KILM,0.0591,5.91,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:30:10+00:00,3.92,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:35:10+00:00,4.0,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:40:10+00:00,4.05,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:45:10+00:00,4.13,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:50:10+00:00,4.19,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 09:55:10+00:00,4.26,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:00:10+00:00,4.32,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:05:10+00:00,4.37,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:10:10+00:00,4.43,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:15:10+00:00,4.49,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:20:10+00:00,4.51,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:25:10+00:00,4.5600000000000005,4.981,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.057,5.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:30:10+00:00,4.6,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:35:10+00:00,4.640000000000001,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:40:10+00:00,4.67,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:45:10+00:00,4.7,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:50:10+00:00,4.73,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 10:55:10+00:00,4.75,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:00:10+00:00,4.76,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:05:10+00:00,4.76,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:10:10+00:00,4.76,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:15:10+00:00,4.76,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:20:10+00:00,4.74,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:25:10+00:00,4.7,4.708,59,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.055,5.5,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:30:10+00:00,4.66,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:35:10+00:00,4.63,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:40:10+00:00,4.5600000000000005,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:45:10+00:00,4.5,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:50:10+00:00,4.45,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 11:55:10+00:00,4.4,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:00:10+00:00,4.33,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:05:10+00:00,4.25,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:10:10+00:00,4.2,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:15:10+00:00,4.140000000000001,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KW40,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:20:10+00:00,4.09,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:25:10+00:00,4.029999999999999,3.93,60,N,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0529,5.29,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:30:10+00:00,3.97,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:35:10+00:00,3.9,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:40:10+00:00,3.85,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:45:10+00:00,3.79,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:50:10+00:00,3.71,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 12:55:10+00:00,3.64,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KW40,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:00:10+00:00,3.58,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:05:10+00:00,3.52,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:10:10+00:00,3.44,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:15:10+00:00,3.37,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KW40,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:20:10+00:00,3.29,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:25:10+00:00,3.22,2.871,62,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0509,5.09,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:30:10+00:00,3.14,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:35:10+00:00,3.0700000000000003,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KW40,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:40:10+00:00,3.0,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:45:10+00:00,2.94,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:50:10+00:00,2.87,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 13:55:10+00:00,2.8,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KW40,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:00:10+00:00,2.72,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:05:10+00:00,2.64,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:10:10+00:00,2.58,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:15:10+00:00,2.49,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KW40,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:20:10+00:00,2.42,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:25:10+00:00,2.34,1.757,66,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.049,4.9,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:30:10+00:00,2.28,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:35:10+00:00,2.2,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KW40,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:40:10+00:00,2.12,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:45:10+00:00,2.05,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:50:10+00:00,1.97,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 14:55:10+00:00,1.91,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:00:10+00:00,1.83,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:05:10+00:00,1.76,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:10:10+00:00,1.68,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:15:10+00:00,1.6,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:20:10+00:00,1.52,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:25:10+00:00,1.44,0.824,70,N,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.047,4.7,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:30:10+00:00,1.37,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:35:10+00:00,1.3,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:40:10+00:00,1.22,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:45:10+00:00,1.14,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:50:10+00:00,1.0699999999999998,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 15:55:10+00:00,0.98,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:00:10+00:00,0.8999999999999999,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:05:10+00:00,0.8300000000000001,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:10:10+00:00,0.75,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:15:10+00:00,0.6699999999999999,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:20:10+00:00,0.5900000000000001,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:25:10+00:00,0.53,0.331,72,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0451,4.51,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:30:10+00:00,0.47,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:35:10+00:00,0.3899999999999999,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:40:10+00:00,0.32,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:45:10+00:00,0.26,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:50:10+00:00,0.2099999999999999,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 16:55:10+00:00,0.1399999999999999,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:00:10+00:00,0.1,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:05:10+00:00,0.07,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:10:10+00:00,0.04,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KILM,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:15:10+00:00,0.04,0.451,73,NE,Slight Chance Rain Showers,True,14.0,0.0,KMAO,0.0433,4.33,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:40:10+00:00,0.09,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:50:10+00:00,0.1899999999999999,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 17:55:10+00:00,0.28,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:00:10+00:00,0.31,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:05:10+00:00,0.3799999999999999,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:10:10+00:00,0.48,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:15:10+00:00,0.56,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:20:10+00:00,0.6299999999999999,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:25:10+00:00,0.7,1.148,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0415,4.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:30:10+00:00,0.76,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:35:10+00:00,0.8300000000000001,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:40:10+00:00,0.8899999999999999,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:45:10+00:00,0.96,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:50:10+00:00,1.04,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 18:55:10+00:00,1.11,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:00:10+00:00,1.1800000000000002,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:05:10+00:00,1.25,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:10:10+00:00,1.33,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:15:10+00:00,1.42,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:20:10+00:00,1.49,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:25:10+00:00,1.58,2.206,74,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.0397,3.97,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:30:10+00:00,1.65,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:35:10+00:00,1.73,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:40:10+00:00,1.82,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:45:10+00:00,1.91,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:50:10+00:00,2.0,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 19:55:10+00:00,2.09,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KMAO,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:00:10+00:00,2.16,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:05:10+00:00,2.24,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:10:10+00:00,2.32,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:15:10+00:00,2.42,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:20:10+00:00,2.48,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:25:10+00:00,2.58,3.358,75,NE,Slight Chance Rain Showers,True,13.0,0.0,KILM,0.038,3.8,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:30:10+00:00,2.67,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:35:10+00:00,2.74,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KMAO,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:40:10+00:00,2.83,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:45:10+00:00,2.91,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:50:10+00:00,2.98,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 20:55:10+00:00,3.06,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KMAO,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:00:10+00:00,3.13,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:05:10+00:00,3.21,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:10:10+00:00,3.3,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:15:10+00:00,3.38,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KMAO,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:20:10+00:00,3.44,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:25:10+00:00,3.51,4.332,74,NE,Slight Chance Rain Showers,True,12.0,0.0,KILM,0.0363,3.63,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:30:10+00:00,3.59,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:35:10+00:00,3.67,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KMAO,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:40:10+00:00,3.76,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:45:10+00:00,3.81,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 21:50:10+00:00,3.89,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:00:10+00:00,4.01,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:05:10+00:00,4.07,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:10:10+00:00,4.13,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:15:10+00:00,4.19,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KMAO,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:20:10+00:00,4.25,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:25:10+00:00,4.3,4.868,74,NE,Slight Chance Rain Showers,False,10.0,0.0,KILM,0.0347,3.47,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:30:10+00:00,4.359999999999999,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:35:10+00:00,4.41,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KMAO,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:40:10+00:00,4.44,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:45:10+00:00,4.49,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:50:10+00:00,4.54,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 22:55:10+00:00,4.58,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KMAO,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:00:10+00:00,4.62,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:05:10+00:00,4.65,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:10:10+00:00,4.67,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:15:10+00:00,4.68,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KMAO,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:20:10+00:00,4.68,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:25:10+00:00,4.67,4.806,72,NE,Slight Chance Rain Showers,False,9.0,0.0,KILM,0.033,3.3,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:30:10+00:00,4.66,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:35:10+00:00,4.640000000000001,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KMAO,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:40:10+00:00,4.609999999999999,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:45:10+00:00,4.57,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:50:10+00:00,4.54,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-08 23:55:10+00:00,4.48,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KMAO,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:00:10+00:00,4.43,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:05:10+00:00,4.390000000000001,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:10:10+00:00,4.33,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:15:10+00:00,4.27,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KMAO,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:20:10+00:00,4.19,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:25:10+00:00,4.140000000000001,4.188,70,NE,Mostly Cloudy,False,8.0,0.0,KILM,0.0315,3.15,waxing_crescent,0.0,0.0,0.0
-2026-10-09 00:30:10+00:00,4.09,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 00:35:10+00:00,4.04,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KMAO,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 00:40:10+00:00,3.96,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 00:45:10+00:00,3.9,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 00:50:10+00:00,3.84,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 00:55:10+00:00,3.77,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KMAO,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:00:10+00:00,3.7,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:05:10+00:00,3.63,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:10:10+00:00,3.56,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:15:10+00:00,3.49,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KMAO,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:20:10+00:00,3.42,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:25:10+00:00,3.35,3.215,68,NE,Mostly Cloudy,False,7.0,0.0,KILM,0.0299,2.99,new,0.0,0.0,0.0
-2026-10-09 01:30:10+00:00,3.29,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 01:35:10+00:00,3.23,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 01:40:10+00:00,3.17,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 01:45:10+00:00,3.09,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 01:50:10+00:00,3.03,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 01:55:10+00:00,2.96,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:00:10+00:00,2.89,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:05:10+00:00,2.82,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:10:10+00:00,2.76,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:15:10+00:00,2.69,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:20:10+00:00,2.62,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:25:10+00:00,2.54,2.113,66,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0285,2.85,new,0.0,0.0,0.0
-2026-10-09 02:30:10+00:00,2.48,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 02:35:10+00:00,2.4,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 02:40:10+00:00,2.32,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 02:45:10+00:00,2.25,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 02:50:10+00:00,2.18,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 02:55:10+00:00,2.1,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:00:10+00:00,2.03,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:05:10+00:00,1.95,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:10:10+00:00,1.88,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:15:10+00:00,1.8,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:20:10+00:00,1.73,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:25:10+00:00,1.64,1.091,65,N,Mostly Cloudy,False,6.0,0.0,KILM,0.027,2.7,new,0.0,0.0,0.0
-2026-10-09 03:30:10+00:00,1.56,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
-2026-10-09 03:35:10+00:00,1.49,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
-2026-10-09 03:40:10+00:00,1.4,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
-2026-10-09 03:45:10+00:00,1.3199999999999998,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
-2026-10-09 03:50:10+00:00,1.24,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
-2026-10-09 03:55:10+00:00,1.15,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
 2026-10-09 04:00:10+00:00,1.08,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
 2026-10-09 04:05:10+00:00,1.02,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
 2026-10-09 04:10:10+00:00,0.95,0.391,64,N,Mostly Cloudy,False,6.0,0.0,KILM,0.0256,2.56,new,0.0,0.0,0.0
@@ -8131,3 +7849,57 @@ t,measured_gauge_height_ft,tide_ft,temperature_f,wind_direction,short_forecast,i
 2026-11-06 20:55:10+00:00,2.95,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
 2026-11-06 21:00:10+00:00,3.0,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
 2026-11-06 21:05:10+00:00,3.06,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
+2026-11-06 21:10:10+00:00,3.1100000000000003,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
+2026-11-06 21:15:10+00:00,3.18,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
+2026-11-06 21:20:10+00:00,3.24,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
+2026-11-06 21:25:10+00:00,3.3,4.044,76,S,Chance Rain Showers,True,8.0,0.0,KILM,0.0601,6.01,waxing_crescent,0.6299212598425186,0.7047244094488176,0.7047244094488176
+2026-11-06 21:30:10+00:00,3.35,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.6417322834645658,0.7165354330708649,0.7165354330708649
+2026-11-06 21:35:10+00:00,3.4,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.653543307086613,0.728346456692912,0.728346456692912
+2026-11-06 21:40:10+00:00,3.46,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.6653543307086602,0.7401574803149592,0.7401574803149592
+2026-11-06 21:45:10+00:00,3.51,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.6771653543307075,0.7519685039370064,0.7519685039370064
+2026-11-06 21:50:10+00:00,3.55,4.328,74,S,Chance Rain Showers,True,7.0,0.0,KILM,0.0581,5.81,waxing_crescent,0.6771653543307075,0.7519685039370064,0.7519685039370064
+2026-11-06 21:55:10+00:00,3.6,4.328,74,S,Chance Rain Showers,True,7.0,0.0,KILM,0.0581,5.81,waxing_crescent,0.6771653543307075,0.7519685039370064,0.7519685039370064
+2026-11-06 22:00:10+00:00,3.64,4.328,74,S,Chance Rain Showers,True,7.0,0.0,KILM,0.0581,5.81,waxing_crescent,0.6771653543307075,0.7519685039370064,0.7519685039370064
+2026-11-06 22:05:10+00:00,3.68,4.328,74,S,Chance Rain Showers,True,7.0,0.0,KILM,0.0581,5.81,waxing_crescent,0.6771653543307075,0.7519685039370064,0.7519685039370064
+2026-11-06 22:10:10+00:00,3.71,4.328,74,S,Chance Rain Showers,True,7.0,0.0,KILM,0.0581,5.81,waxing_crescent,0.6771653543307075,0.7519685039370064,0.7519685039370064
+2026-11-06 22:15:10+00:00,3.74,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.6889763779527546,0.7637795275590537,0.7637795275590537
+2026-11-06 22:20:10+00:00,3.77,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.7007874015748018,0.7755905511811008,0.7755905511811008
+2026-11-06 22:25:10+00:00,3.81,4.328,74,S,Chance Rain Showers,True,7.0,0.0118110236220472,KILM,0.0581,5.81,waxing_crescent,0.712598425196849,0.787401574803148,0.787401574803148
+2026-11-06 22:30:10+00:00,3.83,4.068,71,SW,Chance Rain Showers,False,6.0,0.0118110236220472,KILM,0.0562,5.62,waxing_crescent,0.7244094488188962,0.7992125984251952,0.7992125984251952
+2026-11-06 22:35:10+00:00,3.83,4.068,71,SW,Chance Rain Showers,False,6.0,0.0118110236220472,KILM,0.0562,5.62,waxing_crescent,0.7362204724409435,0.8110236220472424,0.8110236220472424
+2026-11-06 22:40:10+00:00,3.87,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,0.7874015748031481,0.8622047244094471,0.8622047244094471
+2026-11-06 22:45:10+00:00,3.9,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,0.8385826771653528,0.9133858267716518,0.9133858267716518
+2026-11-06 22:50:10+00:00,3.93,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,0.8897637795275575,0.9645669291338566,0.9645669291338566
+2026-11-06 22:55:10+00:00,3.94,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,0.9409448818897622,1.0157480314960612,1.0157480314960612
+2026-11-06 23:00:10+00:00,3.94,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,0.992125984251967,1.0669291338582658,1.0669291338582658
+2026-11-06 23:05:10+00:00,3.94,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,1.0433070866141716,1.1181102362204707,1.1181102362204707
+2026-11-06 23:10:10+00:00,3.93,4.068,71,SW,Chance Rain Showers,False,6.0,0.0511811023622047,KILM,0.0562,5.62,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:15:10+00:00,3.92,4.068,71,SW,Chance Rain Showers,False,6.0,0.0,KILM,0.0562,5.62,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:20:10+00:00,3.89,4.068,71,SW,Chance Rain Showers,False,6.0,0.0,KILM,0.0562,5.62,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:25:10+00:00,3.86,4.068,71,SW,Chance Rain Showers,False,6.0,0.0,KILM,0.0562,5.62,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:30:10+00:00,3.82,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:35:10+00:00,3.77,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:40:10+00:00,3.72,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:45:10+00:00,3.68,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:50:10+00:00,3.63,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0944881889763765,1.1692913385826753,1.1692913385826753
+2026-11-06 23:55:10+00:00,3.58,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0826771653543292,1.1692913385826753,1.1692913385826753
+2026-11-07 00:00:10+00:00,3.53,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.070866141732282,1.1692913385826753,1.1692913385826753
+2026-11-07 00:05:10+00:00,3.47,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:10:10+00:00,3.42,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:15:10+00:00,3.37,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:20:10+00:00,3.3200000000000003,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:25:10+00:00,3.26,3.365,68,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0543,5.43,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:30:10+00:00,3.21,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:35:10+00:00,3.16,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:40:10+00:00,3.1,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:45:10+00:00,3.05,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:50:10+00:00,2.99,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 00:55:10+00:00,2.94,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:00:10+00:00,2.89,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:05:10+00:00,2.84,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:10:10+00:00,2.77,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:15:10+00:00,2.71,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:20:10+00:00,2.65,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:25:10+00:00,2.58,2.416,66,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0524,5.24,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:30:10+00:00,2.53,1.416,65,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0505,5.05,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
+2026-11-07 01:35:10+00:00,2.45,1.416,65,SW,Partly Cloudy,False,5.0,0.0,KILM,0.0505,5.05,waxing_crescent,1.0590551181102348,1.1692913385826753,1.1692913385826753
