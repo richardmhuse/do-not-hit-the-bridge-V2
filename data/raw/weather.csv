@@ -2804,3 +2804,9 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-22 08:00:00+00:00,54,N,Mostly Clear,False,7.0
 2026-11-22 09:00:00+00:00,53,N,Mostly Clear,False,7.0
 2026-11-22 10:00:00+00:00,52,N,Mostly Clear,False,7.0
+2026-11-22 11:00:00+00:00,52,N,Sunny,True,7.0
+2026-11-22 12:00:00+00:00,52,N,Sunny,True,7.0
+2026-11-22 13:00:00+00:00,56,N,Sunny,True,7.0
+2026-11-22 14:00:00+00:00,60,N,Sunny,True,8.0
+2026-11-22 15:00:00+00:00,64,N,Sunny,True,8.0
+2026-11-22 16:00:00+00:00,67,N,Sunny,True,8.0
