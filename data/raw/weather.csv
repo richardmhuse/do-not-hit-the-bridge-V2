@@ -2924,3 +2924,10 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-11-27 08:00:00+00:00,45,NW,Slight Chance Rain Showers,False,7.0
 2026-11-27 09:00:00+00:00,44,NW,Slight Chance Rain Showers,False,8.0
 2026-11-27 10:00:00+00:00,43,NW,Slight Chance Rain Showers,False,8.0
+2026-11-27 11:00:00+00:00,42,NW,Mostly Sunny,True,6.0
+2026-11-27 12:00:00+00:00,43,NW,Mostly Sunny,True,6.0
+2026-11-27 13:00:00+00:00,46,NW,Mostly Sunny,True,6.0
+2026-11-27 14:00:00+00:00,50,NW,Mostly Sunny,True,7.0
+2026-11-27 15:00:00+00:00,54,NW,Mostly Sunny,True,7.0
+2026-11-27 16:00:00+00:00,57,NW,Mostly Sunny,True,7.0
+2026-11-27 17:00:00+00:00,59,NW,Mostly Sunny,True,7.0
