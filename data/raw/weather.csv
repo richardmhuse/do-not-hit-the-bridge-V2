@@ -3029,3 +3029,14 @@ t,temperature_f,wind_direction,short_forecast,is_daytime,wind_speed_mph
 2026-12-01 17:00:00+00:00,61,NE,Mostly Sunny,True,7.0
 2026-12-01 18:00:00+00:00,62,NE,Mostly Sunny,True,7.0
 2026-12-01 19:00:00+00:00,63,NE,Mostly Sunny,True,7.0
+2026-12-01 20:00:00+00:00,61,NE,Mostly Sunny,True,8.0
+2026-12-01 21:00:00+00:00,61,NE,Mostly Sunny,True,8.0
+2026-12-01 22:00:00+00:00,59,NE,Mostly Sunny,True,7.0
+2026-12-01 23:00:00+00:00,57,NE,Partly Cloudy,False,6.0
+2026-12-02 00:00:00+00:00,55,NE,Slight Chance Rain Showers,False,6.0
+2026-12-02 01:00:00+00:00,54,NE,Slight Chance Rain Showers,False,5.0
+2026-12-02 02:00:00+00:00,52,NE,Slight Chance Rain Showers,False,6.0
+2026-12-02 03:00:00+00:00,52,NE,Slight Chance Rain Showers,False,6.0
+2026-12-02 04:00:00+00:00,51,NE,Slight Chance Rain Showers,False,6.0
+2026-12-02 05:00:00+00:00,51,NE,Slight Chance Rain Showers,False,6.0
+2026-12-02 06:00:00+00:00,50,NE,Slight Chance Rain Showers,False,6.0
